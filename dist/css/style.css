@@ -1,0 +1,135 @@
+.App {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+#nav {
+  padding-top: 10px;
+}
+
+#search {
+  max-width: 34px;
+  margin-right: 12px;
+}
+
+* {
+  box-sizing: border-box
+}
+
+.place-holder {
+  margin-top: 20px;
+  text-align: center;
+  color: grey;
+}
+
+#place-h-text {
+  margin-top: 50px;
+}
+
+html {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-family: 'Dosis', sans-serif;
+  line-height: 1.6;
+  color: #666;
+  background: #F6F6F6;
+}
+
+h6 {
+  text-align: center;
+  padding: 1rem;
+  background-image: linear-gradient(120deg, #fbc2eb 0%, #a6c1ee 100%);
+  margin: 0 0 2rem 0;
+  font-size: 1.5rem;
+  color: white;
+}
+
+img {
+  max-width: 100%;
+}
+
+.img-card {
+  margin: 1rem auto;
+  margin-top: 0;
+}
+
+#heart-icon {
+  position: absolute;
+  left: 120px;
+}
+
+.img-container {
+  max-width: 500px;
+}
+
+#card-img {
+  max-width: 420px;
+  margin: 1rem;
+  background: white;
+  box-shadow: 2px 4px 25px pink;
+  border-radius: 10px;
+}
+
+.cards-contents {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.rating-bottom {
+  position: absolute;
+  bottom: 0;
+}
+
+.card-container {
+  margin-top: 30px;
+}
+
+.card-title {
+  margin-top: 28px;
+  color: grey;
+}
+
+.card {
+  margin: 1rem;
+  background: white;
+  box-shadow: 2px 4px 25px pink;
+  border-radius: 10px;
+}
+
+.up-pad {
+  padding-bottom: 20px;
+}
+
+.card:hover {
+  box-shadow: 2px 8px 45px rgba(0, 0, 0, .15);
+  transform: translate3D(0, -2px, 0);
+}
+
+#stars {
+  position: absolute;
+  left: 32%;
+}
+
+@media screen and (max-width: 319px) {
+  .card {
+    flex: 1 1 calc(100% - 2rem);
+  }
+}
+
+@media screen and (min-width: 320px) {
+  .card {
+    flex: 1 1 calc(50% - 2rem);
+  }
+}
+
+@media screen and (min-width: 768px) {
+  .card {
+    flex: 1 1 calc(33% - 2rem);
+  }
+}
+
+@media screen and (min-width: 1280px) {
+  .card {
+    flex: 1 1 calc(25% - 2rem);
+  }
+}

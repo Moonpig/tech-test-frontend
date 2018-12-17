@@ -1,0 +1,61 @@
+{
+  "name": "moonpig-dev",
+  "version": "0.2.0",
+  "description": "moonpig dev exercise",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start": "node server/server.js",
+    "start-w": "nodemon -w server/server.js server/server.js",
+    "dev": "webpack --mode development",
+    "dev-w": "webpack --mode development --watch",
+    "build": "webpack --mode production"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Leigh-M/moonpig-dev.git"
+  },
+  "keywords": [
+    "JavaScript",
+    "React"
+  ],
+  "author": "Leigh Mathieson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Leigh-M/moonpig-dev/issues"
+  },
+  "homepage": "https://github.com/Leigh-M/moonpig-dev#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "react": "^16.6.3",
+    "react-dom": "^16.6.3",
+    "react-router-dom": "^4.3.1",
+    "react-stars": "^2.2.5",
+    "request": "^2.88.0"
+  },
+  "devDependencies": {
+    "@babel/core": "7.2.0",
+    "@babel/preset-env": "^7.2.0",
+    "@babel/preset-react": "^7.0.0",
+    "babel": "^6.23.0",
+    "babel-cli": "^6.26.0",
+    "babel-loader": "^8.0.4",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-react": "^6.24.1",
+    "eslint-plugin-import": "^2.14.0",
+    "eslint-plugin-react": "^7.11.1",
+    "nodemon": "^1.18.9",
+    "webpack": "^4.27.1",
+    "webpack-cli": "^3.1.2"
+  },
+  "eslintConfig": {
+    "env": {
+      "browser": true,
+      "node": true
+    },
+    "plugins": [
+      "react",
+      "import"
+    ]
+  }
+}
