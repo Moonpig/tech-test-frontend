@@ -28,7 +28,7 @@ Possible ideas for extension are the ability to search, routing, pagination, res
 ### Search Cards
 
 ```
-curl "https://search.moonpig.com/api/products?size=12&fq=card_shop_id:1&searchFacets=occasion_level_3:occasion%3Ewell%20done%3Enew%20job"
+curl "https://search.moonpig.com/api/products?size=20&fq=card_shop_id:1"
 ```
 
 ### View Card
