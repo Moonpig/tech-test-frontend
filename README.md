@@ -7,7 +7,7 @@ We've been asked to rebuild the Moonpig website using the latest best practices 
 
 It should meet the following use cases:
 
-> As a customer I can view a list of availble cards on my mobile, tablet and desktop so that I can celebrate my new job
+> As a customer I can view a list of available cards on my mobile, tablet and desktop so that I can celebrate my new job
 
 > As a customer I can view more details of a card so that I can decide it's the right card for me before purchase
 
