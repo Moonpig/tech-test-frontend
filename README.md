@@ -1,5 +1,4 @@
-
-![alt text](img/moonpig-logo.png "Moonpig")
+![alt text](img/moonpig-logo.png 'Moonpig')
 
 # Frontend Technical Challenge
 
@@ -15,11 +14,11 @@ It should meet the following use cases:
 
 ### Card Listings Page
 
-![Card listings page wireframe](img/wireframe1.png "Card listings page wireframe")
+![Card listings page wireframe](img/wireframe1.png 'Card listings page wireframe')
 
 ### Card Details Page
 
-![Card details page wireframe](img/wireframe2.png "Card details page wireframe")
+![Card details page wireframe](img/wireframe2.png 'Card details page wireframe')
 
 Possible ideas for extension are the ability to search, routing, pagination, responsive images and animation. However, doing less "well" is preferable to doing more "less well" 😉. We also appreciate that your free time is important. Therefore if you feel your code is unfinished please leave some notes in your README.md explaining what you would do next given more time. We are more than happy to review this.
 
@@ -38,6 +37,8 @@ curl "https://www.moonpig.com/uk/api/product/product/?mpn=pu1162"
 ```
 
 > Note: replace `pu1162` with the variable `MoonpigProductNo` from the first API call
+
+Something which is likely to catch you out will be the CORS restrictions imposed by the browser, you can use something along the lines of https://github.com/Rob--W/cors-anywhere/#client in order to work around this restriction.
 
 ## Tools, libraries and frameworks
 
