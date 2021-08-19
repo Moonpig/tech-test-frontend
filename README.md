@@ -41,7 +41,7 @@ curl "https://www.moonpig.com/uk/api/product/product/?mpn=pu1162"
 
 ## Tools, libraries and frameworks
 
-We use React at Moonpig so ideally the exercise would also be written in React. However, it's not a deal breaker and we are happy to receive exercises written with your library of choice or even vanilla JS.
+At Moonpig we are heavily invested in React and its surrounding ecosystem. Therefore when completing the exercise we would like to see you use React if you are going to use a framework.
 
 Primarily we will be looking at the application code itself - so it's fine to use something like [Parcel](https://parceljs.org/) or [Create React App](https://github.com/facebook/create-react-app) to bootstrap your build. But if tooling is your thing, there's bonus points for rolling your own build system with Webpack, Babel etc.
 
