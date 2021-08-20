@@ -1,5 +1,4 @@
-
-![alt text](img/moonpig-logo.png "Moonpig")
+![alt text](img/moonpig-logo.png 'Moonpig')
 
 # Frontend Technical Challenge
 
@@ -15,11 +14,11 @@ It should meet the following use cases:
 
 ### Card Listings Page
 
-![Card listings page wireframe](img/wireframe1.png "Card listings page wireframe")
+![Card listings page wireframe](img/wireframe1.png 'Card listings page wireframe')
 
 ### Card Details Page
 
-![Card details page wireframe](img/wireframe2.png "Card details page wireframe")
+![Card details page wireframe](img/wireframe2.png 'Card details page wireframe')
 
 Possible ideas for extension are the ability to search, routing, pagination, responsive images and animation. However, doing less "well" is preferable to doing more "less well" 😉. We also appreciate that your free time is important. Therefore if you feel your code is unfinished please leave some notes in your README.md explaining what you would do next given more time. We are more than happy to review this.
 
@@ -39,9 +38,11 @@ curl "https://www.moonpig.com/uk/api/product/product/?mpn=pu1162"
 
 > Note: replace `pu1162` with the variable `MoonpigProductNo` from the first API call
 
+Something which is likely to catch you out will be the CORS restrictions imposed by the browser, you can use something along the lines of https://github.com/Rob--W/cors-anywhere/#client in order to work around this restriction.
+
 ## Tools, libraries and frameworks
 
-We use React at Moonpig so ideally the exercise would also be written in React. However, it's not a deal breaker and we are happy to receive exercises written with your library of choice or even vanilla JS.
+At Moonpig we are heavily invested in React and its surrounding ecosystem. Therefore when completing the exercise we would like to see you use React if you are going to use a framework.
 
 Primarily we will be looking at the application code itself - so it's fine to use something like [Parcel](https://parceljs.org/) or [Create React App](https://github.com/facebook/create-react-app) to bootstrap your build. But if tooling is your thing, there's bonus points for rolling your own build system with Webpack, Babel etc.
 
