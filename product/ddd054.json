@@ -109,19 +109,19 @@
   "ImageUrls": [
     {
       "ImageNo": 1,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/DDD054/1"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/ddd054/0.jpg"
     },
     {
       "ImageNo": 2,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/DDD054/2"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/ddd054/1.jpg"
     },
     {
       "ImageNo": 3,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/DDD054/3"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/ddd054/2.jpg"
     },
     {
       "ImageNo": 4,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/DDD054/4"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/ddd054/3.jpg"
     }
   ],
   "IsCustomisable": true,
@@ -129,7 +129,7 @@
     "Default": false,
     "Quality": 0
   },
-  "MoonpigProductNo": "DDD054",
+  "MoonpigProductNo": "ddd054",
   "Pages": [
     {
       "PageNo": 1,
@@ -245,7 +245,7 @@
   },
   "SoldOut": false,
   "SupplierNo": "345A",
-  "ThumbnailUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/DDD054",
+  "ThumbnailUrl": "https://moonpig.github.io/tech-test-frontend/image/ddd054/0.jpg",
   "Title": "Personalised Dad's Birthday Card.",
   "AdditionalInfo": "Personalised Dad's Birthday Card.",
   "IsMultipack": false,

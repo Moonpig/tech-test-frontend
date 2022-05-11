@@ -109,19 +109,19 @@
   "ImageUrls": [
     {
       "ImageNo": 1,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/TW892/1"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/tw892/0.jpg"
     },
     {
       "ImageNo": 2,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/TW892/2"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/tw892/1.jpg"
     },
     {
       "ImageNo": 3,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/TW892/3"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/tw892/2.jpg"
     },
     {
       "ImageNo": 4,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/TW892/4"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/tw892/3.jpg"
     }
   ],
   "IsCustomisable": true,
@@ -129,7 +129,7 @@
     "Default": false,
     "Quality": 0
   },
-  "MoonpigProductNo": "TW892",
+  "MoonpigProductNo": "tw892",
   "Pages": [
     {
       "PageNo": 1,
@@ -245,7 +245,7 @@
   },
   "SoldOut": false,
   "SupplierNo": "",
-  "ThumbnailUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/TW892",
+  "ThumbnailUrl": "https://moonpig.github.io/tech-test-frontend/image/tw892/0.jpg",
   "Title": "Phone Calls Funny Caption Personalised Happy Father's Day Card",
   "AdditionalInfo": "Phone Calls Funny Caption Personalised Happy Father's Day Card",
   "IsMultipack": false,

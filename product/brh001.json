@@ -9,19 +9,19 @@
   "ImageUrls": [
     {
       "ImageNo": 1,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/BRH001/1"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/brh001/0.jpg"
     },
     {
       "ImageNo": 2,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/BRH001/2"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/brh001/1.jpg"
     },
     {
       "ImageNo": 3,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/BRH001/3"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/brh001/2.jpg"
     },
     {
       "ImageNo": 4,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/BRH001/4"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/brh001/3.jpg"
     }
   ],
   "IsCustomisable": true,
@@ -29,7 +29,7 @@
     "Default": false,
     "Quality": 0
   },
-  "MoonpigProductNo": "BRH001",
+  "MoonpigProductNo": "brh001",
   "Pages": [
     {
       "PageNo": 1,
@@ -145,7 +145,7 @@
   },
   "SoldOut": true,
   "SupplierNo": "",
-  "ThumbnailUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/BRH001",
+  "ThumbnailUrl": "https://moonpig.github.io/tech-test-frontend/image/brh001/0.jpg",
   "Title": "Mattel Barbie Bring The 80S Back Funny Card",
   "AdditionalInfo": "Mattel Barbie Bring The 80S Back Funny Card",
   "IsMultipack": false,

@@ -109,19 +109,19 @@
   "ImageUrls": [
     {
       "ImageNo": 1,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/TW918/1"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/tw918/0.jpg"
     },
     {
       "ImageNo": 2,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/TW918/2"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/tw918/1.jpg"
     },
     {
       "ImageNo": 3,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/TW918/3"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/tw918/2.jpg"
     },
     {
       "ImageNo": 4,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/TW918/4"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/tw918/3.jpg"
     }
   ],
   "IsCustomisable": true,
@@ -129,7 +129,7 @@
     "Default": false,
     "Quality": 0
   },
-  "MoonpigProductNo": "TW918",
+  "MoonpigProductNo": "tw918",
   "Pages": [
     {
       "PageNo": 1,
@@ -245,7 +245,7 @@
   },
   "SoldOut": false,
   "SupplierNo": "TW918",
-  "ThumbnailUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/TW918",
+  "ThumbnailUrl": "https://moonpig.github.io/tech-test-frontend/image/tw918/0.jpg",
   "Title": "Drink Too Much Birthday Card",
   "AdditionalInfo": "Drink Too Much Birthday Card",
   "IsMultipack": false,

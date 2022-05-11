@@ -109,19 +109,19 @@
   "ImageUrls": [
     {
       "ImageNo": 1,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/ACS051/1"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/acs051/0.jpg"
     },
     {
       "ImageNo": 2,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/ACS051/2"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/acs051/1.jpg"
     },
     {
       "ImageNo": 3,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/ACS051/3"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/acs051/2.jpg"
     },
     {
       "ImageNo": 4,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/ACS051/4"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/acs051/3.jpg"
     }
   ],
   "IsCustomisable": true,
@@ -129,7 +129,7 @@
     "Default": false,
     "Quality": 0
   },
-  "MoonpigProductNo": "ACS051",
+  "MoonpigProductNo": "acs051",
   "Pages": [
     {
       "PageNo": 1,
@@ -245,7 +245,7 @@
   },
   "SoldOut": false,
   "SupplierNo": "ACS051",
-  "ThumbnailUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/ACS051",
+  "ThumbnailUrl": "https://moonpig.github.io/tech-test-frontend/image/acs051/0.jpg",
   "Title": "The Daddy Of All Daddies Photo Upload Card",
   "AdditionalInfo": "The Daddy Of All Daddies Photo Upload Card",
   "IsMultipack": false,

@@ -43,19 +43,19 @@
   "ImageUrls": [
     {
       "ImageNo": 1,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/MFH002/1"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/mfh002/0.jpg"
     },
     {
       "ImageNo": 2,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/MFH002/2"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/mfh002/1.jpg"
     },
     {
       "ImageNo": 3,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/MFH002/3"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/mfh002/2.jpg"
     },
     {
       "ImageNo": 4,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/MFH002/4"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/mfh002/3.jpg"
     }
   ],
   "IsCustomisable": true,
@@ -63,7 +63,7 @@
     "Default": false,
     "Quality": 0
   },
-  "MoonpigProductNo": "MFH002",
+  "MoonpigProductNo": "mfh002",
   "Pages": [
     {
       "PageNo": 1,
@@ -179,7 +179,7 @@
   },
   "SoldOut": false,
   "SupplierNo": "MFH002",
-  "ThumbnailUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/MFH002",
+  "ThumbnailUrl": "https://moonpig.github.io/tech-test-frontend/image/mfh002/0.jpg",
   "Title": "From The Pet Youre The Best Dad Photo Card",
   "AdditionalInfo": "From The Pet Youre The Best Dad Photo Card",
   "IsMultipack": false,

@@ -109,19 +109,19 @@
   "ImageUrls": [
     {
       "ImageNo": 1,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/OK009/1"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/ok009/0.jpg"
     },
     {
       "ImageNo": 2,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/OK009/2"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/ok009/1.jpg"
     },
     {
       "ImageNo": 3,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/OK009/3"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/ok009/2.jpg"
     },
     {
       "ImageNo": 4,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/OK009/4"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/ok009/3.jpg"
     }
   ],
   "IsCustomisable": true,
@@ -129,7 +129,7 @@
     "Default": false,
     "Quality": 0
   },
-  "MoonpigProductNo": "OK009",
+  "MoonpigProductNo": "ok009",
   "Pages": [
     {
       "PageNo": 1,
@@ -245,7 +245,7 @@
   },
   "SoldOut": false,
   "SupplierNo": "OK009",
-  "ThumbnailUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/OK009",
+  "ThumbnailUrl": "https://moonpig.github.io/tech-test-frontend/image/ok009/0.jpg",
   "Title": "Birthday Card - Unicorn & Rainbow Birthday Card",
   "AdditionalInfo": "Birthday Card - Unicorn & Rainbow Birthday Card",
   "IsMultipack": false,

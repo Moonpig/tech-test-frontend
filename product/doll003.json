@@ -43,19 +43,19 @@
   "ImageUrls": [
     {
       "ImageNo": 1,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/DOLL003/1"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/doll003/0.jpg"
     },
     {
       "ImageNo": 2,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/DOLL003/2"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/doll003/1.jpg"
     },
     {
       "ImageNo": 3,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/DOLL003/3"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/doll003/2.jpg"
     },
     {
       "ImageNo": 4,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/DOLL003/4"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/doll003/3.jpg"
     }
   ],
   "IsCustomisable": true,
@@ -63,7 +63,7 @@
     "Default": false,
     "Quality": 0
   },
-  "MoonpigProductNo": "DOLL003",
+  "MoonpigProductNo": "doll003",
   "Pages": [
     {
       "PageNo": 1,
@@ -179,7 +179,7 @@
   },
   "SoldOut": false,
   "SupplierNo": "",
-  "ThumbnailUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/DOLL003",
+  "ThumbnailUrl": "https://moonpig.github.io/tech-test-frontend/image/doll003/0.jpg",
   "Title": "Sexual Dysfunction Barbie Doll Card",
   "AdditionalInfo": "Sexual Dysfunction Barbie Doll Card",
   "IsMultipack": false,

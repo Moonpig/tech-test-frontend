@@ -109,19 +109,19 @@
   "ImageUrls": [
     {
       "ImageNo": 1,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/WYW025/1"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/wyw025/0.jpg"
     },
     {
       "ImageNo": 2,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/WYW025/2"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/wyw025/1.jpg"
     },
     {
       "ImageNo": 3,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/WYW025/3"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/wyw025/2.jpg"
     },
     {
       "ImageNo": 4,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/WYW025/4"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/wyw025/3.jpg"
     }
   ],
   "IsCustomisable": true,
@@ -129,7 +129,7 @@
     "Default": false,
     "Quality": 0
   },
-  "MoonpigProductNo": "WYW025",
+  "MoonpigProductNo": "wyw025",
   "Pages": [
     {
       "PageNo": 1,
@@ -245,7 +245,7 @@
   },
   "SoldOut": false,
   "SupplierNo": "WYW025",
-  "ThumbnailUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/WYW025",
+  "ThumbnailUrl": "https://moonpig.github.io/tech-test-frontend/image/wyw025/0.jpg",
   "Title": "Funny Birthday card - Here's wishing you a birthday that wucking fonderful!",
   "AdditionalInfo": "Funny Birthday card - Here's wishing you a birthday that wucking fonderful!",
   "IsMultipack": false,

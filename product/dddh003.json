@@ -109,19 +109,19 @@
   "ImageUrls": [
     {
       "ImageNo": 1,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/DDDH003/1"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/dddh003/0.jpg"
     },
     {
       "ImageNo": 2,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/DDDH003/2"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/dddh003/1.jpg"
     },
     {
       "ImageNo": 3,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/DDDH003/3"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/dddh003/2.jpg"
     },
     {
       "ImageNo": 4,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/DDDH003/4"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/dddh003/3.jpg"
     }
   ],
   "IsCustomisable": true,
@@ -129,7 +129,7 @@
     "Default": false,
     "Quality": 0
   },
-  "MoonpigProductNo": "DDDH003",
+  "MoonpigProductNo": "dddh003",
   "Pages": [
     {
       "PageNo": 1,
@@ -245,7 +245,7 @@
   },
   "SoldOut": false,
   "SupplierNo": "DDDH003",
-  "ThumbnailUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/DDDH003",
+  "ThumbnailUrl": "https://moonpig.github.io/tech-test-frontend/image/dddh003/0.jpg",
   "Title": "Haynes guide to brothers (vintage models) - owner's workshop manual - happy birthday - photo upload",
   "AdditionalInfo": "Haynes guide to brothers (vintage models) - owner's workshop manual - happy birthday - photo upload",
   "IsMultipack": false,

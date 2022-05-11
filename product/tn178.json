@@ -109,19 +109,19 @@
   "ImageUrls": [
     {
       "ImageNo": 1,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/TN178/1"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/tn178/0.jpg"
     },
     {
       "ImageNo": 2,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/TN178/2"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/tn178/1.jpg"
     },
     {
       "ImageNo": 3,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/TN178/3"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/tn178/2.jpg"
     },
     {
       "ImageNo": 4,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/TN178/4"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/tn178/3.jpg"
     }
   ],
   "IsCustomisable": true,
@@ -129,7 +129,7 @@
     "Default": false,
     "Quality": 0
   },
-  "MoonpigProductNo": "TN178",
+  "MoonpigProductNo": "tn178",
   "Pages": [
     {
       "PageNo": 1,
@@ -245,7 +245,7 @@
   },
   "SoldOut": false,
   "SupplierNo": "18 TODAY",
-  "ThumbnailUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/TN178",
+  "ThumbnailUrl": "https://moonpig.github.io/tech-test-frontend/image/tn178/0.jpg",
   "Title": "Newspaper Spoof 18st Birthday Card",
   "AdditionalInfo": "Newspaper Spoof 18st Birthday Card",
   "IsMultipack": false,

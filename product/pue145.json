@@ -109,19 +109,19 @@
   "ImageUrls": [
     {
       "ImageNo": 1,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PUE145/1"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/pue145/0.jpg"
     },
     {
       "ImageNo": 2,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PUE145/2"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/pue145/1.jpg"
     },
     {
       "ImageNo": 3,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PUE145/3"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/pue145/2.jpg"
     },
     {
       "ImageNo": 4,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PUE145/4"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/pue145/3.jpg"
     }
   ],
   "IsCustomisable": true,
@@ -129,7 +129,7 @@
     "Default": false,
     "Quality": 0
   },
-  "MoonpigProductNo": "PUE145",
+  "MoonpigProductNo": "pue145",
   "Pages": [
     {
       "PageNo": 1,
@@ -245,7 +245,7 @@
   },
   "SoldOut": false,
   "SupplierNo": "L/scape 4 photos",
-  "ThumbnailUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PUE145",
+  "ThumbnailUrl": "https://moonpig.github.io/tech-test-frontend/image/pue145/0.jpg",
   "Title": "Multi Photo Upload Card",
   "AdditionalInfo": "Multi Photo Upload Card",
   "IsMultipack": false,

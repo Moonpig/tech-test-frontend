@@ -109,19 +109,19 @@
   "ImageUrls": [
     {
       "ImageNo": 1,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/VV623/1"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/vv623/0.jpg"
     },
     {
       "ImageNo": 2,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/VV623/2"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/vv623/1.jpg"
     },
     {
       "ImageNo": 3,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/VV623/3"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/vv623/2.jpg"
     },
     {
       "ImageNo": 4,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/VV623/4"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/vv623/3.jpg"
     }
   ],
   "IsCustomisable": true,
@@ -129,7 +129,7 @@
     "Default": false,
     "Quality": 0
   },
-  "MoonpigProductNo": "VV623",
+  "MoonpigProductNo": "vv623",
   "Pages": [
     {
       "PageNo": 1,
@@ -245,7 +245,7 @@
   },
   "SoldOut": false,
   "SupplierNo": "Windscreen",
-  "ThumbnailUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/VV623",
+  "ThumbnailUrl": "https://moonpig.github.io/tech-test-frontend/image/vv623/0.jpg",
   "Title": "Funny Father's Day Cards - Personalised",
   "AdditionalInfo": "Funny Father's Day Cards - Personalised",
   "IsMultipack": false,

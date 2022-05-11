@@ -109,19 +109,19 @@
   "ImageUrls": [
     {
       "ImageNo": 1,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PUE337/1"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/pue337/0.jpg"
     },
     {
       "ImageNo": 2,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PUE337/2"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/pue337/1.jpg"
     },
     {
       "ImageNo": 3,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PUE337/3"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/pue337/2.jpg"
     },
     {
       "ImageNo": 4,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PUE337/4"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/pue337/3.jpg"
     }
   ],
   "IsCustomisable": true,
@@ -129,7 +129,7 @@
     "Default": false,
     "Quality": 0
   },
-  "MoonpigProductNo": "PUE337",
+  "MoonpigProductNo": "pue337",
   "Pages": [
     {
       "PageNo": 1,
@@ -245,7 +245,7 @@
   },
   "SoldOut": false,
   "SupplierNo": "PUE337",
-  "ThumbnailUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PUE337",
+  "ThumbnailUrl": "https://moonpig.github.io/tech-test-frontend/image/pue337/0.jpg",
   "Title": "50th Birthday Photo Upload Card",
   "AdditionalInfo": "50th Birthday Photo Upload Card",
   "IsMultipack": false,

@@ -109,19 +109,19 @@
   "ImageUrls": [
     {
       "ImageNo": 1,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PUF087/1"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/puf087/0.jpg"
     },
     {
       "ImageNo": 2,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PUF087/2"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/puf087/1.jpg"
     },
     {
       "ImageNo": 3,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PUF087/3"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/puf087/2.jpg"
     },
     {
       "ImageNo": 4,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PUF087/4"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/puf087/3.jpg"
     }
   ],
   "IsCustomisable": true,
@@ -129,7 +129,7 @@
     "Default": false,
     "Quality": 0
   },
-  "MoonpigProductNo": "PUF087",
+  "MoonpigProductNo": "puf087",
   "Pages": [
     {
       "PageNo": 1,
@@ -245,7 +245,7 @@
   },
   "SoldOut": false,
   "SupplierNo": "Blue Collage",
-  "ThumbnailUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PUF087",
+  "ThumbnailUrl": "https://moonpig.github.io/tech-test-frontend/image/puf087/0.jpg",
   "Title": "Blue Vertical And Horizontal Grid Photo Upload Happy Father's Day Card",
   "AdditionalInfo": "Blue Vertical And Horizontal Grid Photo Upload Happy Father's Day Card",
   "IsMultipack": false,

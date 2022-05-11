@@ -109,19 +109,19 @@
   "ImageUrls": [
     {
       "ImageNo": 1,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/MV270/1"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/mv270/0.jpg"
     },
     {
       "ImageNo": 2,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/MV270/2"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/mv270/1.jpg"
     },
     {
       "ImageNo": 3,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/MV270/3"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/mv270/2.jpg"
     },
     {
       "ImageNo": 4,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/MV270/4"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/mv270/3.jpg"
     }
   ],
   "IsCustomisable": true,
@@ -129,7 +129,7 @@
     "Default": false,
     "Quality": 0
   },
-  "MoonpigProductNo": "MV270",
+  "MoonpigProductNo": "mv270",
   "Pages": [
     {
       "PageNo": 1,
@@ -245,7 +245,7 @@
   },
   "SoldOut": false,
   "SupplierNo": "10 Things I Love About You",
-  "ThumbnailUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/MV270",
+  "ThumbnailUrl": "https://moonpig.github.io/tech-test-frontend/image/mv270/0.jpg",
   "Title": "Cute Anniversary Card - Movies - Film - Photo Upload",
   "AdditionalInfo": "Cute Anniversary Card - Movies - Film - Photo Upload",
   "IsMultipack": false,

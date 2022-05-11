@@ -109,19 +109,19 @@
   "ImageUrls": [
     {
       "ImageNo": 1,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/WAS005/1"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/was005/0.jpg"
     },
     {
       "ImageNo": 2,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/WAS005/2"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/was005/1.jpg"
     },
     {
       "ImageNo": 3,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/WAS005/3"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/was005/2.jpg"
     },
     {
       "ImageNo": 4,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/WAS005/4"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/was005/3.jpg"
     }
   ],
   "IsCustomisable": true,
@@ -129,7 +129,7 @@
     "Default": false,
     "Quality": 0
   },
-  "MoonpigProductNo": "WAS005",
+  "MoonpigProductNo": "was005",
   "Pages": [
     {
       "PageNo": 1,
@@ -245,7 +245,7 @@
   },
   "SoldOut": false,
   "SupplierNo": "",
-  "ThumbnailUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/WAS005",
+  "ThumbnailUrl": "https://moonpig.github.io/tech-test-frontend/image/was005/0.jpg",
   "Title": "The Most Incredible Grandad Father's Day Card",
   "AdditionalInfo": "The Most Incredible Grandad Father's Day Card",
   "IsMultipack": false,

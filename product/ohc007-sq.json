@@ -43,19 +43,19 @@
   "ImageUrls": [
     {
       "ImageNo": 1,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/OHC007-SQ/1"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/ohc007-sq/0.jpg"
     },
     {
       "ImageNo": 2,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/OHC007-SQ/2"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/ohc007-sq/1.jpg"
     },
     {
       "ImageNo": 3,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/OHC007-SQ/3"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/ohc007-sq/2.jpg"
     },
     {
       "ImageNo": 4,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/OHC007-SQ/4"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/ohc007-sq/3.jpg"
     }
   ],
   "IsCustomisable": true,
@@ -63,7 +63,7 @@
     "Default": false,
     "Quality": 0
   },
-  "MoonpigProductNo": "OHC007-SQ",
+  "MoonpigProductNo": "ohc007-sq",
   "Pages": [
     {
       "PageNo": 1,
@@ -179,7 +179,7 @@
   },
   "SoldOut": false,
   "SupplierNo": "",
-  "ThumbnailUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/OHC007-SQ",
+  "ThumbnailUrl": "https://moonpig.github.io/tech-test-frontend/image/ohc007-sq/0.jpg",
   "Title": "Colourful Confetti Photo And Personalised Text Square Card",
   "AdditionalInfo": "Colourful Confetti Photo And Personalised Text Square Card",
   "IsMultipack": false,

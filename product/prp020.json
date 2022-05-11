@@ -109,19 +109,19 @@
   "ImageUrls": [
     {
       "ImageNo": 1,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PRP020/1"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/prp020/0.jpg"
     },
     {
       "ImageNo": 2,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PRP020/2"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/prp020/1.jpg"
     },
     {
       "ImageNo": 3,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PRP020/3"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/prp020/2.jpg"
     },
     {
       "ImageNo": 4,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PRP020/4"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/prp020/3.jpg"
     }
   ],
   "IsCustomisable": true,
@@ -129,7 +129,7 @@
     "Default": false,
     "Quality": 0
   },
-  "MoonpigProductNo": "PRP020",
+  "MoonpigProductNo": "prp020",
   "Pages": [
     {
       "PageNo": 1,
@@ -245,7 +245,7 @@
   },
   "SoldOut": false,
   "SupplierNo": "",
-  "ThumbnailUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PRP020",
+  "ThumbnailUrl": "https://moonpig.github.io/tech-test-frontend/image/prp020/0.jpg",
   "Title": "Happy 40th Birthday Card - Photo Birthday Card For Men",
   "AdditionalInfo": "Happy 40th Birthday Card - Photo Birthday Card For Men",
   "IsMultipack": false,

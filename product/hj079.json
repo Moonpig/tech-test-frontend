@@ -109,19 +109,19 @@
   "ImageUrls": [
     {
       "ImageNo": 1,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/HJ079/1"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/hj079/0.jpg"
     },
     {
       "ImageNo": 2,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/HJ079/2"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/hj079/1.jpg"
     },
     {
       "ImageNo": 3,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/HJ079/3"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/hj079/2.jpg"
     },
     {
       "ImageNo": 4,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/HJ079/4"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/hj079/3.jpg"
     }
   ],
   "IsCustomisable": true,
@@ -129,7 +129,7 @@
     "Default": false,
     "Quality": 0
   },
-  "MoonpigProductNo": "HJ079",
+  "MoonpigProductNo": "hj079",
   "Pages": [
     {
       "PageNo": 1,
@@ -245,7 +245,7 @@
   },
   "SoldOut": false,
   "SupplierNo": "",
-  "ThumbnailUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/HJ079",
+  "ThumbnailUrl": "https://moonpig.github.io/tech-test-frontend/image/hj079/0.jpg",
   "Title": "Blue With Age Comes Wisdom Personalised Photo Upload Happy Birthday Card",
   "AdditionalInfo": "Blue With Age Comes Wisdom Personalised Photo Upload Happy Birthday Card",
   "IsMultipack": false,

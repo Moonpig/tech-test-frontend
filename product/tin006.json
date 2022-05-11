@@ -43,19 +43,19 @@
   "ImageUrls": [
     {
       "ImageNo": 1,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/TIN006/1"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/tin006/0.jpg"
     },
     {
       "ImageNo": 2,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/TIN006/2"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/tin006/1.jpg"
     },
     {
       "ImageNo": 3,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/TIN006/3"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/tin006/2.jpg"
     },
     {
       "ImageNo": 4,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/TIN006/4"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/tin006/3.jpg"
     }
   ],
   "IsCustomisable": true,
@@ -63,7 +63,7 @@
     "Default": false,
     "Quality": 0
   },
-  "MoonpigProductNo": "TIN006",
+  "MoonpigProductNo": "tin006",
   "Pages": [
     {
       "PageNo": 1,
@@ -179,7 +179,7 @@
   },
   "SoldOut": false,
   "SupplierNo": "",
-  "ThumbnailUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/TIN006",
+  "ThumbnailUrl": "https://moonpig.github.io/tech-test-frontend/image/tin006/0.jpg",
   "Title": "Friends Good Time Share Personalised Happy Birthday Card",
   "AdditionalInfo": "Friends Good Time Share Personalised Happy Birthday Card",
   "IsMultipack": false,

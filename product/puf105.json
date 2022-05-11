@@ -109,19 +109,19 @@
   "ImageUrls": [
     {
       "ImageNo": 1,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PUF105/1"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/puf105/0.jpg"
     },
     {
       "ImageNo": 2,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PUF105/2"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/puf105/1.jpg"
     },
     {
       "ImageNo": 3,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PUF105/3"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/puf105/2.jpg"
     },
     {
       "ImageNo": 4,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PUF105/4"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/puf105/3.jpg"
     }
   ],
   "IsCustomisable": true,
@@ -129,7 +129,7 @@
     "Default": false,
     "Quality": 0
   },
-  "MoonpigProductNo": "PUF105",
+  "MoonpigProductNo": "puf105",
   "Pages": [
     {
       "PageNo": 1,
@@ -245,7 +245,7 @@
   },
   "SoldOut": false,
   "SupplierNo": "",
-  "ThumbnailUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PUF105",
+  "ThumbnailUrl": "https://moonpig.github.io/tech-test-frontend/image/puf105/0.jpg",
   "Title": "Happy Father's Day Twenty Photo Card with Grey Text Box",
   "AdditionalInfo": "Happy Father's Day Twenty Photo Card with Grey Text Box",
   "IsMultipack": false,

@@ -472,19 +472,19 @@
   "ImageUrls": [
     {
       "ImageNo": 1,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PUE229-TS/1?productSizeId=28"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/pue229-ts/0.jpg"
     },
     {
       "ImageNo": 2,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PUE229-TS/2?productSizeId=28"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/pue229-ts/1.jpg"
     },
     {
       "ImageNo": 3,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PUE229-TS/3?productSizeId=28"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/pue229-ts/2.jpg"
     },
     {
       "ImageNo": 4,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PUE229-TS/4?productSizeId=28"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/pue229-ts/3.jpg"
     }
   ],
   "IsCustomisable": true,
@@ -492,7 +492,7 @@
     "Default": false,
     "Quality": 0
   },
-  "MoonpigProductNo": "PUE229-TS",
+  "MoonpigProductNo": "pue229-ts",
   "Pages": [
     {
       "PageNo": 1,
@@ -574,7 +574,7 @@
   },
   "SoldOut": false,
   "SupplierNo": "Full bleed PU",
-  "ThumbnailUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PUE229-TS",
+  "ThumbnailUrl": "https://moonpig.github.io/tech-test-frontend/image/pue229-ts/0.jpg",
   "Title": "Full bleed photo upload t-shirt",
   "AdditionalInfo": "Full bleed photo upload t-shirt",
   "IsMultipack": false,

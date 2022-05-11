@@ -109,19 +109,19 @@
   "ImageUrls": [
     {
       "ImageNo": 1,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/MV231/1"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/mv231/0.jpg"
     },
     {
       "ImageNo": 2,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/MV231/2"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/mv231/1.jpg"
     },
     {
       "ImageNo": 3,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/MV231/3"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/mv231/2.jpg"
     },
     {
       "ImageNo": 4,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/MV231/4"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/mv231/3.jpg"
     }
   ],
   "IsCustomisable": true,
@@ -129,7 +129,7 @@
     "Default": false,
     "Quality": 0
   },
-  "MoonpigProductNo": "MV231",
+  "MoonpigProductNo": "mv231",
   "Pages": [
     {
       "PageNo": 1,
@@ -245,7 +245,7 @@
   },
   "SoldOut": false,
   "SupplierNo": "Fancy Chairs",
-  "ThumbnailUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/MV231",
+  "ThumbnailUrl": "https://moonpig.github.io/tech-test-frontend/image/mv231/0.jpg",
   "Title": "Spoof Birthday Cards - Game Of Fancy Chairs",
   "AdditionalInfo": "Spoof Birthday Cards - Game Of Fancy Chairs",
   "IsMultipack": false,

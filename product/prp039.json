@@ -109,19 +109,19 @@
   "ImageUrls": [
     {
       "ImageNo": 1,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PRP039/1"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/prp039/0.jpg"
     },
     {
       "ImageNo": 2,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PRP039/2"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/prp039/1.jpg"
     },
     {
       "ImageNo": 3,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PRP039/3"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/prp039/2.jpg"
     },
     {
       "ImageNo": 4,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PRP039/4"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/prp039/3.jpg"
     }
   ],
   "IsCustomisable": true,
@@ -129,7 +129,7 @@
     "Default": false,
     "Quality": 0
   },
-  "MoonpigProductNo": "PRP039",
+  "MoonpigProductNo": "prp039",
   "Pages": [
     {
       "PageNo": 1,
@@ -245,7 +245,7 @@
   },
   "SoldOut": false,
   "SupplierNo": "PRP039",
-  "ThumbnailUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PRP039",
+  "ThumbnailUrl": "https://moonpig.github.io/tech-test-frontend/image/prp039/0.jpg",
   "Title": "Happy Birthday Grandad - Birthday Card For Grandad",
   "AdditionalInfo": "Happy Birthday Grandad - Birthday Card For Grandad",
   "IsMultipack": false,

@@ -76,19 +76,19 @@
   "ImageUrls": [
     {
       "ImageNo": 1,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/BOOF108/1"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/boof108/0.jpg"
     },
     {
       "ImageNo": 2,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/BOOF108/2"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/boof108/1.jpg"
     },
     {
       "ImageNo": 3,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/BOOF108/3"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/boof108/2.jpg"
     },
     {
       "ImageNo": 4,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/BOOF108/4"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/boof108/3.jpg"
     }
   ],
   "IsCustomisable": true,
@@ -96,7 +96,7 @@
     "Default": false,
     "Quality": 0
   },
-  "MoonpigProductNo": "BOOF108",
+  "MoonpigProductNo": "boof108",
   "Pages": [
     {
       "PageNo": 1,
@@ -212,7 +212,7 @@
   },
   "SoldOut": false,
   "SupplierNo": "",
-  "ThumbnailUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/BOOF108",
+  "ThumbnailUrl": "https://moonpig.github.io/tech-test-frontend/image/boof108/0.jpg",
   "Title": "Boofle Just To Say I Love You Multi-Photo Cute Valentines Day Card",
   "AdditionalInfo": "Boofle Just To Say I Love You Multi-Photo Cute Valentines Day Card",
   "IsMultipack": false,

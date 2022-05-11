@@ -109,19 +109,19 @@
   "ImageUrls": [
     {
       "ImageNo": 1,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PUF094/1"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/puf094/0.jpg"
     },
     {
       "ImageNo": 2,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PUF094/2"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/puf094/1.jpg"
     },
     {
       "ImageNo": 3,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PUF094/3"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/puf094/2.jpg"
     },
     {
       "ImageNo": 4,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PUF094/4"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/puf094/3.jpg"
     }
   ],
   "IsCustomisable": true,
@@ -129,7 +129,7 @@
     "Default": false,
     "Quality": 0
   },
-  "MoonpigProductNo": "PUF094",
+  "MoonpigProductNo": "puf094",
   "Pages": [
     {
       "PageNo": 1,
@@ -245,7 +245,7 @@
   },
   "SoldOut": false,
   "SupplierNo": "8 photos",
-  "ThumbnailUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PUF094",
+  "ThumbnailUrl": "https://moonpig.github.io/tech-test-frontend/image/puf094/0.jpg",
   "Title": "No.1 Dad - Photo Customised Father's Day Card",
   "AdditionalInfo": "No.1 Dad - Photo Customised Father's Day Card",
   "IsMultipack": false,

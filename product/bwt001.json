@@ -109,19 +109,19 @@
   "ImageUrls": [
     {
       "ImageNo": 1,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/BWT001/1"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/bwt001/0.jpg"
     },
     {
       "ImageNo": 2,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/BWT001/2"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/bwt001/1.jpg"
     },
     {
       "ImageNo": 3,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/BWT001/3"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/bwt001/2.jpg"
     },
     {
       "ImageNo": 4,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/BWT001/4"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/bwt001/3.jpg"
     }
   ],
   "IsCustomisable": true,
@@ -129,7 +129,7 @@
     "Default": false,
     "Quality": 0
   },
-  "MoonpigProductNo": "BWT001",
+  "MoonpigProductNo": "bwt001",
   "Pages": [
     {
       "PageNo": 1,
@@ -245,7 +245,7 @@
   },
   "SoldOut": false,
   "SupplierNo": "BWG0020",
-  "ThumbnailUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/BWT001",
+  "ThumbnailUrl": "https://moonpig.github.io/tech-test-frontend/image/bwt001/0.jpg",
   "Title": "All The Birds can't Get Used To The Wireless Technology Personalised Card",
   "AdditionalInfo": "All The Birds can't Get Used To The Wireless Technology Personalised Card",
   "IsMultipack": false,

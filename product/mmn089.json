@@ -76,19 +76,19 @@
   "ImageUrls": [
     {
       "ImageNo": 1,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/MMN089/1"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/mmn089/0.jpg"
     },
     {
       "ImageNo": 2,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/MMN089/2"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/mmn089/1.jpg"
     },
     {
       "ImageNo": 3,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/MMN089/3"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/mmn089/2.jpg"
     },
     {
       "ImageNo": 4,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/MMN089/4"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/mmn089/3.jpg"
     }
   ],
   "IsCustomisable": true,
@@ -96,7 +96,7 @@
     "Default": false,
     "Quality": 0
   },
-  "MoonpigProductNo": "MMN089",
+  "MoonpigProductNo": "mmn089",
   "Pages": [
     {
       "PageNo": 1,
@@ -212,7 +212,7 @@
   },
   "SoldOut": false,
   "SupplierNo": "MMN089",
-  "ThumbnailUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/MMN089",
+  "ThumbnailUrl": "https://moonpig.github.io/tech-test-frontend/image/mmn089/0.jpg",
   "Title": "Birthday Card - Mr Men - Little Miss - funny card - night out",
   "AdditionalInfo": "Birthday Card - Mr Men - Little Miss - funny card - night out",
   "IsMultipack": false,

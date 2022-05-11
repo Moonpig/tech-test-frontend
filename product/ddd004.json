@@ -109,19 +109,19 @@
   "ImageUrls": [
     {
       "ImageNo": 1,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/DDD004/1"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/ddd004/0.jpg"
     },
     {
       "ImageNo": 2,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/DDD004/2"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/ddd004/1.jpg"
     },
     {
       "ImageNo": 3,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/DDD004/3"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/ddd004/2.jpg"
     },
     {
       "ImageNo": 4,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/DDD004/4"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/ddd004/3.jpg"
     }
   ],
   "IsCustomisable": true,
@@ -129,7 +129,7 @@
     "Default": false,
     "Quality": 0
   },
-  "MoonpigProductNo": "DDD004",
+  "MoonpigProductNo": "ddd004",
   "Pages": [
     {
       "PageNo": 1,
@@ -245,7 +245,7 @@
   },
   "SoldOut": false,
   "SupplierNo": "2436A",
-  "ThumbnailUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/DDD004",
+  "ThumbnailUrl": "https://moonpig.github.io/tech-test-frontend/image/ddd004/0.jpg",
   "Title": "13th Birthday Card",
   "AdditionalInfo": "13th Birthday Card",
   "IsMultipack": false,

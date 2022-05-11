@@ -76,19 +76,19 @@
   "ImageUrls": [
     {
       "ImageNo": 1,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PU017B/1"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/pu017b/0.jpg"
     },
     {
       "ImageNo": 2,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PU017B/2"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/pu017b/1.jpg"
     },
     {
       "ImageNo": 3,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PU017B/3"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/pu017b/2.jpg"
     },
     {
       "ImageNo": 4,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PU017B/4"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/pu017b/3.jpg"
     }
   ],
   "IsCustomisable": true,
@@ -96,7 +96,7 @@
     "Default": false,
     "Quality": 0
   },
-  "MoonpigProductNo": "PU017B",
+  "MoonpigProductNo": "pu017b",
   "Pages": [
     {
       "PageNo": 1,
@@ -212,7 +212,7 @@
   },
   "SoldOut": false,
   "SupplierNo": "",
-  "ThumbnailUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PU017B",
+  "ThumbnailUrl": "https://moonpig.github.io/tech-test-frontend/image/pu017b/0.jpg",
   "Title": "Photo Birthday Card Message",
   "AdditionalInfo": "Photo Birthday Card Message",
   "IsMultipack": false,

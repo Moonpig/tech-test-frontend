@@ -109,19 +109,19 @@
   "ImageUrls": [
     {
       "ImageNo": 1,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PUE286/1"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/pue286/0.jpg"
     },
     {
       "ImageNo": 2,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PUE286/2"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/pue286/1.jpg"
     },
     {
       "ImageNo": 3,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PUE286/3"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/pue286/2.jpg"
     },
     {
       "ImageNo": 4,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PUE286/4"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/pue286/3.jpg"
     }
   ],
   "IsCustomisable": true,
@@ -129,7 +129,7 @@
     "Default": false,
     "Quality": 0
   },
-  "MoonpigProductNo": "PUE286",
+  "MoonpigProductNo": "pue286",
   "Pages": [
     {
       "PageNo": 1,
@@ -245,7 +245,7 @@
   },
   "SoldOut": false,
   "SupplierNo": "PUE286",
-  "ThumbnailUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PUE286",
+  "ThumbnailUrl": "https://moonpig.github.io/tech-test-frontend/image/pue286/0.jpg",
   "Title": "21st Birthday Card - Use your own photos to create personalised 21st birthday cards",
   "AdditionalInfo": "21st Birthday Card - Use your own photos to create personalised 21st birthday cards",
   "IsMultipack": false,

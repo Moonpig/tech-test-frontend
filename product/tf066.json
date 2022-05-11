@@ -109,19 +109,19 @@
   "ImageUrls": [
     {
       "ImageNo": 1,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/TF066/1"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/tf066/0.jpg"
     },
     {
       "ImageNo": 2,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/TF066/2"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/tf066/1.jpg"
     },
     {
       "ImageNo": 3,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/TF066/3"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/tf066/2.jpg"
     },
     {
       "ImageNo": 4,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/TF066/4"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/tf066/3.jpg"
     }
   ],
   "IsCustomisable": true,
@@ -129,7 +129,7 @@
     "Default": false,
     "Quality": 0
   },
-  "MoonpigProductNo": "TF066",
+  "MoonpigProductNo": "tf066",
   "Pages": [
     {
       "PageNo": 1,
@@ -245,7 +245,7 @@
   },
   "SoldOut": false,
   "SupplierNo": "TF066",
-  "ThumbnailUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/TF066",
+  "ThumbnailUrl": "https://moonpig.github.io/tech-test-frontend/image/tf066/0.jpg",
   "Title": "Love You To The Moon and Back Personalised Photo Card",
   "AdditionalInfo": "Love You To The Moon and Back Personalised Photo Card",
   "IsMultipack": false,

@@ -43,19 +43,19 @@
   "ImageUrls": [
     {
       "ImageNo": 1,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PUF123/1"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/puf123/0.jpg"
     },
     {
       "ImageNo": 2,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PUF123/2"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/puf123/1.jpg"
     },
     {
       "ImageNo": 3,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PUF123/3"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/puf123/2.jpg"
     },
     {
       "ImageNo": 4,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PUF123/4"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/puf123/3.jpg"
     }
   ],
   "IsCustomisable": true,
@@ -63,7 +63,7 @@
     "Default": false,
     "Quality": 0
   },
-  "MoonpigProductNo": "PUF123",
+  "MoonpigProductNo": "puf123",
   "Pages": [
     {
       "PageNo": 1,
@@ -179,7 +179,7 @@
   },
   "SoldOut": false,
   "SupplierNo": "",
-  "ThumbnailUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PUF123",
+  "ThumbnailUrl": "https://moonpig.github.io/tech-test-frontend/image/puf123/0.jpg",
   "Title": "Grandad photo upload card",
   "AdditionalInfo": "Grandad photo upload card",
   "IsMultipack": false,

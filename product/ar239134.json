@@ -7,19 +7,19 @@
   "ImageUrls": [
     {
       "ImageNo": 1,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/AR239134/1"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/ar239134/0.jpg"
     },
     {
       "ImageNo": 2,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/AR239134/2"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/ar239134/1.jpg"
     },
     {
       "ImageNo": 3,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/AR239134/3"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/ar239134/2.jpg"
     },
     {
       "ImageNo": 4,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/AR239134/4"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/ar239134/3.jpg"
     }
   ],
   "IsCustomisable": false,
@@ -27,7 +27,7 @@
     "Default": false,
     "Quality": 0
   },
-  "MoonpigProductNo": "AR239134",
+  "MoonpigProductNo": "ar239134",
   "Pages": [],
   "ProductCategoryGroup": {
     "Name": "Flowers and Plants",
@@ -74,7 +74,7 @@
   },
   "SoldOut": true,
   "SupplierNo": "239134",
-  "ThumbnailUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/AR239134",
+  "ThumbnailUrl": "https://moonpig.github.io/tech-test-frontend/image/ar239134/0.jpg",
   "Title": "The Happy Birthday Gift Set",
   "AdditionalInfo": "The Happy Birthday Gift Set",
   "IsMultipack": false,

@@ -7,27 +7,27 @@
   "ImageUrls": [
     {
       "ImageNo": 1,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/LBXG006/1"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/lbxg006/0.jpg"
     },
     {
       "ImageNo": 2,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/LBXG006/2"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/lbxg006/1.jpg"
     },
     {
       "ImageNo": 3,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/LBXG006/3"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/lbxg006/2.jpg"
     },
     {
       "ImageNo": 4,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/LBXG006/4"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/lbxg006/3.jpg"
     },
     {
       "ImageNo": 5,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/LBXG006/5"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/lbxg006/4.jpg"
     },
     {
       "ImageNo": 6,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/LBXG006/6"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/lbxg006/5.jpg"
     }
   ],
   "IsCustomisable": false,
@@ -35,7 +35,7 @@
     "Default": false,
     "Quality": 0
   },
-  "MoonpigProductNo": "LBXG006",
+  "MoonpigProductNo": "lbxg006",
   "Pages": [],
   "ProductCategoryGroup": {
     "Name": "Gift",
@@ -82,7 +82,7 @@
   },
   "SoldOut": true,
   "SupplierNo": "LBXG006",
-  "ThumbnailUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/LBXG006",
+  "ThumbnailUrl": "https://moonpig.github.io/tech-test-frontend/image/lbxg006/0.jpg",
   "Title": "Girlie Letterbox Gift",
   "AdditionalInfo": "Girlie Letterbox Gift",
   "IsMultipack": false,

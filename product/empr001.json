@@ -109,19 +109,19 @@
   "ImageUrls": [
     {
       "ImageNo": 1,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/EMPR001/1"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/empr001/0.jpg"
     },
     {
       "ImageNo": 2,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/EMPR001/2"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/empr001/1.jpg"
     },
     {
       "ImageNo": 3,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/EMPR001/3"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/empr001/2.jpg"
     },
     {
       "ImageNo": 4,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/EMPR001/4"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/empr001/3.jpg"
     }
   ],
   "IsCustomisable": true,
@@ -129,7 +129,7 @@
     "Default": false,
     "Quality": 0
   },
-  "MoonpigProductNo": "EMPR001",
+  "MoonpigProductNo": "empr001",
   "Pages": [
     {
       "PageNo": 1,
@@ -245,7 +245,7 @@
   },
   "SoldOut": false,
   "SupplierNo": "DH120LC",
-  "ThumbnailUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/EMPR001",
+  "ThumbnailUrl": "https://moonpig.github.io/tech-test-frontend/image/empr001/0.jpg",
   "Title": "Have A Fabulous Birthday",
   "AdditionalInfo": "Have A Fabulous Birthday",
   "IsMultipack": false,

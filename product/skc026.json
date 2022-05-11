@@ -109,19 +109,19 @@
   "ImageUrls": [
     {
       "ImageNo": 1,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/SKC026/1"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/skc026/0.jpg"
     },
     {
       "ImageNo": 2,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/SKC026/2"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/skc026/1.jpg"
     },
     {
       "ImageNo": 3,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/SKC026/3"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/skc026/2.jpg"
     },
     {
       "ImageNo": 4,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/SKC026/4"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/skc026/3.jpg"
     }
   ],
   "IsCustomisable": true,
@@ -129,7 +129,7 @@
     "Default": false,
     "Quality": 0
   },
-  "MoonpigProductNo": "SKC026",
+  "MoonpigProductNo": "skc026",
   "Pages": [
     {
       "PageNo": 1,
@@ -245,7 +245,7 @@
   },
   "SoldOut": false,
   "SupplierNo": "SKC026",
-  "ThumbnailUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/SKC026",
+  "ThumbnailUrl": "https://moonpig.github.io/tech-test-frontend/image/skc026/0.jpg",
   "Title": "Mamaaaaaaaoooo Cool Mother's Day Card",
   "AdditionalInfo": "Mamaaaaaaaoooo Cool Mother's Day Card",
   "IsMultipack": false,

@@ -109,19 +109,19 @@
   "ImageUrls": [
     {
       "ImageNo": 1,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PUF099/1"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/puf099/0.jpg"
     },
     {
       "ImageNo": 2,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PUF099/2"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/puf099/1.jpg"
     },
     {
       "ImageNo": 3,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PUF099/3"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/puf099/2.jpg"
     },
     {
       "ImageNo": 4,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PUF099/4"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/puf099/3.jpg"
     }
   ],
   "IsCustomisable": true,
@@ -129,7 +129,7 @@
     "Default": false,
     "Quality": 0
   },
-  "MoonpigProductNo": "PUF099",
+  "MoonpigProductNo": "puf099",
   "Pages": [
     {
       "PageNo": 1,
@@ -245,7 +245,7 @@
   },
   "SoldOut": false,
   "SupplierNo": "PUF099",
-  "ThumbnailUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PUF099",
+  "ThumbnailUrl": "https://moonpig.github.io/tech-test-frontend/image/puf099/0.jpg",
   "Title": "Super Colourful Love You Daddy Happy Father's Day Photo Card",
   "AdditionalInfo": "Super Colourful Love You Daddy Happy Father's Day Photo Card",
   "IsMultipack": false,

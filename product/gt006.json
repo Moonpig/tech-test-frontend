@@ -109,19 +109,19 @@
   "ImageUrls": [
     {
       "ImageNo": 1,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/GT006/1"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/gt006/0.jpg"
     },
     {
       "ImageNo": 2,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/GT006/2"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/gt006/1.jpg"
     },
     {
       "ImageNo": 3,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/GT006/3"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/gt006/2.jpg"
     },
     {
       "ImageNo": 4,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/GT006/4"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/gt006/3.jpg"
     }
   ],
   "IsCustomisable": true,
@@ -129,7 +129,7 @@
     "Default": false,
     "Quality": 0
   },
-  "MoonpigProductNo": "GT006",
+  "MoonpigProductNo": "gt006",
   "Pages": [
     {
       "PageNo": 1,
@@ -245,7 +245,7 @@
   },
   "SoldOut": false,
   "SupplierNo": "GT006",
-  "ThumbnailUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/GT006",
+  "ThumbnailUrl": "https://moonpig.github.io/tech-test-frontend/image/gt006/0.jpg",
   "Title": "Birthday Card - Graphic Patterns - Photo Upload",
   "AdditionalInfo": "Birthday Card - Graphic Patterns - Photo Upload",
   "IsMultipack": false,

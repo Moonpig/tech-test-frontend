@@ -43,19 +43,19 @@
   "ImageUrls": [
     {
       "ImageNo": 1,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PL508/1"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/pl508/0.jpg"
     },
     {
       "ImageNo": 2,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PL508/2"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/pl508/1.jpg"
     },
     {
       "ImageNo": 3,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PL508/3"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/pl508/2.jpg"
     },
     {
       "ImageNo": 4,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PL508/4"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/pl508/3.jpg"
     }
   ],
   "IsCustomisable": true,
@@ -63,7 +63,7 @@
     "Default": false,
     "Quality": 0
   },
-  "MoonpigProductNo": "PL508",
+  "MoonpigProductNo": "pl508",
   "Pages": [
     {
       "PageNo": 1,
@@ -179,7 +179,7 @@
   },
   "SoldOut": false,
   "SupplierNo": "PL508",
-  "ThumbnailUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PL508",
+  "ThumbnailUrl": "https://moonpig.github.io/tech-test-frontend/image/pl508/0.jpg",
   "Title": "Days And Hours Personalised Anniversary Card For Husband",
   "AdditionalInfo": "Days And Hours Personalised Anniversary Card For Husband",
   "IsMultipack": false,

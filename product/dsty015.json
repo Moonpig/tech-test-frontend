@@ -109,19 +109,19 @@
   "ImageUrls": [
     {
       "ImageNo": 1,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/DSTY015/1"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/dsty015/0.jpg"
     },
     {
       "ImageNo": 2,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/DSTY015/2"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/dsty015/1.jpg"
     },
     {
       "ImageNo": 3,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/DSTY015/3"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/dsty015/2.jpg"
     },
     {
       "ImageNo": 4,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/DSTY015/4"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/dsty015/3.jpg"
     }
   ],
   "IsCustomisable": true,
@@ -129,7 +129,7 @@
     "Default": false,
     "Quality": 0
   },
-  "MoonpigProductNo": "DSTY015",
+  "MoonpigProductNo": "dsty015",
   "Pages": [
     {
       "PageNo": 1,
@@ -245,7 +245,7 @@
   },
   "SoldOut": false,
   "SupplierNo": "",
-  "ThumbnailUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/DSTY015",
+  "ThumbnailUrl": "https://moonpig.github.io/tech-test-frontend/image/dsty015/0.jpg",
   "Title": "Bright Block Letters Thank You Photo Card",
   "AdditionalInfo": "Bright Block Letters Thank You Photo Card",
   "IsMultipack": false,

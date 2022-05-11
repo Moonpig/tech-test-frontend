@@ -109,19 +109,19 @@
   "ImageUrls": [
     {
       "ImageNo": 1,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PU1109/1"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/pu1109/0.jpg"
     },
     {
       "ImageNo": 2,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PU1109/2"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/pu1109/1.jpg"
     },
     {
       "ImageNo": 3,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PU1109/3"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/pu1109/2.jpg"
     },
     {
       "ImageNo": 4,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PU1109/4"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/pu1109/3.jpg"
     }
   ],
   "IsCustomisable": true,
@@ -129,7 +129,7 @@
     "Default": false,
     "Quality": 0
   },
-  "MoonpigProductNo": "PU1109",
+  "MoonpigProductNo": "pu1109",
   "Pages": [
     {
       "PageNo": 1,
@@ -245,7 +245,7 @@
   },
   "SoldOut": false,
   "SupplierNo": "PU1109",
-  "ThumbnailUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PU1109",
+  "ThumbnailUrl": "https://moonpig.github.io/tech-test-frontend/image/pu1109/0.jpg",
   "Title": "Photo 1st Anniversary Card",
   "AdditionalInfo": "Photo 1st Anniversary Card",
   "IsMultipack": false,

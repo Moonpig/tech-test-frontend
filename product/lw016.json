@@ -109,19 +109,19 @@
   "ImageUrls": [
     {
       "ImageNo": 1,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/LW016/1"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/lw016/0.jpg"
     },
     {
       "ImageNo": 2,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/LW016/2"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/lw016/1.jpg"
     },
     {
       "ImageNo": 3,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/LW016/3"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/lw016/2.jpg"
     },
     {
       "ImageNo": 4,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/LW016/4"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/lw016/3.jpg"
     }
   ],
   "IsCustomisable": true,
@@ -129,7 +129,7 @@
     "Default": false,
     "Quality": 0
   },
-  "MoonpigProductNo": "LW016",
+  "MoonpigProductNo": "lw016",
   "Pages": [
     {
       "PageNo": 1,
@@ -245,7 +245,7 @@
   },
   "SoldOut": false,
   "SupplierNo": "LAGG0023",
-  "ThumbnailUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/LW016",
+  "ThumbnailUrl": "https://moonpig.github.io/tech-test-frontend/image/lw016/0.jpg",
   "Title": "Personalised Funny Comic Now Reduce The Wine Card",
   "AdditionalInfo": "Personalised Funny Comic Now Reduce The Wine Card",
   "IsMultipack": false,

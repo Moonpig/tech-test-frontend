@@ -109,19 +109,19 @@
   "ImageUrls": [
     {
       "ImageNo": 1,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/ECT002/1"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/ect002/0.jpg"
     },
     {
       "ImageNo": 2,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/ECT002/2"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/ect002/1.jpg"
     },
     {
       "ImageNo": 3,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/ECT002/3"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/ect002/2.jpg"
     },
     {
       "ImageNo": 4,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/ECT002/4"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/ect002/3.jpg"
     }
   ],
   "IsCustomisable": true,
@@ -129,7 +129,7 @@
     "Default": false,
     "Quality": 0
   },
-  "MoonpigProductNo": "ECT002",
+  "MoonpigProductNo": "ect002",
   "Pages": [
     {
       "PageNo": 1,
@@ -245,7 +245,7 @@
   },
   "SoldOut": false,
   "SupplierNo": "",
-  "ThumbnailUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/ECT002",
+  "ThumbnailUrl": "https://moonpig.github.io/tech-test-frontend/image/ect002/0.jpg",
   "Title": "Birthday Card - Gin - Alcohol",
   "AdditionalInfo": "Birthday Card - Gin - Alcohol",
   "IsMultipack": false,

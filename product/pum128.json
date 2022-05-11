@@ -109,19 +109,19 @@
   "ImageUrls": [
     {
       "ImageNo": 1,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PUM128/1"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/pum128/0.jpg"
     },
     {
       "ImageNo": 2,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PUM128/2"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/pum128/1.jpg"
     },
     {
       "ImageNo": 3,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PUM128/3"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/pum128/2.jpg"
     },
     {
       "ImageNo": 4,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PUM128/4"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/pum128/3.jpg"
     }
   ],
   "IsCustomisable": true,
@@ -129,7 +129,7 @@
     "Default": false,
     "Quality": 0
   },
-  "MoonpigProductNo": "PUM128",
+  "MoonpigProductNo": "pum128",
   "Pages": [
     {
       "PageNo": 1,
@@ -245,7 +245,7 @@
   },
   "SoldOut": false,
   "SupplierNo": "",
-  "ThumbnailUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PUM128",
+  "ThumbnailUrl": "https://moonpig.github.io/tech-test-frontend/image/pum128/0.jpg",
   "Title": "Mother's Day Card - Love You Mummy - Photo Upload",
   "AdditionalInfo": "Mother's Day Card - Love You Mummy - Photo Upload",
   "IsMultipack": false,

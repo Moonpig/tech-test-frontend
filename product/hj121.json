@@ -109,19 +109,19 @@
   "ImageUrls": [
     {
       "ImageNo": 1,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/HJ121/1"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/hj121/0.jpg"
     },
     {
       "ImageNo": 2,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/HJ121/2"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/hj121/1.jpg"
     },
     {
       "ImageNo": 3,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/HJ121/3"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/hj121/2.jpg"
     },
     {
       "ImageNo": 4,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/HJ121/4"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/hj121/3.jpg"
     }
   ],
   "IsCustomisable": true,
@@ -129,7 +129,7 @@
     "Default": false,
     "Quality": 0
   },
-  "MoonpigProductNo": "HJ121",
+  "MoonpigProductNo": "hj121",
   "Pages": [
     {
       "PageNo": 1,
@@ -245,7 +245,7 @@
   },
   "SoldOut": false,
   "SupplierNo": "",
-  "ThumbnailUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/HJ121",
+  "ThumbnailUrl": "https://moonpig.github.io/tech-test-frontend/image/hj121/0.jpg",
   "Title": "Happy Jackson Happy Birthday to the Bestest Daddy Personalised Photo Card",
   "AdditionalInfo": "Happy Jackson Happy Birthday to the Bestest Daddy Personalised Photo Card",
   "IsMultipack": false,

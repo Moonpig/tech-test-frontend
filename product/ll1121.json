@@ -76,19 +76,19 @@
   "ImageUrls": [
     {
       "ImageNo": 1,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/LL1121/1"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/ll1121/0.jpg"
     },
     {
       "ImageNo": 2,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/LL1121/2"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/ll1121/1.jpg"
     },
     {
       "ImageNo": 3,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/LL1121/3"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/ll1121/2.jpg"
     },
     {
       "ImageNo": 4,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/LL1121/4"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/ll1121/3.jpg"
     }
   ],
   "IsCustomisable": true,
@@ -96,7 +96,7 @@
     "Default": false,
     "Quality": 0
   },
-  "MoonpigProductNo": "LL1121",
+  "MoonpigProductNo": "ll1121",
   "Pages": [
     {
       "PageNo": 1,
@@ -212,7 +212,7 @@
   },
   "SoldOut": false,
   "SupplierNo": "LL1121",
-  "ThumbnailUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/LL1121",
+  "ThumbnailUrl": "https://moonpig.github.io/tech-test-frontend/image/ll1121/0.jpg",
   "Title": "Custom Wedding Anniversary Card",
   "AdditionalInfo": "Custom Wedding Anniversary Card",
   "IsMultipack": false,

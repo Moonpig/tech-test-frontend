@@ -109,19 +109,19 @@
   "ImageUrls": [
     {
       "ImageNo": 1,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/LW031/1"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/lw031/0.jpg"
     },
     {
       "ImageNo": 2,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/LW031/2"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/lw031/1.jpg"
     },
     {
       "ImageNo": 3,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/LW031/3"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/lw031/2.jpg"
     },
     {
       "ImageNo": 4,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/LW031/4"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/lw031/3.jpg"
     }
   ],
   "IsCustomisable": true,
@@ -129,7 +129,7 @@
     "Default": false,
     "Quality": 0
   },
-  "MoonpigProductNo": "LW031",
+  "MoonpigProductNo": "lw031",
   "Pages": [
     {
       "PageNo": 1,
@@ -245,7 +245,7 @@
   },
   "SoldOut": false,
   "SupplierNo": "",
-  "ThumbnailUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/LW031",
+  "ThumbnailUrl": "https://moonpig.github.io/tech-test-frontend/image/lw031/0.jpg",
   "Title": "Humour Birthday Card",
   "AdditionalInfo": "Humour Birthday Card",
   "IsMultipack": false,

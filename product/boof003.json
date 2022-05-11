@@ -76,19 +76,19 @@
   "ImageUrls": [
     {
       "ImageNo": 1,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/BOOF003/1"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/boof003/0.jpg"
     },
     {
       "ImageNo": 2,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/BOOF003/2"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/boof003/1.jpg"
     },
     {
       "ImageNo": 3,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/BOOF003/3"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/boof003/2.jpg"
     },
     {
       "ImageNo": 4,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/BOOF003/4"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/boof003/3.jpg"
     }
   ],
   "IsCustomisable": true,
@@ -96,7 +96,7 @@
     "Default": false,
     "Quality": 0
   },
-  "MoonpigProductNo": "BOOF003",
+  "MoonpigProductNo": "boof003",
   "Pages": [
     {
       "PageNo": 1,
@@ -212,7 +212,7 @@
   },
   "SoldOut": false,
   "SupplierNo": "",
-  "ThumbnailUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/BOOF003",
+  "ThumbnailUrl": "https://moonpig.github.io/tech-test-frontend/image/boof003/0.jpg",
   "Title": "Boofle Birthday Card",
   "AdditionalInfo": "Boofle Birthday Card",
   "IsMultipack": false,

@@ -109,19 +109,19 @@
   "ImageUrls": [
     {
       "ImageNo": 1,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/FSD038/1"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/fsd038/0.jpg"
     },
     {
       "ImageNo": 2,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/FSD038/2"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/fsd038/1.jpg"
     },
     {
       "ImageNo": 3,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/FSD038/3"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/fsd038/2.jpg"
     },
     {
       "ImageNo": 4,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/FSD038/4"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/fsd038/3.jpg"
     }
   ],
   "IsCustomisable": true,
@@ -129,7 +129,7 @@
     "Default": false,
     "Quality": 0
   },
-  "MoonpigProductNo": "FSD038",
+  "MoonpigProductNo": "fsd038",
   "Pages": [
     {
       "PageNo": 1,
@@ -245,7 +245,7 @@
   },
   "SoldOut": false,
   "SupplierNo": "RB32142",
-  "ThumbnailUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/FSD038",
+  "ThumbnailUrl": "https://moonpig.github.io/tech-test-frontend/image/fsd038/0.jpg",
   "Title": "Funny Husband Birthday Card",
   "AdditionalInfo": "Funny Husband Birthday Card",
   "IsMultipack": false,

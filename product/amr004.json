@@ -109,19 +109,19 @@
   "ImageUrls": [
     {
       "ImageNo": 1,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/AMR004/1"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/amr004/0.jpg"
     },
     {
       "ImageNo": 2,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/AMR004/2"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/amr004/1.jpg"
     },
     {
       "ImageNo": 3,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/AMR004/3"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/amr004/2.jpg"
     },
     {
       "ImageNo": 4,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/AMR004/4"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/amr004/3.jpg"
     }
   ],
   "IsCustomisable": true,
@@ -129,7 +129,7 @@
     "Default": false,
     "Quality": 0
   },
-  "MoonpigProductNo": "AMR004",
+  "MoonpigProductNo": "amr004",
   "Pages": [
     {
       "PageNo": 1,
@@ -245,7 +245,7 @@
   },
   "SoldOut": false,
   "SupplierNo": "EAT017",
-  "ThumbnailUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/AMR004",
+  "ThumbnailUrl": "https://moonpig.github.io/tech-test-frontend/image/amr004/0.jpg",
   "Title": "Floral Wreath Personalised Birthday Card",
   "AdditionalInfo": "Floral Wreath Personalised Birthday Card",
   "IsMultipack": false,

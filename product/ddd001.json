@@ -109,19 +109,19 @@
   "ImageUrls": [
     {
       "ImageNo": 1,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/DDD001/1"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/ddd001/0.jpg"
     },
     {
       "ImageNo": 2,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/DDD001/2"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/ddd001/1.jpg"
     },
     {
       "ImageNo": 3,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/DDD001/3"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/ddd001/2.jpg"
     },
     {
       "ImageNo": 4,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/DDD001/4"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/ddd001/3.jpg"
     }
   ],
   "IsCustomisable": true,
@@ -129,7 +129,7 @@
     "Default": false,
     "Quality": 0
   },
-  "MoonpigProductNo": "DDD001",
+  "MoonpigProductNo": "ddd001",
   "Pages": [
     {
       "PageNo": 1,
@@ -245,7 +245,7 @@
   },
   "SoldOut": false,
   "SupplierNo": "290A",
-  "ThumbnailUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/DDD001",
+  "ThumbnailUrl": "https://moonpig.github.io/tech-test-frontend/image/ddd001/0.jpg",
   "Title": "Brother Birthday Card",
   "AdditionalInfo": "Brother Birthday Card",
   "IsMultipack": false,

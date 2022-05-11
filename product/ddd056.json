@@ -109,19 +109,19 @@
   "ImageUrls": [
     {
       "ImageNo": 1,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/DDD056/1"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/ddd056/0.jpg"
     },
     {
       "ImageNo": 2,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/DDD056/2"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/ddd056/1.jpg"
     },
     {
       "ImageNo": 3,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/DDD056/3"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/ddd056/2.jpg"
     },
     {
       "ImageNo": 4,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/DDD056/4"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/ddd056/3.jpg"
     }
   ],
   "IsCustomisable": true,
@@ -129,7 +129,7 @@
     "Default": false,
     "Quality": 0
   },
-  "MoonpigProductNo": "DDD056",
+  "MoonpigProductNo": "ddd056",
   "Pages": [
     {
       "PageNo": 1,
@@ -245,7 +245,7 @@
   },
   "SoldOut": false,
   "SupplierNo": "410A",
-  "ThumbnailUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/DDD056",
+  "ThumbnailUrl": "https://moonpig.github.io/tech-test-frontend/image/ddd056/0.jpg",
   "Title": "Funny Birthday Card",
   "AdditionalInfo": "Funny Birthday Card",
   "IsMultipack": false,

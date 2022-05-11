@@ -109,19 +109,19 @@
   "ImageUrls": [
     {
       "ImageNo": 1,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/TW897/1"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/tw897/0.jpg"
     },
     {
       "ImageNo": 2,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/TW897/2"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/tw897/1.jpg"
     },
     {
       "ImageNo": 3,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/TW897/3"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/tw897/2.jpg"
     },
     {
       "ImageNo": 4,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/TW897/4"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/tw897/3.jpg"
     }
   ],
   "IsCustomisable": true,
@@ -129,7 +129,7 @@
     "Default": false,
     "Quality": 0
   },
-  "MoonpigProductNo": "TW897",
+  "MoonpigProductNo": "tw897",
   "Pages": [
     {
       "PageNo": 1,
@@ -245,7 +245,7 @@
   },
   "SoldOut": false,
   "SupplierNo": "TW897",
-  "ThumbnailUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/TW897",
+  "ThumbnailUrl": "https://moonpig.github.io/tech-test-frontend/image/tw897/0.jpg",
   "Title": "Gather Round Children Funny Caption Personalised Birthday Card",
   "AdditionalInfo": "Gather Round Children Funny Caption Personalised Birthday Card",
   "IsMultipack": false,

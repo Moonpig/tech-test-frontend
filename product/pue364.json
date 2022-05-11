@@ -109,19 +109,19 @@
   "ImageUrls": [
     {
       "ImageNo": 1,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PUE364/1"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/pue364/0.jpg"
     },
     {
       "ImageNo": 2,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PUE364/2"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/pue364/1.jpg"
     },
     {
       "ImageNo": 3,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PUE364/3"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/pue364/2.jpg"
     },
     {
       "ImageNo": 4,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PUE364/4"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/pue364/3.jpg"
     }
   ],
   "IsCustomisable": true,
@@ -129,7 +129,7 @@
     "Default": false,
     "Quality": 0
   },
-  "MoonpigProductNo": "PUE364",
+  "MoonpigProductNo": "pue364",
   "Pages": [
     {
       "PageNo": 1,
@@ -245,7 +245,7 @@
   },
   "SoldOut": false,
   "SupplierNo": "PUE364",
-  "ThumbnailUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PUE364",
+  "ThumbnailUrl": "https://moonpig.github.io/tech-test-frontend/image/pue364/0.jpg",
   "Title": "Birthday Card - Photo Upload Card - Most Amazing Mum",
   "AdditionalInfo": "Birthday Card - Photo Upload Card - Most Amazing Mum",
   "IsMultipack": false,

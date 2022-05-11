@@ -109,19 +109,19 @@
   "ImageUrls": [
     {
       "ImageNo": 1,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PUE179/1"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/pue179/0.jpg"
     },
     {
       "ImageNo": 2,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PUE179/2"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/pue179/1.jpg"
     },
     {
       "ImageNo": 3,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PUE179/3"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/pue179/2.jpg"
     },
     {
       "ImageNo": 4,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PUE179/4"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/pue179/3.jpg"
     }
   ],
   "IsCustomisable": true,
@@ -129,7 +129,7 @@
     "Default": false,
     "Quality": 0
   },
-  "MoonpigProductNo": "PUE179",
+  "MoonpigProductNo": "pue179",
   "Pages": [
     {
       "PageNo": 1,
@@ -245,7 +245,7 @@
   },
   "SoldOut": false,
   "SupplierNo": "8 photos rounded edge",
-  "ThumbnailUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PUE179",
+  "ThumbnailUrl": "https://moonpig.github.io/tech-test-frontend/image/pue179/0.jpg",
   "Title": "Personalised Birthday Card",
   "AdditionalInfo": "Personalised Birthday Card",
   "IsMultipack": false,

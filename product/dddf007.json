@@ -109,19 +109,19 @@
   "ImageUrls": [
     {
       "ImageNo": 1,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/DDDF007/1"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/dddf007/0.jpg"
     },
     {
       "ImageNo": 2,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/DDDF007/2"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/dddf007/1.jpg"
     },
     {
       "ImageNo": 3,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/DDDF007/3"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/dddf007/2.jpg"
     },
     {
       "ImageNo": 4,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/DDDF007/4"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/dddf007/3.jpg"
     }
   ],
   "IsCustomisable": true,
@@ -129,7 +129,7 @@
     "Default": false,
     "Quality": 0
   },
-  "MoonpigProductNo": "DDDF007",
+  "MoonpigProductNo": "dddf007",
   "Pages": [
     {
       "PageNo": 1,
@@ -245,7 +245,7 @@
   },
   "SoldOut": false,
   "SupplierNo": "170F",
-  "ThumbnailUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/DDDF007",
+  "ThumbnailUrl": "https://moonpig.github.io/tech-test-frontend/image/dddf007/0.jpg",
   "Title": "D.I.Y. Dad Funny Caption Personalised Happy Birthday Card",
   "AdditionalInfo": "D.I.Y. Dad Funny Caption Personalised Happy Birthday Card",
   "IsMultipack": false,

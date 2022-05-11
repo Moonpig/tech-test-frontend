@@ -76,19 +76,19 @@
   "ImageUrls": [
     {
       "ImageNo": 1,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/DME035/1"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/dme035/0.jpg"
     },
     {
       "ImageNo": 2,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/DME035/2"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/dme035/1.jpg"
     },
     {
       "ImageNo": 3,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/DME035/3"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/dme035/2.jpg"
     },
     {
       "ImageNo": 4,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/DME035/4"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/dme035/3.jpg"
     }
   ],
   "IsCustomisable": true,
@@ -96,7 +96,7 @@
     "Default": false,
     "Quality": 0
   },
-  "MoonpigProductNo": "DME035",
+  "MoonpigProductNo": "dme035",
   "Pages": [
     {
       "PageNo": 1,
@@ -212,7 +212,7 @@
   },
   "SoldOut": false,
   "SupplierNo": "DME035",
-  "ThumbnailUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/DME035",
+  "ThumbnailUrl": "https://moonpig.github.io/tech-test-frontend/image/dme035/0.jpg",
   "Title": "Minions Brilliant Nephew Birthday Card",
   "AdditionalInfo": "Minions Brilliant Nephew Birthday Card",
   "IsMultipack": false,

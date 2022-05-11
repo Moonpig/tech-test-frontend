@@ -109,19 +109,19 @@
   "ImageUrls": [
     {
       "ImageNo": 1,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PAV090/1"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/pav090/0.jpg"
     },
     {
       "ImageNo": 2,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PAV090/2"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/pav090/1.jpg"
     },
     {
       "ImageNo": 3,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PAV090/3"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/pav090/2.jpg"
     },
     {
       "ImageNo": 4,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PAV090/4"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/pav090/3.jpg"
     }
   ],
   "IsCustomisable": true,
@@ -129,7 +129,7 @@
     "Default": false,
     "Quality": 0
   },
-  "MoonpigProductNo": "PAV090",
+  "MoonpigProductNo": "pav090",
   "Pages": [
     {
       "PageNo": 1,
@@ -245,7 +245,7 @@
   },
   "SoldOut": false,
   "SupplierNo": "PAV090",
-  "ThumbnailUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PAV090",
+  "ThumbnailUrl": "https://moonpig.github.io/tech-test-frontend/image/pav090/0.jpg",
   "Title": "Anniversary Card - Photo Upload Card",
   "AdditionalInfo": "Anniversary Card - Photo Upload Card",
   "IsMultipack": false,

@@ -109,19 +109,19 @@
   "ImageUrls": [
     {
       "ImageNo": 1,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/ANF001/1"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/anf001/0.jpg"
     },
     {
       "ImageNo": 2,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/ANF001/2"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/anf001/1.jpg"
     },
     {
       "ImageNo": 3,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/ANF001/3"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/anf001/2.jpg"
     },
     {
       "ImageNo": 4,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/ANF001/4"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/anf001/3.jpg"
     }
   ],
   "IsCustomisable": true,
@@ -129,7 +129,7 @@
     "Default": false,
     "Quality": 0
   },
-  "MoonpigProductNo": "ANF001",
+  "MoonpigProductNo": "anf001",
   "Pages": [
     {
       "PageNo": 1,
@@ -245,7 +245,7 @@
   },
   "SoldOut": false,
   "SupplierNo": "ANFH0004",
-  "ThumbnailUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/ANF001",
+  "ThumbnailUrl": "https://moonpig.github.io/tech-test-frontend/image/anf001/0.jpg",
   "Title": "Funny Free Willy Charades Birthday Greeting Card",
   "AdditionalInfo": "Funny Free Willy Charades Birthday Greeting Card",
   "IsMultipack": false,

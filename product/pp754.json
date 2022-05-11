@@ -9,19 +9,19 @@
   "ImageUrls": [
     {
       "ImageNo": 1,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PP754/1"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/pp754/0.jpg"
     },
     {
       "ImageNo": 2,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PP754/2"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/pp754/1.jpg"
     },
     {
       "ImageNo": 3,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PP754/3"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/pp754/2.jpg"
     },
     {
       "ImageNo": 4,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PP754/4"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/pp754/3.jpg"
     }
   ],
   "IsCustomisable": true,
@@ -29,7 +29,7 @@
     "Default": false,
     "Quality": 0
   },
-  "MoonpigProductNo": "PP754",
+  "MoonpigProductNo": "pp754",
   "Pages": [
     {
       "PageNo": 1,
@@ -145,7 +145,7 @@
   },
   "SoldOut": true,
   "SupplierNo": "",
-  "ThumbnailUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PP754",
+  "ThumbnailUrl": "https://moonpig.github.io/tech-test-frontend/image/pp754/0.jpg",
   "Title": "Funny Birthday Card",
   "AdditionalInfo": "Funny Birthday Card",
   "IsMultipack": false,

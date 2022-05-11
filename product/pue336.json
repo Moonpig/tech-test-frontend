@@ -109,19 +109,19 @@
   "ImageUrls": [
     {
       "ImageNo": 1,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PUE336/1"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/pue336/0.jpg"
     },
     {
       "ImageNo": 2,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PUE336/2"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/pue336/1.jpg"
     },
     {
       "ImageNo": 3,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PUE336/3"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/pue336/2.jpg"
     },
     {
       "ImageNo": 4,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PUE336/4"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/pue336/3.jpg"
     }
   ],
   "IsCustomisable": true,
@@ -129,7 +129,7 @@
     "Default": false,
     "Quality": 0
   },
-  "MoonpigProductNo": "PUE336",
+  "MoonpigProductNo": "pue336",
   "Pages": [
     {
       "PageNo": 1,
@@ -245,7 +245,7 @@
   },
   "SoldOut": false,
   "SupplierNo": "PUE336",
-  "ThumbnailUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PUE336",
+  "ThumbnailUrl": "https://moonpig.github.io/tech-test-frontend/image/pue336/0.jpg",
   "Title": "40th Birthday Photo Upload Card",
   "AdditionalInfo": "40th Birthday Photo Upload Card",
   "IsMultipack": false,

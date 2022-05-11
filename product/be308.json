@@ -109,19 +109,19 @@
   "ImageUrls": [
     {
       "ImageNo": 1,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/BE308/1"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/be308/0.jpg"
     },
     {
       "ImageNo": 2,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/BE308/2"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/be308/1.jpg"
     },
     {
       "ImageNo": 3,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/BE308/3"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/be308/2.jpg"
     },
     {
       "ImageNo": 4,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/BE308/4"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/be308/3.jpg"
     }
   ],
   "IsCustomisable": true,
@@ -129,7 +129,7 @@
     "Default": false,
     "Quality": 0
   },
-  "MoonpigProductNo": "BE308",
+  "MoonpigProductNo": "be308",
   "Pages": [
     {
       "PageNo": 1,
@@ -245,7 +245,7 @@
   },
   "SoldOut": false,
   "SupplierNo": "B584",
-  "ThumbnailUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/BE308",
+  "ThumbnailUrl": "https://moonpig.github.io/tech-test-frontend/image/be308/0.jpg",
   "Title": "Personalised Funny Penguins And Amazon Face Mask Card",
   "AdditionalInfo": "Personalised Funny Penguins And Amazon Face Mask Card",
   "IsMultipack": false,

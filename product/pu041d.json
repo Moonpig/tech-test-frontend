@@ -76,19 +76,19 @@
   "ImageUrls": [
     {
       "ImageNo": 1,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PU041D/1"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/pu041d/0.jpg"
     },
     {
       "ImageNo": 2,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PU041D/2"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/pu041d/1.jpg"
     },
     {
       "ImageNo": 3,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PU041D/3"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/pu041d/2.jpg"
     },
     {
       "ImageNo": 4,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PU041D/4"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/pu041d/3.jpg"
     }
   ],
   "IsCustomisable": true,
@@ -96,7 +96,7 @@
     "Default": false,
     "Quality": 0
   },
-  "MoonpigProductNo": "PU041D",
+  "MoonpigProductNo": "pu041d",
   "Pages": [
     {
       "PageNo": 1,
@@ -212,7 +212,7 @@
   },
   "SoldOut": false,
   "SupplierNo": "",
-  "ThumbnailUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PU041D",
+  "ThumbnailUrl": "https://moonpig.github.io/tech-test-frontend/image/pu041d/0.jpg",
   "Title": "Classic Portrait Personalised Photo Upload Card",
   "AdditionalInfo": "Classic Portrait Personalised Photo Upload Card",
   "IsMultipack": false,

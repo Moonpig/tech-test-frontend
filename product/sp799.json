@@ -109,19 +109,19 @@
   "ImageUrls": [
     {
       "ImageNo": 1,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/SP799/1"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/sp799/0.jpg"
     },
     {
       "ImageNo": 2,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/SP799/2"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/sp799/1.jpg"
     },
     {
       "ImageNo": 3,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/SP799/3"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/sp799/2.jpg"
     },
     {
       "ImageNo": 4,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/SP799/4"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/sp799/3.jpg"
     }
   ],
   "IsCustomisable": true,
@@ -129,7 +129,7 @@
     "Default": false,
     "Quality": 0
   },
-  "MoonpigProductNo": "SP799",
+  "MoonpigProductNo": "sp799",
   "Pages": [
     {
       "PageNo": 1,
@@ -245,7 +245,7 @@
   },
   "SoldOut": false,
   "SupplierNo": "Vague",
-  "ThumbnailUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/SP799",
+  "ThumbnailUrl": "https://moonpig.github.io/tech-test-frontend/image/sp799/0.jpg",
   "Title": "Daughter's Personalised Card",
   "AdditionalInfo": "Daughter's Personalised Card",
   "IsMultipack": false,

@@ -76,19 +76,19 @@
   "ImageUrls": [
     {
       "ImageNo": 1,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PU042B/1"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/pu042b/0.jpg"
     },
     {
       "ImageNo": 2,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PU042B/2"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/pu042b/1.jpg"
     },
     {
       "ImageNo": 3,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PU042B/3"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/pu042b/2.jpg"
     },
     {
       "ImageNo": 4,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PU042B/4"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/pu042b/3.jpg"
     }
   ],
   "IsCustomisable": true,
@@ -96,7 +96,7 @@
     "Default": false,
     "Quality": 0
   },
-  "MoonpigProductNo": "PU042B",
+  "MoonpigProductNo": "pu042b",
   "Pages": [
     {
       "PageNo": 1,
@@ -212,7 +212,7 @@
   },
   "SoldOut": false,
   "SupplierNo": "",
-  "ThumbnailUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PU042B",
+  "ThumbnailUrl": "https://moonpig.github.io/tech-test-frontend/image/pu042b/0.jpg",
   "Title": "Landscape Personalised Photo Upload Greetings Card",
   "AdditionalInfo": "Landscape Personalised Photo Upload Greetings Card",
   "IsMultipack": false,

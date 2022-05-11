@@ -109,19 +109,19 @@
   "ImageUrls": [
     {
       "ImageNo": 1,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PUE182/1"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/pue182/0.jpg"
     },
     {
       "ImageNo": 2,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PUE182/2"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/pue182/1.jpg"
     },
     {
       "ImageNo": 3,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PUE182/3"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/pue182/2.jpg"
     },
     {
       "ImageNo": 4,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PUE182/4"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/pue182/3.jpg"
     }
   ],
   "IsCustomisable": true,
@@ -129,7 +129,7 @@
     "Default": false,
     "Quality": 0
   },
-  "MoonpigProductNo": "PUE182",
+  "MoonpigProductNo": "pue182",
   "Pages": [
     {
       "PageNo": 1,
@@ -245,7 +245,7 @@
   },
   "SoldOut": false,
   "SupplierNo": "7 photos",
-  "ThumbnailUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PUE182",
+  "ThumbnailUrl": "https://moonpig.github.io/tech-test-frontend/image/pue182/0.jpg",
   "Title": "Photo Birthday Card",
   "AdditionalInfo": "Photo Birthday Card",
   "IsMultipack": false,

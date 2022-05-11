@@ -7,23 +7,23 @@
   "ImageUrls": [
     {
       "ImageNo": 1,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/AR239622/1"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/ar239622/0.jpg"
     },
     {
       "ImageNo": 2,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/AR239622/2"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/ar239622/1.jpg"
     },
     {
       "ImageNo": 3,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/AR239622/3"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/ar239622/2.jpg"
     },
     {
       "ImageNo": 4,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/AR239622/4"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/ar239622/3.jpg"
     },
     {
       "ImageNo": 5,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/AR239622/5"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/ar239622/4.jpg"
     }
   ],
   "IsCustomisable": false,
@@ -31,7 +31,7 @@
     "Default": false,
     "Quality": 0
   },
-  "MoonpigProductNo": "AR239622",
+  "MoonpigProductNo": "ar239622",
   "Pages": [],
   "ProductCategoryGroup": {
     "Name": "Flowers and Plants",
@@ -78,7 +78,7 @@
   },
   "SoldOut": true,
   "SupplierNo": "239622",
-  "ThumbnailUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/AR239622",
+  "ThumbnailUrl": "https://moonpig.github.io/tech-test-frontend/image/ar239622/0.jpg",
   "Title": "The Rainbow Chrysanthemums",
   "AdditionalInfo": "The Rainbow Chrysanthemums",
   "IsMultipack": false,

@@ -109,19 +109,19 @@
   "ImageUrls": [
     {
       "ImageNo": 1,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/BE444/1"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/be444/0.jpg"
     },
     {
       "ImageNo": 2,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/BE444/2"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/be444/1.jpg"
     },
     {
       "ImageNo": 3,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/BE444/3"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/be444/2.jpg"
     },
     {
       "ImageNo": 4,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/BE444/4"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/be444/3.jpg"
     }
   ],
   "IsCustomisable": true,
@@ -129,7 +129,7 @@
     "Default": false,
     "Quality": 0
   },
-  "MoonpigProductNo": "BE444",
+  "MoonpigProductNo": "be444",
   "Pages": [
     {
       "PageNo": 1,
@@ -245,7 +245,7 @@
   },
   "SoldOut": false,
   "SupplierNo": "B618",
-  "ThumbnailUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/BE444",
+  "ThumbnailUrl": "https://moonpig.github.io/tech-test-frontend/image/be444/0.jpg",
   "Title": "Run, Its A Tiger Zebra Cartoon Card",
   "AdditionalInfo": "Run, Its A Tiger Zebra Cartoon Card",
   "IsMultipack": false,

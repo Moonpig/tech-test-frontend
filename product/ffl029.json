@@ -109,19 +109,19 @@
   "ImageUrls": [
     {
       "ImageNo": 1,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/FFL029/1"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/ffl029/0.jpg"
     },
     {
       "ImageNo": 2,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/FFL029/2"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/ffl029/1.jpg"
     },
     {
       "ImageNo": 3,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/FFL029/3"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/ffl029/2.jpg"
     },
     {
       "ImageNo": 4,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/FFL029/4"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/ffl029/3.jpg"
     }
   ],
   "IsCustomisable": true,
@@ -129,7 +129,7 @@
     "Default": false,
     "Quality": 0
   },
-  "MoonpigProductNo": "FFL029",
+  "MoonpigProductNo": "ffl029",
   "Pages": [
     {
       "PageNo": 1,
@@ -245,7 +245,7 @@
   },
   "SoldOut": false,
   "SupplierNo": "FFL029",
-  "ThumbnailUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/FFL029",
+  "ThumbnailUrl": "https://moonpig.github.io/tech-test-frontend/image/ffl029/0.jpg",
   "Title": "Stripes And Flowers Multi-Photo Happy Birthday Card",
   "AdditionalInfo": "Stripes And Flowers Multi-Photo Happy Birthday Card",
   "IsMultipack": false,

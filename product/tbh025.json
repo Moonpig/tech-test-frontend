@@ -109,19 +109,19 @@
   "ImageUrls": [
     {
       "ImageNo": 1,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/TBH025/1"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/tbh025/0.jpg"
     },
     {
       "ImageNo": 2,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/TBH025/2"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/tbh025/1.jpg"
     },
     {
       "ImageNo": 3,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/TBH025/3"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/tbh025/2.jpg"
     },
     {
       "ImageNo": 4,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/TBH025/4"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/tbh025/3.jpg"
     }
   ],
   "IsCustomisable": true,
@@ -129,7 +129,7 @@
     "Default": false,
     "Quality": 0
   },
-  "MoonpigProductNo": "TBH025",
+  "MoonpigProductNo": "tbh025",
   "Pages": [
     {
       "PageNo": 1,
@@ -245,7 +245,7 @@
   },
   "SoldOut": false,
   "SupplierNo": "TBH025",
-  "ThumbnailUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/TBH025",
+  "ThumbnailUrl": "https://moonpig.github.io/tech-test-frontend/image/tbh025/0.jpg",
   "Title": "Dad Definition and Pronounced Funny Father's Day Card",
   "AdditionalInfo": "Dad Definition and Pronounced Funny Father's Day Card",
   "IsMultipack": false,

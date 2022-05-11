@@ -109,19 +109,19 @@
   "ImageUrls": [
     {
       "ImageNo": 1,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PUE326/1"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/pue326/0.jpg"
     },
     {
       "ImageNo": 2,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PUE326/2"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/pue326/1.jpg"
     },
     {
       "ImageNo": 3,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PUE326/3"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/pue326/2.jpg"
     },
     {
       "ImageNo": 4,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PUE326/4"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/pue326/3.jpg"
     }
   ],
   "IsCustomisable": true,
@@ -129,7 +129,7 @@
     "Default": false,
     "Quality": 0
   },
-  "MoonpigProductNo": "PUE326",
+  "MoonpigProductNo": "pue326",
   "Pages": [
     {
       "PageNo": 1,
@@ -245,7 +245,7 @@
   },
   "SoldOut": false,
   "SupplierNo": "PUE326",
-  "ThumbnailUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PUE326",
+  "ThumbnailUrl": "https://moonpig.github.io/tech-test-frontend/image/pue326/0.jpg",
   "Title": "Birthday Card - Photo Upload Card - 20 Photos - Mum",
   "AdditionalInfo": "Birthday Card - Photo Upload Card - 20 Photos - Mum",
   "IsMultipack": false,

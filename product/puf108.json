@@ -43,19 +43,19 @@
   "ImageUrls": [
     {
       "ImageNo": 1,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PUF108/1"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/puf108/0.jpg"
     },
     {
       "ImageNo": 2,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PUF108/2"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/puf108/1.jpg"
     },
     {
       "ImageNo": 3,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PUF108/3"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/puf108/2.jpg"
     },
     {
       "ImageNo": 4,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PUF108/4"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/puf108/3.jpg"
     }
   ],
   "IsCustomisable": true,
@@ -63,7 +63,7 @@
     "Default": false,
     "Quality": 0
   },
-  "MoonpigProductNo": "PUF108",
+  "MoonpigProductNo": "puf108",
   "Pages": [
     {
       "PageNo": 1,
@@ -179,7 +179,7 @@
   },
   "SoldOut": false,
   "SupplierNo": "",
-  "ThumbnailUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PUF108",
+  "ThumbnailUrl": "https://moonpig.github.io/tech-test-frontend/image/puf108/0.jpg",
   "Title": "Customised Father's Day Card",
   "AdditionalInfo": "Customised Father's Day Card",
   "IsMultipack": false,

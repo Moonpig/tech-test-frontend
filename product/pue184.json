@@ -109,19 +109,19 @@
   "ImageUrls": [
     {
       "ImageNo": 1,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PUE184/1"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/pue184/0.jpg"
     },
     {
       "ImageNo": 2,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PUE184/2"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/pue184/1.jpg"
     },
     {
       "ImageNo": 3,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PUE184/3"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/pue184/2.jpg"
     },
     {
       "ImageNo": 4,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PUE184/4"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/pue184/3.jpg"
     }
   ],
   "IsCustomisable": true,
@@ -129,7 +129,7 @@
     "Default": false,
     "Quality": 0
   },
-  "MoonpigProductNo": "PUE184",
+  "MoonpigProductNo": "pue184",
   "Pages": [
     {
       "PageNo": 1,
@@ -245,7 +245,7 @@
   },
   "SoldOut": false,
   "SupplierNo": "15 photos Portrait",
-  "ThumbnailUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PUE184",
+  "ThumbnailUrl": "https://moonpig.github.io/tech-test-frontend/image/pue184/0.jpg",
   "Title": "Photo Upload Card",
   "AdditionalInfo": "Photo Upload Card",
   "IsMultipack": false,

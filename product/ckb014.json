@@ -109,19 +109,19 @@
   "ImageUrls": [
     {
       "ImageNo": 1,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/CKB014/1"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/ckb014/0.jpg"
     },
     {
       "ImageNo": 2,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/CKB014/2"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/ckb014/1.jpg"
     },
     {
       "ImageNo": 3,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/CKB014/3"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/ckb014/2.jpg"
     },
     {
       "ImageNo": 4,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/CKB014/4"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/ckb014/3.jpg"
     }
   ],
   "IsCustomisable": true,
@@ -129,7 +129,7 @@
     "Default": false,
     "Quality": 0
   },
-  "MoonpigProductNo": "CKB014",
+  "MoonpigProductNo": "ckb014",
   "Pages": [
     {
       "PageNo": 1,
@@ -245,7 +245,7 @@
   },
   "SoldOut": false,
   "SupplierNo": "Always & Forever PU",
-  "ThumbnailUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/CKB014",
+  "ThumbnailUrl": "https://moonpig.github.io/tech-test-frontend/image/ckb014/0.jpg",
   "Title": "Birthday Card For Your Girlfriend",
   "AdditionalInfo": "Birthday Card For Your Girlfriend",
   "IsMultipack": false,

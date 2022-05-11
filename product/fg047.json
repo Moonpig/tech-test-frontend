@@ -109,19 +109,19 @@
   "ImageUrls": [
     {
       "ImageNo": 1,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/FG047/1"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/fg047/0.jpg"
     },
     {
       "ImageNo": 2,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/FG047/2"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/fg047/1.jpg"
     },
     {
       "ImageNo": 3,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/FG047/3"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/fg047/2.jpg"
     },
     {
       "ImageNo": 4,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/FG047/4"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/fg047/3.jpg"
     }
   ],
   "IsCustomisable": true,
@@ -129,7 +129,7 @@
     "Default": false,
     "Quality": 0
   },
-  "MoonpigProductNo": "FG047",
+  "MoonpigProductNo": "fg047",
   "Pages": [
     {
       "PageNo": 1,
@@ -245,7 +245,7 @@
   },
   "SoldOut": false,
   "SupplierNo": "TGG45",
-  "ThumbnailUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/FG047",
+  "ThumbnailUrl": "https://moonpig.github.io/tech-test-frontend/image/fg047/0.jpg",
   "Title": "Funny Drinking Birthday Card",
   "AdditionalInfo": "Funny Drinking Birthday Card",
   "IsMultipack": false,

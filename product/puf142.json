@@ -109,19 +109,19 @@
   "ImageUrls": [
     {
       "ImageNo": 1,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PUF142/1"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/puf142/0.jpg"
     },
     {
       "ImageNo": 2,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PUF142/2"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/puf142/1.jpg"
     },
     {
       "ImageNo": 3,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PUF142/3"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/puf142/2.jpg"
     },
     {
       "ImageNo": 4,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PUF142/4"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/puf142/3.jpg"
     }
   ],
   "IsCustomisable": true,
@@ -129,7 +129,7 @@
     "Default": false,
     "Quality": 0
   },
-  "MoonpigProductNo": "PUF142",
+  "MoonpigProductNo": "puf142",
   "Pages": [
     {
       "PageNo": 1,
@@ -245,7 +245,7 @@
   },
   "SoldOut": false,
   "SupplierNo": "PUF142",
-  "ThumbnailUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PUF142",
+  "ThumbnailUrl": "https://moonpig.github.io/tech-test-frontend/image/puf142/0.jpg",
   "Title": "Photo Collage Grandpa Father's Day Card",
   "AdditionalInfo": "Photo Collage Grandpa Father's Day Card",
   "IsMultipack": false,

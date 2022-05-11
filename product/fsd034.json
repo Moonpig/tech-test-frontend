@@ -109,19 +109,19 @@
   "ImageUrls": [
     {
       "ImageNo": 1,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/FSD034/1"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/fsd034/0.jpg"
     },
     {
       "ImageNo": 2,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/FSD034/2"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/fsd034/1.jpg"
     },
     {
       "ImageNo": 3,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/FSD034/3"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/fsd034/2.jpg"
     },
     {
       "ImageNo": 4,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/FSD034/4"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/fsd034/3.jpg"
     }
   ],
   "IsCustomisable": true,
@@ -129,7 +129,7 @@
     "Default": false,
     "Quality": 0
   },
-  "MoonpigProductNo": "FSD034",
+  "MoonpigProductNo": "fsd034",
   "Pages": [
     {
       "PageNo": 1,
@@ -245,7 +245,7 @@
   },
   "SoldOut": false,
   "SupplierNo": "RB3-2135/01",
-  "ThumbnailUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/FSD034",
+  "ThumbnailUrl": "https://moonpig.github.io/tech-test-frontend/image/fsd034/0.jpg",
   "Title": "Funny Neighbour Greeting Card",
   "AdditionalInfo": "Funny Neighbour Greeting Card",
   "IsMultipack": false,

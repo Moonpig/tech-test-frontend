@@ -7,27 +7,27 @@
   "ImageUrls": [
     {
       "ImageNo": 1,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/AR239791/1"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/ar239791/0.jpg"
     },
     {
       "ImageNo": 2,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/AR239791/2"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/ar239791/1.jpg"
     },
     {
       "ImageNo": 3,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/AR239791/3"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/ar239791/2.jpg"
     },
     {
       "ImageNo": 4,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/AR239791/4"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/ar239791/3.jpg"
     },
     {
       "ImageNo": 5,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/AR239791/5"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/ar239791/4.jpg"
     },
     {
       "ImageNo": 6,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/AR239791/6"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/ar239791/5.jpg"
     }
   ],
   "IsCustomisable": false,
@@ -35,7 +35,7 @@
     "Default": false,
     "Quality": 0
   },
-  "MoonpigProductNo": "AR239791",
+  "MoonpigProductNo": "ar239791",
   "Pages": [],
   "ProductCategoryGroup": {
     "Name": "Flowers and Plants",
@@ -82,7 +82,7 @@
   },
   "SoldOut": true,
   "SupplierNo": "239791",
-  "ThumbnailUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/AR239791",
+  "ThumbnailUrl": "https://moonpig.github.io/tech-test-frontend/image/ar239791/0.jpg",
   "Title": "The Letterbox Mixed Alstroemeria",
   "AdditionalInfo": "The Letterbox Mixed Alstroemeria",
   "IsMultipack": false,

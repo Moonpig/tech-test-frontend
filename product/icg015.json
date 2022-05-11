@@ -109,19 +109,19 @@
   "ImageUrls": [
     {
       "ImageNo": 1,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/ICG015/1"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/icg015/0.jpg"
     },
     {
       "ImageNo": 2,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/ICG015/2"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/icg015/1.jpg"
     },
     {
       "ImageNo": 3,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/ICG015/3"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/icg015/2.jpg"
     },
     {
       "ImageNo": 4,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/ICG015/4"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/icg015/3.jpg"
     }
   ],
   "IsCustomisable": true,
@@ -129,7 +129,7 @@
     "Default": false,
     "Quality": 0
   },
-  "MoonpigProductNo": "ICG015",
+  "MoonpigProductNo": "icg015",
   "Pages": [
     {
       "PageNo": 1,
@@ -245,7 +245,7 @@
   },
   "SoldOut": false,
   "SupplierNo": "ICG015",
-  "ThumbnailUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/ICG015",
+  "ThumbnailUrl": "https://moonpig.github.io/tech-test-frontend/image/icg015/0.jpg",
   "Title": "Incognito Bunting And Hat Photo Upload Card",
   "AdditionalInfo": "Incognito Bunting And Hat Photo Upload Card",
   "IsMultipack": false,

@@ -109,19 +109,19 @@
   "ImageUrls": [
     {
       "ImageNo": 1,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/DDD078/1"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/ddd078/0.jpg"
     },
     {
       "ImageNo": 2,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/DDD078/2"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/ddd078/1.jpg"
     },
     {
       "ImageNo": 3,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/DDD078/3"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/ddd078/2.jpg"
     },
     {
       "ImageNo": 4,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/DDD078/4"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/ddd078/3.jpg"
     }
   ],
   "IsCustomisable": true,
@@ -129,7 +129,7 @@
     "Default": false,
     "Quality": 0
   },
-  "MoonpigProductNo": "DDD078",
+  "MoonpigProductNo": "ddd078",
   "Pages": [
     {
       "PageNo": 1,
@@ -245,7 +245,7 @@
   },
   "SoldOut": false,
   "SupplierNo": "5512A",
-  "ThumbnailUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/DDD078",
+  "ThumbnailUrl": "https://moonpig.github.io/tech-test-frontend/image/ddd078/0.jpg",
   "Title": "Days Without Internet And Personalised Name Had Gone Insane Funny Card",
   "AdditionalInfo": "Days Without Internet And Personalised Name Had Gone Insane Funny Card",
   "IsMultipack": false,

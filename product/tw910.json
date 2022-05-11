@@ -109,19 +109,19 @@
   "ImageUrls": [
     {
       "ImageNo": 1,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/TW910/1"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/tw910/0.jpg"
     },
     {
       "ImageNo": 2,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/TW910/2"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/tw910/1.jpg"
     },
     {
       "ImageNo": 3,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/TW910/3"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/tw910/2.jpg"
     },
     {
       "ImageNo": 4,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/TW910/4"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/tw910/3.jpg"
     }
   ],
   "IsCustomisable": true,
@@ -129,7 +129,7 @@
     "Default": false,
     "Quality": 0
   },
-  "MoonpigProductNo": "TW910",
+  "MoonpigProductNo": "tw910",
   "Pages": [
     {
       "PageNo": 1,
@@ -245,7 +245,7 @@
   },
   "SoldOut": false,
   "SupplierNo": "TW910",
-  "ThumbnailUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/TW910",
+  "ThumbnailUrl": "https://moonpig.github.io/tech-test-frontend/image/tw910/0.jpg",
   "Title": "Funny 21St Birthday Card",
   "AdditionalInfo": "Funny 21St Birthday Card",
   "IsMultipack": false,

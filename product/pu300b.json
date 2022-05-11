@@ -9,19 +9,19 @@
   "ImageUrls": [
     {
       "ImageNo": 1,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PU300B/1"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/pu300b/0.jpg"
     },
     {
       "ImageNo": 2,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PU300B/2"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/pu300b/1.jpg"
     },
     {
       "ImageNo": 3,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PU300B/3"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/pu300b/2.jpg"
     },
     {
       "ImageNo": 4,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PU300B/4"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/pu300b/3.jpg"
     }
   ],
   "IsCustomisable": true,
@@ -29,7 +29,7 @@
     "Default": false,
     "Quality": 0
   },
-  "MoonpigProductNo": "PU300B",
+  "MoonpigProductNo": "pu300b",
   "Pages": [
     {
       "PageNo": 1,
@@ -145,7 +145,7 @@
   },
   "SoldOut": true,
   "SupplierNo": "",
-  "ThumbnailUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PU300B",
+  "ThumbnailUrl": "https://moonpig.github.io/tech-test-frontend/image/pu300b/0.jpg",
   "Title": "Full Width Upload Your Photo And Text Card",
   "AdditionalInfo": "Full Width Upload Your Photo And Text Card",
   "IsMultipack": false,

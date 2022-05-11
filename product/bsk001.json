@@ -76,19 +76,19 @@
   "ImageUrls": [
     {
       "ImageNo": 1,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/BSK001/1"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/bsk001/0.jpg"
     },
     {
       "ImageNo": 2,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/BSK001/2"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/bsk001/1.jpg"
     },
     {
       "ImageNo": 3,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/BSK001/3"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/bsk001/2.jpg"
     },
     {
       "ImageNo": 4,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/BSK001/4"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/bsk001/3.jpg"
     }
   ],
   "IsCustomisable": true,
@@ -96,7 +96,7 @@
     "Default": false,
     "Quality": 0
   },
-  "MoonpigProductNo": "BSK001",
+  "MoonpigProductNo": "bsk001",
   "Pages": [
     {
       "PageNo": 1,
@@ -212,7 +212,7 @@
   },
   "SoldOut": false,
   "SupplierNo": "BSK001",
-  "ThumbnailUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/BSK001",
+  "ThumbnailUrl": "https://moonpig.github.io/tech-test-frontend/image/bsk001/0.jpg",
   "Title": "Baby Shark song photo upload kids Birthday card",
   "AdditionalInfo": "Baby Shark song photo upload kids Birthday card",
   "IsMultipack": false,

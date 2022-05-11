@@ -109,19 +109,19 @@
   "ImageUrls": [
     {
       "ImageNo": 1,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/DDD002/1"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/ddd002/0.jpg"
     },
     {
       "ImageNo": 2,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/DDD002/2"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/ddd002/1.jpg"
     },
     {
       "ImageNo": 3,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/DDD002/3"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/ddd002/2.jpg"
     },
     {
       "ImageNo": 4,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/DDD002/4"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/ddd002/3.jpg"
     }
   ],
   "IsCustomisable": true,
@@ -129,7 +129,7 @@
     "Default": false,
     "Quality": 0
   },
-  "MoonpigProductNo": "DDD002",
+  "MoonpigProductNo": "ddd002",
   "Pages": [
     {
       "PageNo": 1,
@@ -245,7 +245,7 @@
   },
   "SoldOut": false,
   "SupplierNo": "454A",
-  "ThumbnailUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/DDD002",
+  "ThumbnailUrl": "https://moonpig.github.io/tech-test-frontend/image/ddd002/0.jpg",
   "Title": "Funny Anniversary Card",
   "AdditionalInfo": "Funny Anniversary Card",
   "IsMultipack": false,

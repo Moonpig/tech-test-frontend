@@ -76,19 +76,19 @@
   "ImageUrls": [
     {
       "ImageNo": 1,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/OI165/1"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/oi165/0.jpg"
     },
     {
       "ImageNo": 2,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/OI165/2"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/oi165/1.jpg"
     },
     {
       "ImageNo": 3,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/OI165/3"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/oi165/2.jpg"
     },
     {
       "ImageNo": 4,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/OI165/4"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/oi165/3.jpg"
     }
   ],
   "IsCustomisable": true,
@@ -96,7 +96,7 @@
     "Default": false,
     "Quality": 0
   },
-  "MoonpigProductNo": "OI165",
+  "MoonpigProductNo": "oi165",
   "Pages": [
     {
       "PageNo": 1,
@@ -212,7 +212,7 @@
   },
   "SoldOut": false,
   "SupplierNo": "Oi! Photo 4 photos female",
-  "ThumbnailUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/OI165",
+  "ThumbnailUrl": "https://moonpig.github.io/tech-test-frontend/image/oi165/0.jpg",
   "Title": "Magazine Spoof Birthday Card",
   "AdditionalInfo": "Magazine Spoof Birthday Card",
   "IsMultipack": false,

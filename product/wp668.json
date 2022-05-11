@@ -109,19 +109,19 @@
   "ImageUrls": [
     {
       "ImageNo": 1,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/WP668/1"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/wp668/0.jpg"
     },
     {
       "ImageNo": 2,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/WP668/2"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/wp668/1.jpg"
     },
     {
       "ImageNo": 3,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/WP668/3"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/wp668/2.jpg"
     },
     {
       "ImageNo": 4,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/WP668/4"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/wp668/3.jpg"
     }
   ],
   "IsCustomisable": true,
@@ -129,7 +129,7 @@
     "Default": false,
     "Quality": 0
   },
-  "MoonpigProductNo": "WP668",
+  "MoonpigProductNo": "wp668",
   "Pages": [
     {
       "PageNo": 1,
@@ -245,7 +245,7 @@
   },
   "SoldOut": false,
   "SupplierNo": "WP668",
-  "ThumbnailUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/WP668",
+  "ThumbnailUrl": "https://moonpig.github.io/tech-test-frontend/image/wp668/0.jpg",
   "Title": "Disney Winnie The Pooh Happy First Father's Day Photo Card",
   "AdditionalInfo": "Disney Winnie The Pooh Happy First Father's Day Photo Card",
   "IsMultipack": false,

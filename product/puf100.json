@@ -109,19 +109,19 @@
   "ImageUrls": [
     {
       "ImageNo": 1,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PUF100/1"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/puf100/0.jpg"
     },
     {
       "ImageNo": 2,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PUF100/2"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/puf100/1.jpg"
     },
     {
       "ImageNo": 3,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PUF100/3"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/puf100/2.jpg"
     },
     {
       "ImageNo": 4,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PUF100/4"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/puf100/3.jpg"
     }
   ],
   "IsCustomisable": true,
@@ -129,7 +129,7 @@
     "Default": false,
     "Quality": 0
   },
-  "MoonpigProductNo": "PUF100",
+  "MoonpigProductNo": "puf100",
   "Pages": [
     {
       "PageNo": 1,
@@ -245,7 +245,7 @@
   },
   "SoldOut": false,
   "SupplierNo": "PUF100",
-  "ThumbnailUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PUF100",
+  "ThumbnailUrl": "https://moonpig.github.io/tech-test-frontend/image/puf100/0.jpg",
   "Title": "Grandad Father's Day Card",
   "AdditionalInfo": "Grandad Father's Day Card",
   "IsMultipack": false,

@@ -109,19 +109,19 @@
   "ImageUrls": [
     {
       "ImageNo": 1,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/EP073/1"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/ep073/0.jpg"
     },
     {
       "ImageNo": 2,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/EP073/2"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/ep073/1.jpg"
     },
     {
       "ImageNo": 3,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/EP073/3"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/ep073/2.jpg"
     },
     {
       "ImageNo": 4,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/EP073/4"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/ep073/3.jpg"
     }
   ],
   "IsCustomisable": true,
@@ -129,7 +129,7 @@
     "Default": false,
     "Quality": 0
   },
-  "MoonpigProductNo": "EP073",
+  "MoonpigProductNo": "ep073",
   "Pages": [
     {
       "PageNo": 1,
@@ -245,7 +245,7 @@
   },
   "SoldOut": false,
   "SupplierNo": "EPNA0004",
-  "ThumbnailUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/EP073",
+  "ThumbnailUrl": "https://moonpig.github.io/tech-test-frontend/image/ep073/0.jpg",
   "Title": "Eric The Penguin Funny Personalised Happy Birthday Card",
   "AdditionalInfo": "Eric The Penguin Funny Personalised Happy Birthday Card",
   "IsMultipack": false,

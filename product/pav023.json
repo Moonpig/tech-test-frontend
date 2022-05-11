@@ -109,19 +109,19 @@
   "ImageUrls": [
     {
       "ImageNo": 1,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PAV023/1"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/pav023/0.jpg"
     },
     {
       "ImageNo": 2,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PAV023/2"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/pav023/1.jpg"
     },
     {
       "ImageNo": 3,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PAV023/3"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/pav023/2.jpg"
     },
     {
       "ImageNo": 4,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PAV023/4"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/pav023/3.jpg"
     }
   ],
   "IsCustomisable": true,
@@ -129,7 +129,7 @@
     "Default": false,
     "Quality": 0
   },
-  "MoonpigProductNo": "PAV023",
+  "MoonpigProductNo": "pav023",
   "Pages": [
     {
       "PageNo": 1,
@@ -245,7 +245,7 @@
   },
   "SoldOut": false,
   "SupplierNo": "Scattered Photos in Heart Shape 12 x PU",
-  "ThumbnailUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PAV023",
+  "ThumbnailUrl": "https://moonpig.github.io/tech-test-frontend/image/pav023/0.jpg",
   "Title": "Photo Heart Anniversary Cards",
   "AdditionalInfo": "Photo Heart Anniversary Cards",
   "IsMultipack": false,

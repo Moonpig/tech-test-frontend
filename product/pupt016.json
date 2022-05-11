@@ -109,19 +109,19 @@
   "ImageUrls": [
     {
       "ImageNo": 1,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PUPT016/1"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/pupt016/0.jpg"
     },
     {
       "ImageNo": 2,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PUPT016/2"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/pupt016/1.jpg"
     },
     {
       "ImageNo": 3,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PUPT016/3"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/pupt016/2.jpg"
     },
     {
       "ImageNo": 4,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PUPT016/4"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/pupt016/3.jpg"
     }
   ],
   "IsCustomisable": true,
@@ -129,7 +129,7 @@
     "Default": false,
     "Quality": 0
   },
-  "MoonpigProductNo": "PUPT016",
+  "MoonpigProductNo": "pupt016",
   "Pages": [
     {
       "PageNo": 1,
@@ -245,7 +245,7 @@
   },
   "SoldOut": false,
   "SupplierNo": "PUPT016",
-  "ThumbnailUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PUPT016",
+  "ThumbnailUrl": "https://moonpig.github.io/tech-test-frontend/image/pupt016/0.jpg",
   "Title": "From The Dogs Happy Father's Day Card",
   "AdditionalInfo": "From The Dogs Happy Father's Day Card",
   "IsMultipack": false,

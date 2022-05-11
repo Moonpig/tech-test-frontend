@@ -109,19 +109,19 @@
   "ImageUrls": [
     {
       "ImageNo": 1,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/CKB021/1"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/ckb021/0.jpg"
     },
     {
       "ImageNo": 2,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/CKB021/2"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/ckb021/1.jpg"
     },
     {
       "ImageNo": 3,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/CKB021/3"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/ckb021/2.jpg"
     },
     {
       "ImageNo": 4,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/CKB021/4"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/ckb021/3.jpg"
     }
   ],
   "IsCustomisable": true,
@@ -129,7 +129,7 @@
     "Default": false,
     "Quality": 0
   },
-  "MoonpigProductNo": "CKB021",
+  "MoonpigProductNo": "ckb021",
   "Pages": [
     {
       "PageNo": 1,
@@ -245,7 +245,7 @@
   },
   "SoldOut": false,
   "SupplierNo": "Love you Daddy",
-  "ThumbnailUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/CKB021",
+  "ThumbnailUrl": "https://moonpig.github.io/tech-test-frontend/image/ckb021/0.jpg",
   "Title": "Love You Daddy Happy Father's Day Photo Card",
   "AdditionalInfo": "Love You Daddy Happy Father's Day Photo Card",
   "IsMultipack": false,

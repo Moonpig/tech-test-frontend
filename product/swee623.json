@@ -7,7 +7,7 @@
   "ImageUrls": [
     {
       "ImageNo": 1,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/SWEE623/1"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/swee623/0.jpg"
     }
   ],
   "IsCustomisable": false,
@@ -15,7 +15,7 @@
     "Default": false,
     "Quality": 0
   },
-  "MoonpigProductNo": "SWEE623",
+  "MoonpigProductNo": "swee623",
   "Pages": [],
   "ProductCategoryGroup": {
     "Name": "Gift",
@@ -62,7 +62,7 @@
   },
   "SoldOut": true,
   "SupplierNo": "SWEE623",
-  "ThumbnailUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/SWEE623",
+  "ThumbnailUrl": "https://moonpig.github.io/tech-test-frontend/image/swee623/0.jpg",
   "Title": "Birthday Sweet Gifts Jar Large 1.25kg",
   "AdditionalInfo": "Birthday Sweet Gifts Jar Large 1.25kg",
   "IsMultipack": false,

@@ -109,19 +109,19 @@
   "ImageUrls": [
     {
       "ImageNo": 1,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/JAT023/1"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/jat023/0.jpg"
     },
     {
       "ImageNo": 2,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/JAT023/2"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/jat023/1.jpg"
     },
     {
       "ImageNo": 3,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/JAT023/3"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/jat023/2.jpg"
     },
     {
       "ImageNo": 4,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/JAT023/4"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/jat023/3.jpg"
     }
   ],
   "IsCustomisable": true,
@@ -129,7 +129,7 @@
     "Default": false,
     "Quality": 0
   },
-  "MoonpigProductNo": "JAT023",
+  "MoonpigProductNo": "jat023",
   "Pages": [
     {
       "PageNo": 1,
@@ -245,7 +245,7 @@
   },
   "SoldOut": false,
   "SupplierNo": "JAT023",
-  "ThumbnailUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/JAT023",
+  "ThumbnailUrl": "https://moonpig.github.io/tech-test-frontend/image/jat023/0.jpg",
   "Title": "Birthday Card - Photo Upload - 30 - Thirty - Holy Shite",
   "AdditionalInfo": "Birthday Card - Photo Upload - 30 - Thirty - Holy Shite",
   "IsMultipack": false,

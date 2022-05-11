@@ -109,19 +109,19 @@
   "ImageUrls": [
     {
       "ImageNo": 1,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PU959/1"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/pu959/0.jpg"
     },
     {
       "ImageNo": 2,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PU959/2"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/pu959/1.jpg"
     },
     {
       "ImageNo": 3,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PU959/3"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/pu959/2.jpg"
     },
     {
       "ImageNo": 4,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PU959/4"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/pu959/3.jpg"
     }
   ],
   "IsCustomisable": true,
@@ -129,7 +129,7 @@
     "Default": false,
     "Quality": 0
   },
-  "MoonpigProductNo": "PU959",
+  "MoonpigProductNo": "pu959",
   "Pages": [
     {
       "PageNo": 1,
@@ -245,7 +245,7 @@
   },
   "SoldOut": false,
   "SupplierNo": "PU959",
-  "ThumbnailUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PU959",
+  "ThumbnailUrl": "https://moonpig.github.io/tech-test-frontend/image/pu959/0.jpg",
   "Title": "Personalised Anniversary Card",
   "AdditionalInfo": "Personalised Anniversary Card",
   "IsMultipack": false,

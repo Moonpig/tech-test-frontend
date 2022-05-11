@@ -109,19 +109,19 @@
   "ImageUrls": [
     {
       "ImageNo": 1,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/MLK008/1"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/mlk008/0.jpg"
     },
     {
       "ImageNo": 2,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/MLK008/2"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/mlk008/1.jpg"
     },
     {
       "ImageNo": 3,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/MLK008/3"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/mlk008/2.jpg"
     },
     {
       "ImageNo": 4,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/MLK008/4"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/mlk008/3.jpg"
     }
   ],
   "IsCustomisable": true,
@@ -129,7 +129,7 @@
     "Default": false,
     "Quality": 0
   },
-  "MoonpigProductNo": "MLK008",
+  "MoonpigProductNo": "mlk008",
   "Pages": [
     {
       "PageNo": 1,
@@ -245,7 +245,7 @@
   },
   "SoldOut": false,
   "SupplierNo": "MILK_MS115",
-  "ThumbnailUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/MLK008",
+  "ThumbnailUrl": "https://moonpig.github.io/tech-test-frontend/image/mlk008/0.jpg",
   "Title": "It's Not The Years In Your Life That Count Personalised Happy Birthday Card",
   "AdditionalInfo": "It's Not The Years In Your Life That Count Personalised Happy Birthday Card",
   "IsMultipack": false,

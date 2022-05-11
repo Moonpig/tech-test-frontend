@@ -109,19 +109,19 @@
   "ImageUrls": [
     {
       "ImageNo": 1,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PUE292/1"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/pue292/0.jpg"
     },
     {
       "ImageNo": 2,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PUE292/2"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/pue292/1.jpg"
     },
     {
       "ImageNo": 3,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PUE292/3"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/pue292/2.jpg"
     },
     {
       "ImageNo": 4,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PUE292/4"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/pue292/3.jpg"
     }
   ],
   "IsCustomisable": true,
@@ -129,7 +129,7 @@
     "Default": false,
     "Quality": 0
   },
-  "MoonpigProductNo": "PUE292",
+  "MoonpigProductNo": "pue292",
   "Pages": [
     {
       "PageNo": 1,
@@ -245,7 +245,7 @@
   },
   "SoldOut": false,
   "SupplierNo": "PUE292",
-  "ThumbnailUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PUE292",
+  "ThumbnailUrl": "https://moonpig.github.io/tech-test-frontend/image/pue292/0.jpg",
   "Title": "Happy Birthday Calligraphy Birthday Card",
   "AdditionalInfo": "Happy Birthday Calligraphy Birthday Card",
   "IsMultipack": false,

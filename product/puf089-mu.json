@@ -9,19 +9,19 @@
   "ImageUrls": [
     {
       "ImageNo": 1,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PUF089-MU/1"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/puf089-mu/0.jpg"
     },
     {
       "ImageNo": 2,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PUF089-MU/2"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/puf089-mu/1.jpg"
     },
     {
       "ImageNo": 3,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PUF089-MU/3"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/puf089-mu/2.jpg"
     },
     {
       "ImageNo": 4,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PUF089-MU/4"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/puf089-mu/3.jpg"
     }
   ],
   "IsCustomisable": true,
@@ -29,7 +29,7 @@
     "Default": false,
     "Quality": 0
   },
-  "MoonpigProductNo": "PUF089-MU",
+  "MoonpigProductNo": "puf089-mu",
   "Pages": [
     {
       "PageNo": 1,
@@ -94,7 +94,7 @@
   },
   "SoldOut": false,
   "SupplierNo": "PUF089-MU",
-  "ThumbnailUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PUF089-MU",
+  "ThumbnailUrl": "https://moonpig.github.io/tech-test-frontend/image/puf089-mu/0.jpg",
   "Title": "Father's Day No.1 Dad Photo Upload Mug",
   "AdditionalInfo": "Father's Day No.1 Dad Photo Upload Mug",
   "IsMultipack": false,

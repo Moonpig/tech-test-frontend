@@ -109,19 +109,19 @@
   "ImageUrls": [
     {
       "ImageNo": 1,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/MRV021/1"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/mrv021/0.jpg"
     },
     {
       "ImageNo": 2,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/MRV021/2"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/mrv021/1.jpg"
     },
     {
       "ImageNo": 3,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/MRV021/3"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/mrv021/2.jpg"
     },
     {
       "ImageNo": 4,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/MRV021/4"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/mrv021/3.jpg"
     }
   ],
   "IsCustomisable": true,
@@ -129,7 +129,7 @@
     "Default": false,
     "Quality": 0
   },
-  "MoonpigProductNo": "MRV021",
+  "MoonpigProductNo": "mrv021",
   "Pages": [
     {
       "PageNo": 1,
@@ -245,7 +245,7 @@
   },
   "SoldOut": false,
   "SupplierNo": "MRV021",
-  "ThumbnailUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/MRV021",
+  "ThumbnailUrl": "https://moonpig.github.io/tech-test-frontend/image/mrv021/0.jpg",
   "Title": "Marvels Cartoon The Avengers Heros Photo Card",
   "AdditionalInfo": "Marvels Cartoon The Avengers Heros Photo Card",
   "IsMultipack": false,

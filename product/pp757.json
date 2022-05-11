@@ -109,19 +109,19 @@
   "ImageUrls": [
     {
       "ImageNo": 1,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PP757/1"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/pp757/0.jpg"
     },
     {
       "ImageNo": 2,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PP757/2"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/pp757/1.jpg"
     },
     {
       "ImageNo": 3,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PP757/3"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/pp757/2.jpg"
     },
     {
       "ImageNo": 4,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PP757/4"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/pp757/3.jpg"
     }
   ],
   "IsCustomisable": true,
@@ -129,7 +129,7 @@
     "Default": false,
     "Quality": 0
   },
-  "MoonpigProductNo": "PP757",
+  "MoonpigProductNo": "pp757",
   "Pages": [
     {
       "PageNo": 1,
@@ -245,7 +245,7 @@
   },
   "SoldOut": false,
   "SupplierNo": "",
-  "ThumbnailUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PP757",
+  "ThumbnailUrl": "https://moonpig.github.io/tech-test-frontend/image/pp757/0.jpg",
   "Title": "Funny Dog Birthday Card",
   "AdditionalInfo": "Funny Dog Birthday Card",
   "IsMultipack": false,

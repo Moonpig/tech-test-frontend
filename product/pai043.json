@@ -109,19 +109,19 @@
   "ImageUrls": [
     {
       "ImageNo": 1,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PAI043/1"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/pai043/0.jpg"
     },
     {
       "ImageNo": 2,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PAI043/2"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/pai043/1.jpg"
     },
     {
       "ImageNo": 3,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PAI043/3"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/pai043/2.jpg"
     },
     {
       "ImageNo": 4,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PAI043/4"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/pai043/3.jpg"
     }
   ],
   "IsCustomisable": true,
@@ -129,7 +129,7 @@
     "Default": false,
     "Quality": 0
   },
-  "MoonpigProductNo": "PAI043",
+  "MoonpigProductNo": "pai043",
   "Pages": [
     {
       "PageNo": 1,
@@ -245,7 +245,7 @@
   },
   "SoldOut": false,
   "SupplierNo": "",
-  "ThumbnailUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PAI043",
+  "ThumbnailUrl": "https://moonpig.github.io/tech-test-frontend/image/pai043/0.jpg",
   "Title": "Anniversary Card - Happy Anniversary - Photo Upload",
   "AdditionalInfo": "Anniversary Card - Happy Anniversary - Photo Upload",
   "IsMultipack": false,

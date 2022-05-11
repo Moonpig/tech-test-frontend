@@ -109,19 +109,19 @@
   "ImageUrls": [
     {
       "ImageNo": 1,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/MLK005/1"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/mlk005/0.jpg"
     },
     {
       "ImageNo": 2,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/MLK005/2"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/mlk005/1.jpg"
     },
     {
       "ImageNo": 3,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/MLK005/3"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/mlk005/2.jpg"
     },
     {
       "ImageNo": 4,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/MLK005/4"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/mlk005/3.jpg"
     }
   ],
   "IsCustomisable": true,
@@ -129,7 +129,7 @@
     "Default": false,
     "Quality": 0
   },
-  "MoonpigProductNo": "MLK005",
+  "MoonpigProductNo": "mlk005",
   "Pages": [
     {
       "PageNo": 1,
@@ -245,7 +245,7 @@
   },
   "SoldOut": false,
   "SupplierNo": "MILK_MS091",
-  "ThumbnailUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/MLK005",
+  "ThumbnailUrl": "https://moonpig.github.io/tech-test-frontend/image/mlk005/0.jpg",
   "Title": "Vintage Age Is Mind Over Matter Personalised Happy Birthday Card",
   "AdditionalInfo": "Vintage Age Is Mind Over Matter Personalised Happy Birthday Card",
   "IsMultipack": false,

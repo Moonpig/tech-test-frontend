@@ -109,19 +109,19 @@
   "ImageUrls": [
     {
       "ImageNo": 1,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/TDN017/1"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/tdn017/0.jpg"
     },
     {
       "ImageNo": 2,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/TDN017/2"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/tdn017/1.jpg"
     },
     {
       "ImageNo": 3,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/TDN017/3"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/tdn017/2.jpg"
     },
     {
       "ImageNo": 4,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/TDN017/4"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/tdn017/3.jpg"
     }
   ],
   "IsCustomisable": true,
@@ -129,7 +129,7 @@
     "Default": false,
     "Quality": 0
   },
-  "MoonpigProductNo": "TDN017",
+  "MoonpigProductNo": "tdn017",
   "Pages": [
     {
       "PageNo": 1,
@@ -245,7 +245,7 @@
   },
   "SoldOut": false,
   "SupplierNo": "Fiffty today",
-  "ThumbnailUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/TDN017",
+  "ThumbnailUrl": "https://moonpig.github.io/tech-test-frontend/image/tdn017/0.jpg",
   "Title": "50th Birthday Card",
   "AdditionalInfo": "50th Birthday Card",
   "IsMultipack": false,

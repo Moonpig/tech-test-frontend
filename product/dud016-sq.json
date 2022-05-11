@@ -43,19 +43,19 @@
   "ImageUrls": [
     {
       "ImageNo": 1,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/DUD016-SQ/1"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/dud016-sq/0.jpg"
     },
     {
       "ImageNo": 2,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/DUD016-SQ/2"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/dud016-sq/1.jpg"
     },
     {
       "ImageNo": 3,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/DUD016-SQ/3"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/dud016-sq/2.jpg"
     },
     {
       "ImageNo": 4,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/DUD016-SQ/4"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/dud016-sq/3.jpg"
     }
   ],
   "IsCustomisable": true,
@@ -63,7 +63,7 @@
     "Default": false,
     "Quality": 0
   },
-  "MoonpigProductNo": "DUD016-SQ",
+  "MoonpigProductNo": "dud016-sq",
   "Pages": [
     {
       "PageNo": 1,
@@ -179,7 +179,7 @@
   },
   "SoldOut": false,
   "SupplierNo": "DUD007-SQ copy",
-  "ThumbnailUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/DUD016-SQ",
+  "ThumbnailUrl": "https://moonpig.github.io/tech-test-frontend/image/dud016-sq/0.jpg",
   "Title": "Building Blocks Happy Father's Day Card From The Bump Photo Card",
   "AdditionalInfo": "Building Blocks Happy Father's Day Card From The Bump Photo Card",
   "IsMultipack": false,

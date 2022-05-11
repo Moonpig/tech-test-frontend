@@ -109,19 +109,19 @@
   "ImageUrls": [
     {
       "ImageNo": 1,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/THN035/1"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/thn035/0.jpg"
     },
     {
       "ImageNo": 2,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/THN035/2"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/thn035/1.jpg"
     },
     {
       "ImageNo": 3,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/THN035/3"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/thn035/2.jpg"
     },
     {
       "ImageNo": 4,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/THN035/4"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/thn035/3.jpg"
     }
   ],
   "IsCustomisable": true,
@@ -129,7 +129,7 @@
     "Default": false,
     "Quality": 0
   },
-  "MoonpigProductNo": "THN035",
+  "MoonpigProductNo": "thn035",
   "Pages": [
     {
       "PageNo": 1,
@@ -245,7 +245,7 @@
   },
   "SoldOut": false,
   "SupplierNo": "JN709LC",
-  "ThumbnailUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/THN035",
+  "ThumbnailUrl": "https://moonpig.github.io/tech-test-frontend/image/thn035/0.jpg",
   "Title": "Happy Birthday Daughter Heart Photo Upload Card",
   "AdditionalInfo": "Happy Birthday Daughter Heart Photo Upload Card",
   "IsMultipack": false,

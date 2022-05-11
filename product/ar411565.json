@@ -7,27 +7,27 @@
   "ImageUrls": [
     {
       "ImageNo": 1,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/AR411565/1"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/ar411565/0.jpg"
     },
     {
       "ImageNo": 2,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/AR411565/2"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/ar411565/1.jpg"
     },
     {
       "ImageNo": 3,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/AR411565/3"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/ar411565/2.jpg"
     },
     {
       "ImageNo": 4,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/AR411565/4"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/ar411565/3.jpg"
     },
     {
       "ImageNo": 5,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/AR411565/5"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/ar411565/4.jpg"
     },
     {
       "ImageNo": 6,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/AR411565/6"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/ar411565/5.jpg"
     }
   ],
   "IsCustomisable": false,
@@ -35,7 +35,7 @@
     "Default": false,
     "Quality": 0
   },
-  "MoonpigProductNo": "AR411565",
+  "MoonpigProductNo": "ar411565",
   "Pages": [],
   "ProductCategoryGroup": {
     "Name": "Flowers and Plants",
@@ -82,7 +82,7 @@
   },
   "SoldOut": false,
   "SupplierNo": "411565",
-  "ThumbnailUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/AR411565",
+  "ThumbnailUrl": "https://moonpig.github.io/tech-test-frontend/image/ar411565/0.jpg",
   "Title": "The Yellow Rose Duo",
   "AdditionalInfo": "The Yellow Rose Duo",
   "IsMultipack": false,

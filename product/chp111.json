@@ -9,19 +9,19 @@
   "ImageUrls": [
     {
       "ImageNo": 1,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/CHP111/1"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/chp111/0.jpg"
     },
     {
       "ImageNo": 2,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/CHP111/2"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/chp111/1.jpg"
     },
     {
       "ImageNo": 3,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/CHP111/3"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/chp111/2.jpg"
     },
     {
       "ImageNo": 4,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/CHP111/4"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/chp111/3.jpg"
     }
   ],
   "IsCustomisable": true,
@@ -29,7 +29,7 @@
     "Default": false,
     "Quality": 0
   },
-  "MoonpigProductNo": "CHP111",
+  "MoonpigProductNo": "chp111",
   "Pages": [
     {
       "PageNo": 1,
@@ -145,7 +145,7 @@
   },
   "SoldOut": true,
   "SupplierNo": "11 A TENNER",
-  "ThumbnailUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/CHP111",
+  "ThumbnailUrl": "https://moonpig.github.io/tech-test-frontend/image/chp111/0.jpg",
   "Title": "Gorilla When Dad Reveals His True Feelings Personalised Birthday Card",
   "AdditionalInfo": "Gorilla When Dad Reveals His True Feelings Personalised Birthday Card",
   "IsMultipack": false,

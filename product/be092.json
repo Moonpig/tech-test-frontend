@@ -109,19 +109,19 @@
   "ImageUrls": [
     {
       "ImageNo": 1,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/BE092/1"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/be092/0.jpg"
     },
     {
       "ImageNo": 2,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/BE092/2"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/be092/1.jpg"
     },
     {
       "ImageNo": 3,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/BE092/3"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/be092/2.jpg"
     },
     {
       "ImageNo": 4,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/BE092/4"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/be092/3.jpg"
     }
   ],
   "IsCustomisable": true,
@@ -129,7 +129,7 @@
     "Default": false,
     "Quality": 0
   },
-  "MoonpigProductNo": "BE092",
+  "MoonpigProductNo": "be092",
   "Pages": [
     {
       "PageNo": 1,
@@ -245,7 +245,7 @@
   },
   "SoldOut": false,
   "SupplierNo": "ORA002",
-  "ThumbnailUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/BE092",
+  "ThumbnailUrl": "https://moonpig.github.io/tech-test-frontend/image/be092/0.jpg",
   "Title": "A Keen Yachtsman Funny Personalised Birthday Card For Dad",
   "AdditionalInfo": "A Keen Yachtsman Funny Personalised Birthday Card For Dad",
   "IsMultipack": false,

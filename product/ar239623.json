@@ -7,35 +7,35 @@
   "ImageUrls": [
     {
       "ImageNo": 1,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/AR239623/1"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/ar239623/0.jpg"
     },
     {
       "ImageNo": 2,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/AR239623/2"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/ar239623/1.jpg"
     },
     {
       "ImageNo": 3,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/AR239623/3"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/ar239623/2.jpg"
     },
     {
       "ImageNo": 4,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/AR239623/4"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/ar239623/3.jpg"
     },
     {
       "ImageNo": 5,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/AR239623/5"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/ar239623/4.jpg"
     },
     {
       "ImageNo": 6,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/AR239623/6"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/ar239623/5.jpg"
     },
     {
       "ImageNo": 7,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/AR239623/7"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/ar239623/6.jpg"
     },
     {
       "ImageNo": 8,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/AR239623/8"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/ar239623/7.jpg"
     }
   ],
   "IsCustomisable": false,
@@ -43,7 +43,7 @@
     "Default": false,
     "Quality": 0
   },
-  "MoonpigProductNo": "AR239623",
+  "MoonpigProductNo": "ar239623",
   "Pages": [],
   "ProductCategoryGroup": {
     "Name": "Flowers and Plants",
@@ -90,7 +90,7 @@
   },
   "SoldOut": false,
   "SupplierNo": "239623",
-  "ThumbnailUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/AR239623",
+  "ThumbnailUrl": "https://moonpig.github.io/tech-test-frontend/image/ar239623/0.jpg",
   "Title": "The Letterbox Roses",
   "AdditionalInfo": "The Letterbox Roses",
   "IsMultipack": false,

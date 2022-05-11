@@ -109,19 +109,19 @@
   "ImageUrls": [
     {
       "ImageNo": 1,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/DDD048/1"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/ddd048/0.jpg"
     },
     {
       "ImageNo": 2,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/DDD048/2"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/ddd048/1.jpg"
     },
     {
       "ImageNo": 3,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/DDD048/3"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/ddd048/2.jpg"
     },
     {
       "ImageNo": 4,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/DDD048/4"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/ddd048/3.jpg"
     }
   ],
   "IsCustomisable": true,
@@ -129,7 +129,7 @@
     "Default": false,
     "Quality": 0
   },
-  "MoonpigProductNo": "DDD048",
+  "MoonpigProductNo": "ddd048",
   "Pages": [
     {
       "PageNo": 1,
@@ -245,7 +245,7 @@
   },
   "SoldOut": false,
   "SupplierNo": "4242A",
-  "ThumbnailUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/DDD048",
+  "ThumbnailUrl": "https://moonpig.github.io/tech-test-frontend/image/ddd048/0.jpg",
   "Title": "Funny 50th Birthday Card For Women",
   "AdditionalInfo": "Funny 50th Birthday Card For Women",
   "IsMultipack": false,

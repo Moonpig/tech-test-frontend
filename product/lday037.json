@@ -109,19 +109,19 @@
   "ImageUrls": [
     {
       "ImageNo": 1,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/LDAY037/1"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/lday037/0.jpg"
     },
     {
       "ImageNo": 2,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/LDAY037/2"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/lday037/1.jpg"
     },
     {
       "ImageNo": 3,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/LDAY037/3"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/lday037/2.jpg"
     },
     {
       "ImageNo": 4,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/LDAY037/4"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/lday037/3.jpg"
     }
   ],
   "IsCustomisable": true,
@@ -129,7 +129,7 @@
     "Default": false,
     "Quality": 0
   },
-  "MoonpigProductNo": "LDAY037",
+  "MoonpigProductNo": "lday037",
   "Pages": [
     {
       "PageNo": 1,
@@ -245,7 +245,7 @@
   },
   "SoldOut": false,
   "SupplierNo": "",
-  "ThumbnailUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/LDAY037",
+  "ThumbnailUrl": "https://moonpig.github.io/tech-test-frontend/image/lday037/0.jpg",
   "Title": "Photo Father's Day Cards",
   "AdditionalInfo": "Photo Father's Day Cards",
   "IsMultipack": false,

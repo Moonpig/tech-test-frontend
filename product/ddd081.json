@@ -109,19 +109,19 @@
   "ImageUrls": [
     {
       "ImageNo": 1,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/DDD081/1"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/ddd081/0.jpg"
     },
     {
       "ImageNo": 2,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/DDD081/2"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/ddd081/1.jpg"
     },
     {
       "ImageNo": 3,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/DDD081/3"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/ddd081/2.jpg"
     },
     {
       "ImageNo": 4,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/DDD081/4"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/ddd081/3.jpg"
     }
   ],
   "IsCustomisable": true,
@@ -129,7 +129,7 @@
     "Default": false,
     "Quality": 0
   },
-  "MoonpigProductNo": "DDD081",
+  "MoonpigProductNo": "ddd081",
   "Pages": [
     {
       "PageNo": 1,
@@ -245,7 +245,7 @@
   },
   "SoldOut": false,
   "SupplierNo": "199A",
-  "ThumbnailUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/DDD081",
+  "ThumbnailUrl": "https://moonpig.github.io/tech-test-frontend/image/ddd081/0.jpg",
   "Title": "Funny From Your Brother Happy Birthday Sister Card",
   "AdditionalInfo": "Funny From Your Brother Happy Birthday Sister Card",
   "IsMultipack": false,

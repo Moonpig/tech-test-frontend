@@ -109,19 +109,19 @@
   "ImageUrls": [
     {
       "ImageNo": 1,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PAI042/1"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/pai042/0.jpg"
     },
     {
       "ImageNo": 2,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PAI042/2"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/pai042/1.jpg"
     },
     {
       "ImageNo": 3,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PAI042/3"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/pai042/2.jpg"
     },
     {
       "ImageNo": 4,
-      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PAI042/4"
+      "ImageUrl": "https://moonpig.github.io/tech-test-frontend/image/pai042/3.jpg"
     }
   ],
   "IsCustomisable": true,
@@ -129,7 +129,7 @@
     "Default": false,
     "Quality": 0
   },
-  "MoonpigProductNo": "PAI042",
+  "MoonpigProductNo": "pai042",
   "Pages": [
     {
       "PageNo": 1,
@@ -245,7 +245,7 @@
   },
   "SoldOut": false,
   "SupplierNo": "PAI042",
-  "ThumbnailUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PAI042",
+  "ThumbnailUrl": "https://moonpig.github.io/tech-test-frontend/image/pai042/0.jpg",
   "Title": "Photo upload card - thank you card - watercolour",
   "AdditionalInfo": "Photo upload card - thank you card - watercolour",
   "IsMultipack": false,
