@@ -35,10 +35,10 @@ curl "https://moonpig.github.io/tech-test-frontend/search.json"
 ### View Card
 
 ```
-curl "https://www.moonpig.com/uk/api/product/product/?mpn=pu1162"
+curl "https://moonpig.github.io/tech-test-frontend/product/pu041d.json"
 ```
 
-> Note: replace `pu1162` with the variable `MoonpigProductNo` from the first API call
+> Note: replace `pu041d` with the variable `MoonpigProductNo` from the first API call
 
 Something which is likely to catch you out will be the CORS restrictions imposed by the browser, you can use something along the lines of https://github.com/Rob--W/cors-anywhere/#client in order to work around this restriction.
 
