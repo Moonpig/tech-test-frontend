@@ -1,0 +1,97 @@
+{
+  "Name": "Girlie Letterbox Gift",
+  "SizeName": "Letterbox Gifts",
+  "AvailableSizes": [],
+  "Description": "<p>We’ve got a perfectly packaged box for everyone you love and for every occasion. Our letterbox gifts are little parcels of joy and ready to send! You don’t even need to worry about the lucky person being in, as our entire range fit perfectly through their (you guessed it) letterbox!<p>Whether she's having a Bridget Jones moment, getting ready for her big day, or prepping for a girly occasion in between, give her this collection of sweet treats from Penny Post. This mini hamper box is filled with chocolate chip cookies, chocolate and marshmallow biscuits, cocoa dusted truffles, and so many more little nibbles. Plus, there's also berry tea sachets and delicious drinking fudge. Our chocolate treat gift will fit into any letterbox, so you can surprise someone at any time! Allergy Information: Contains milk, soya &amp; wheat.</p>\n<p>&nbsp;</p>\n<p><strong>Please note, large cards are too big to fit in our letterbox&nbsp;gifts! If you order this&nbsp;product&nbsp;with a large card it will be sent separately via 1st class post.</strong></p>\n<p><strong>Box size 24cm x 20.5 cm x 2.7 cm; designed to fit through most standard UK letterboxes.</strong></p>\n<p>Disclaimer: Contents may vary .&nbsp;</p>",
+  "DesignFeatureTags": [],
+  "ImageUrls": [
+    {
+      "ImageNo": 1,
+      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/LBXG006/1"
+    },
+    {
+      "ImageNo": 2,
+      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/LBXG006/2"
+    },
+    {
+      "ImageNo": 3,
+      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/LBXG006/3"
+    },
+    {
+      "ImageNo": 4,
+      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/LBXG006/4"
+    },
+    {
+      "ImageNo": 5,
+      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/LBXG006/5"
+    },
+    {
+      "ImageNo": 6,
+      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/LBXG006/6"
+    }
+  ],
+  "IsCustomisable": false,
+  "Metadata": {
+    "Default": false,
+    "Quality": 0
+  },
+  "MoonpigProductNo": "LBXG006",
+  "Pages": [],
+  "ProductCategoryGroup": {
+    "Name": "Gift",
+    "PageUrl": "https://www.moonpig.com/uk/gifts",
+    "SeoPath": "gifts/"
+  },
+  "ProductId": "86888",
+  "ProductUrl": "https://www.moonpig.com/uk/gifts/girlie-letterbox-gift/lbxg006",
+  "RangeId": 18567,
+  "Rank": 0,
+  "SeoPath": "girlie-letterbox-gift",
+  "Size": {
+    "AvailableSubstrates": [],
+    "Category": {
+      "Id": 33,
+      "Name": "Letterbox Gifts"
+    },
+    "Currency": "£",
+    "Description": "LetGif",
+    "DisplayOrder": 6,
+    "Id": 118,
+    "Kind": {
+      "Category": {
+        "Id": 33,
+        "Name": "Letterbox Gifts"
+      },
+      "Id": 44,
+      "Name": "Letterbox Gifts"
+    },
+    "MinimumBundle": 1,
+    "Name": "Letterbox Gifts",
+    "PostageSize": {
+      "Id": 4,
+      "Name": "Packet"
+    },
+    "Price": 18,
+    "Weights": {
+      "EnvelopeWeight": 0,
+      "ItemWeight": 500
+    },
+    "DisplayName": "Letterbox Gifts",
+    "DefaultNoOfPages": 1,
+    "CanPrepay": false
+  },
+  "SoldOut": true,
+  "SupplierNo": "LBXG006",
+  "ThumbnailUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/LBXG006",
+  "Title": "Girlie Letterbox Gift",
+  "AdditionalInfo": "Girlie Letterbox Gift",
+  "IsMultipack": false,
+  "UndeliverableDates": [],
+  "InStock": false,
+  "OccasionId": 1,
+  "PageCountOverride": null,
+  "ProductCategoryId": 33,
+  "PublishedOnSite": false,
+  "StyleId": 1,
+  "SupplierId": 4973
+}

@@ -1,0 +1,227 @@
+{
+  "Name": "PEP124",
+  "SizeName": "Standard Card",
+  "AvailableSizes": [
+    {
+      "AvailableSubstrates": null,
+      "Category": {
+        "Id": 1,
+        "Name": "Greeting Cards"
+      },
+      "Currency": "£",
+      "Description": "Lrg",
+      "DisplayOrder": 4,
+      "Id": 5,
+      "Kind": {
+        "Category": {
+          "Id": 1,
+          "Name": "Greeting Cards"
+        },
+        "Id": 1,
+        "Name": "Greeting Card"
+      },
+      "MinimumBundle": 1,
+      "Name": "Large Card",
+      "PostageSize": {
+        "Id": 2,
+        "Name": "Large Letter"
+      },
+      "Price": 5.99,
+      "Weights": {
+        "EnvelopeWeight": 24,
+        "ItemWeight": 106
+      },
+      "DisplayName": "Large Card",
+      "DefaultNoOfPages": 4,
+      "CanPrepay": false
+    },
+    {
+      "AvailableSubstrates": null,
+      "Category": {
+        "Id": 1,
+        "Name": "Greeting Cards"
+      },
+      "Currency": "£",
+      "Description": "XLrg",
+      "DisplayOrder": 4,
+      "Id": 133,
+      "Kind": {
+        "Category": {
+          "Id": 1,
+          "Name": "Greeting Cards"
+        },
+        "Id": 1,
+        "Name": "Greeting Card"
+      },
+      "MinimumBundle": 1,
+      "Name": "Giant Card",
+      "PostageSize": {
+        "Id": 4,
+        "Name": "Packet"
+      },
+      "Price": 8.99,
+      "Weights": {
+        "EnvelopeWeight": 0,
+        "ItemWeight": 440
+      },
+      "DisplayName": "Giant Card",
+      "DefaultNoOfPages": 4,
+      "CanPrepay": false
+    }
+  ],
+  "Description": "Peppa Pig To A Very Special Daddy Happy Father's Day Photo Card<br><br>Once you've personalised your Father's Day card or uploaded one of your favourite photos together, and used the handwriting feature on the app, it's time to make his day even brighter by adding flowers or a gift!",
+  "DesignFeatureTags": [
+    "Portrait"
+  ],
+  "ImageUrls": [
+    {
+      "ImageNo": 1,
+      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PEP124/1"
+    },
+    {
+      "ImageNo": 2,
+      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PEP124/2"
+    },
+    {
+      "ImageNo": 3,
+      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PEP124/3"
+    },
+    {
+      "ImageNo": 4,
+      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PEP124/4"
+    }
+  ],
+  "IsCustomisable": true,
+  "Metadata": {
+    "Default": false,
+    "Quality": 0
+  },
+  "MoonpigProductNo": "PEP124",
+  "Pages": [
+    {
+      "PageNo": 1,
+      "Template": {
+        "FontColors": null,
+        "FontOptions": null,
+        "FontSizes": null,
+        "Height": 0,
+        "Id": 88753,
+        "ImageObjects": null,
+        "ShapeObjects": null,
+        "TextCustomisations": null,
+        "TextObjects": null,
+        "Width": 0,
+        "XBleed": 0,
+        "YBleed": 0
+      }
+    },
+    {
+      "PageNo": 2,
+      "Template": {
+        "FontColors": null,
+        "FontOptions": null,
+        "FontSizes": null,
+        "Height": 0,
+        "Id": 88756,
+        "ImageObjects": null,
+        "ShapeObjects": null,
+        "TextCustomisations": null,
+        "TextObjects": null,
+        "Width": 0,
+        "XBleed": 0,
+        "YBleed": 0
+      }
+    },
+    {
+      "PageNo": 3,
+      "Template": {
+        "FontColors": null,
+        "FontOptions": null,
+        "FontSizes": null,
+        "Height": 0,
+        "Id": 88757,
+        "ImageObjects": null,
+        "ShapeObjects": null,
+        "TextCustomisations": null,
+        "TextObjects": null,
+        "Width": 0,
+        "XBleed": 0,
+        "YBleed": 0
+      }
+    },
+    {
+      "PageNo": 4,
+      "Template": {
+        "FontColors": null,
+        "FontOptions": null,
+        "FontSizes": null,
+        "Height": 0,
+        "Id": 86989,
+        "ImageObjects": null,
+        "ShapeObjects": null,
+        "TextCustomisations": null,
+        "TextObjects": null,
+        "Width": 0,
+        "XBleed": 0,
+        "YBleed": 0
+      }
+    }
+  ],
+  "ProductCategoryGroup": {
+    "Name": "Personalised Cards",
+    "PageUrl": "https://www.moonpig.com/uk/personalised-cards",
+    "SeoPath": "personalised-cards/"
+  },
+  "ProductId": "96134",
+  "ProductUrl": "https://www.moonpig.com/uk/personalised-cards/peppa-pig-to-a-very-special-daddy-happy-fathers-day-photo-card/pep124",
+  "RangeId": 17901,
+  "Rank": 9999,
+  "SeoPath": "peppa-pig-to-a-very-special-daddy-happy-fathers-day-photo-card",
+  "Size": {
+    "AvailableSubstrates": [],
+    "Category": {
+      "Id": 1,
+      "Name": "Greeting Cards"
+    },
+    "Currency": "£",
+    "Description": "Std",
+    "DisplayOrder": 3,
+    "Id": 1,
+    "Kind": {
+      "Category": {
+        "Id": 1,
+        "Name": "Greeting Cards"
+      },
+      "Id": 1,
+      "Name": "Greeting Card"
+    },
+    "MinimumBundle": 1,
+    "Name": "Standard Card",
+    "PostageSize": {
+      "Id": 1,
+      "Name": "Letter"
+    },
+    "Price": 3.69,
+    "Weights": {
+      "EnvelopeWeight": 8,
+      "ItemWeight": 22
+    },
+    "DisplayName": "Standard Card",
+    "DefaultNoOfPages": 4,
+    "CanPrepay": false
+  },
+  "SoldOut": false,
+  "SupplierNo": "PEP124",
+  "ThumbnailUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PEP124",
+  "Title": "Peppa Pig To A Very Special Daddy Happy Father's Day Photo Card",
+  "AdditionalInfo": "Peppa Pig To A Very Special Daddy Happy Father's Day Photo Card",
+  "IsMultipack": false,
+  "UndeliverableDates": [],
+  "InStock": true,
+  "OccasionId": 9,
+  "PageCountOverride": null,
+  "ProductCategoryId": 1,
+  "PublishedOnSite": true,
+  "StyleId": 17,
+  "SupplierId": 5099
+}

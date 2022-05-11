@@ -1,0 +1,89 @@
+{
+  "Name": "The Happy Birthday Gift Set",
+  "SizeName": null,
+  "AvailableSizes": [],
+  "Description": "<p><strong>Product Description</strong></p>\n<p>What better way to wish them a happy birthday than with this elegant gift set. With a beautiful bouqiet of icy tones and feminine shades, consisting of cream LA lilies, pink antirrhinums and pink bouvardia &ndash; offset by a backdrop of greenery &ndash; the bouquet comes expertly arranged by our skilled florists and hand-wrapped in frosted cellophane. To top this, there's also a box of delicious Thornton classics and a sparkly birthday balloon for them to enjoy.</p>\n<p><strong>Product Specification<br /></strong>&bull; 3 x Cream LA Lily<br />&bull; 3 x Pink Antirrhinum<br />&bull; 2 x Pink Bouvardia<br />&bull; 3 x Pistache foliage<br />&bull; 1 x Thornton Classic 150g<br />&bull; 1 x 18\" Happy Birthday Helium Balloon</p>\n<p>Wrapped in cellophane</p>\n<p>Stem length: Approx. 46cm</p>\n<p><strong>Additional Information</strong></p>\n<p>Please note the vase is not included.</p>\n<p>Our flowers may arrive unopened but the buds will come into bloom within a day or two.</p>\n<p>In the rare event that a substitution is necessary through flower supply difficulties, we may substitute with flowers of similar or superior style, quality and value.<br /><br /></p>\n<p>This bouquet contains lilies which can be&nbsp;<strong data-stringify-type=\"bold\">toxic to pets</strong>. Keep them away from your furry friends.<br /><br /></p>\n<p><strong>Dietary Information</strong></p>\n<p>Sugar, Cocoa butter, Cocoa mass, Dried skimmed MILK, Vegetable fats (palm kernel, coconut), Dried whole MILK, Glucose syrup, Anhydrous MILK fat, HAZELNUTS, Butter (MILK), Whole MILK, Lactose (MILK), Dextrose, Double cream (MILK), Humectant (sorbitol syrup), Fat reduced cocoa powder, Invert sugar syrup, Emulsifiers (SOYA lecithin, sunflower lecithin, E471), Rice flour, ALMONDS, Maize flour, Flavourings, Dried whey (MILK), Salt, Strawberry powder, Acid (citric acid), Sea salt, Colour (beetroot red), Dried EGG white, Cream (MILK), Exhausted vanilla seeds, Acidity regulator (sodium hydrogen carbonate), Hydrolysed MILK proteins</p>\n<p>Contains: MILK, HAZELNUTS, ALMONDS, SOYA, EGG</p>\n<p>May Contain: other nuts, cereals containing gluten</p>\n<h4><strong>Our Commitment to Quality</strong></h4>\n<p>From blossom to bouquet, every step of your flowers&rsquo; journey is handled with care to ensure long-lasting, beautiful blooms. That means:</p>\n<ul>\n<li>Five days of freshness guaranteed or we&rsquo;ll replace your flowers</li>\n<li>Each bouquet is hand-tied by our florists</li>\n<li>Flowers arrive &lsquo;in bud&rsquo; to preserve freshness</li>\n<li>Guard petals protect flowers in transit</li>\n<li>Bouquets come in our signature Nourishing Wrap to keep them happy while travelling</li>\n<li>Next day delivery with full SMS tracking and a two hour delivery window</li>\n</ul>",
+  "DesignFeatureTags": [],
+  "ImageUrls": [
+    {
+      "ImageNo": 1,
+      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/AR239134/1"
+    },
+    {
+      "ImageNo": 2,
+      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/AR239134/2"
+    },
+    {
+      "ImageNo": 3,
+      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/AR239134/3"
+    },
+    {
+      "ImageNo": 4,
+      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/AR239134/4"
+    }
+  ],
+  "IsCustomisable": false,
+  "Metadata": {
+    "Default": false,
+    "Quality": 0
+  },
+  "MoonpigProductNo": "AR239134",
+  "Pages": [],
+  "ProductCategoryGroup": {
+    "Name": "Flowers and Plants",
+    "PageUrl": "https://www.moonpig.com/uk/flowers-and-plants",
+    "SeoPath": "flowers-and-plants/"
+  },
+  "ProductId": "83887",
+  "ProductUrl": "https://www.moonpig.com/uk/flowers-and-plants/the-happy-birthday-gift-set/ar239134",
+  "RangeId": 18350,
+  "Rank": 100,
+  "SeoPath": "the-happy-birthday-gift-set",
+  "Size": {
+    "AvailableSubstrates": [],
+    "Category": {
+      "Id": 10,
+      "Name": "Flowers"
+    },
+    "Currency": "£",
+    "Description": "Flo",
+    "DisplayOrder": 1,
+    "Id": 18,
+    "Kind": {
+      "Category": {
+        "Id": 10,
+        "Name": "Flowers"
+      },
+      "Id": 4,
+      "Name": "Flower"
+    },
+    "MinimumBundle": 1,
+    "Name": "Flowers",
+    "PostageSize": {
+      "Id": 1,
+      "Name": "Letter"
+    },
+    "Price": 34,
+    "Weights": {
+      "EnvelopeWeight": 0,
+      "ItemWeight": 1
+    },
+    "DisplayName": "Standard",
+    "DefaultNoOfPages": 0,
+    "CanPrepay": false
+  },
+  "SoldOut": true,
+  "SupplierNo": "239134",
+  "ThumbnailUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/AR239134",
+  "Title": "The Happy Birthday Gift Set",
+  "AdditionalInfo": "The Happy Birthday Gift Set",
+  "IsMultipack": false,
+  "UndeliverableDates": [],
+  "InStock": false,
+  "OccasionId": 24,
+  "PageCountOverride": null,
+  "ProductCategoryId": 10,
+  "PublishedOnSite": true,
+  "StyleId": 14,
+  "SupplierId": 5042
+}

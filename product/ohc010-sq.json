@@ -1,0 +1,194 @@
+{
+  "Name": "OHC010-SQ",
+  "SizeName": "Square Card",
+  "AvailableSizes": [
+    {
+      "AvailableSubstrates": null,
+      "Category": {
+        "Id": 1,
+        "Name": "Greeting Cards"
+      },
+      "Currency": "£",
+      "Description": "SqL",
+      "DisplayOrder": 6,
+      "Id": 79,
+      "Kind": {
+        "Category": {
+          "Id": 1,
+          "Name": "Greeting Cards"
+        },
+        "Id": 1,
+        "Name": "Greeting Card"
+      },
+      "MinimumBundle": 1,
+      "Name": "Large Square Card",
+      "PostageSize": {
+        "Id": 1,
+        "Name": "Letter"
+      },
+      "Price": 5.99,
+      "Weights": {
+        "EnvelopeWeight": 15,
+        "ItemWeight": 80
+      },
+      "DisplayName": "Large Square Card",
+      "DefaultNoOfPages": 4,
+      "CanPrepay": false
+    }
+  ],
+  "Description": "Confetti Multi-Photo Grid Card<br><br>Once you've personalised your card or uploaded a photo, and used the handwriting feature on the app, its time to make their day even brighter by adding flowers and a gift!",
+  "DesignFeatureTags": [
+    "Portrait"
+  ],
+  "ImageUrls": [
+    {
+      "ImageNo": 1,
+      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/OHC010-SQ/1"
+    },
+    {
+      "ImageNo": 2,
+      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/OHC010-SQ/2"
+    },
+    {
+      "ImageNo": 3,
+      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/OHC010-SQ/3"
+    },
+    {
+      "ImageNo": 4,
+      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/OHC010-SQ/4"
+    }
+  ],
+  "IsCustomisable": true,
+  "Metadata": {
+    "Default": false,
+    "Quality": 0
+  },
+  "MoonpigProductNo": "OHC010-SQ",
+  "Pages": [
+    {
+      "PageNo": 1,
+      "Template": {
+        "FontColors": null,
+        "FontOptions": null,
+        "FontSizes": null,
+        "Height": 0,
+        "Id": 69182,
+        "ImageObjects": null,
+        "ShapeObjects": null,
+        "TextCustomisations": null,
+        "TextObjects": null,
+        "Width": 0,
+        "XBleed": 0,
+        "YBleed": 0
+      }
+    },
+    {
+      "PageNo": 2,
+      "Template": {
+        "FontColors": null,
+        "FontOptions": null,
+        "FontSizes": null,
+        "Height": 0,
+        "Id": 69170,
+        "ImageObjects": null,
+        "ShapeObjects": null,
+        "TextCustomisations": null,
+        "TextObjects": null,
+        "Width": 0,
+        "XBleed": 0,
+        "YBleed": 0
+      }
+    },
+    {
+      "PageNo": 3,
+      "Template": {
+        "FontColors": null,
+        "FontOptions": null,
+        "FontSizes": null,
+        "Height": 0,
+        "Id": 69171,
+        "ImageObjects": null,
+        "ShapeObjects": null,
+        "TextCustomisations": null,
+        "TextObjects": null,
+        "Width": 0,
+        "XBleed": 0,
+        "YBleed": 0
+      }
+    },
+    {
+      "PageNo": 4,
+      "Template": {
+        "FontColors": null,
+        "FontOptions": null,
+        "FontSizes": null,
+        "Height": 0,
+        "Id": 69175,
+        "ImageObjects": null,
+        "ShapeObjects": null,
+        "TextCustomisations": null,
+        "TextObjects": null,
+        "Width": 0,
+        "XBleed": 0,
+        "YBleed": 0
+      }
+    }
+  ],
+  "ProductCategoryGroup": {
+    "Name": "Personalised Cards",
+    "PageUrl": "https://www.moonpig.com/uk/personalised-cards",
+    "SeoPath": "personalised-cards/"
+  },
+  "ProductId": "82927",
+  "ProductUrl": "https://www.moonpig.com/uk/personalised-cards/confetti-multiphoto-grid-card/ohc010-sq",
+  "RangeId": 18328,
+  "Rank": 9999,
+  "SeoPath": "confetti-multiphoto-grid-card",
+  "Size": {
+    "AvailableSubstrates": [],
+    "Category": {
+      "Id": 1,
+      "Name": "Greeting Cards"
+    },
+    "Currency": "£",
+    "Description": "Sqr",
+    "DisplayOrder": 5,
+    "Id": 13,
+    "Kind": {
+      "Category": {
+        "Id": 1,
+        "Name": "Greeting Cards"
+      },
+      "Id": 1,
+      "Name": "Greeting Card"
+    },
+    "MinimumBundle": 1,
+    "Name": "Square Card",
+    "PostageSize": {
+      "Id": 1,
+      "Name": "Letter"
+    },
+    "Price": 3.69,
+    "Weights": {
+      "EnvelopeWeight": 12,
+      "ItemWeight": 20
+    },
+    "DisplayName": "Square Card",
+    "DefaultNoOfPages": 4,
+    "CanPrepay": false
+  },
+  "SoldOut": false,
+  "SupplierNo": "",
+  "ThumbnailUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/OHC010-SQ",
+  "Title": "Confetti Multi-Photo Grid Card",
+  "AdditionalInfo": "Confetti Multi-Photo Grid Card",
+  "IsMultipack": false,
+  "UndeliverableDates": [],
+  "InStock": true,
+  "OccasionId": 46,
+  "PageCountOverride": null,
+  "ProductCategoryId": 1,
+  "PublishedOnSite": true,
+  "StyleId": 17,
+  "SupplierId": 4973
+}

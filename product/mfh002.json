@@ -1,0 +1,194 @@
+{
+  "Name": "MFH002",
+  "SizeName": "Square Card",
+  "AvailableSizes": [
+    {
+      "AvailableSubstrates": null,
+      "Category": {
+        "Id": 1,
+        "Name": "Greeting Cards"
+      },
+      "Currency": "£",
+      "Description": "SqL",
+      "DisplayOrder": 6,
+      "Id": 79,
+      "Kind": {
+        "Category": {
+          "Id": 1,
+          "Name": "Greeting Cards"
+        },
+        "Id": 1,
+        "Name": "Greeting Card"
+      },
+      "MinimumBundle": 1,
+      "Name": "Large Square Card",
+      "PostageSize": {
+        "Id": 1,
+        "Name": "Letter"
+      },
+      "Price": 5.99,
+      "Weights": {
+        "EnvelopeWeight": 15,
+        "ItemWeight": 80
+      },
+      "DisplayName": "Large Square Card",
+      "DefaultNoOfPages": 4,
+      "CanPrepay": false
+    }
+  ],
+  "Description": "From The Pet Youre The Best Dad Photo Card<br><br>Once you've personalised your card or uploaded a photo, and used the handwriting feature on the app, its time to make their day even brighter by adding flowers and a gift!",
+  "DesignFeatureTags": [
+    "Portrait"
+  ],
+  "ImageUrls": [
+    {
+      "ImageNo": 1,
+      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/MFH002/1"
+    },
+    {
+      "ImageNo": 2,
+      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/MFH002/2"
+    },
+    {
+      "ImageNo": 3,
+      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/MFH002/3"
+    },
+    {
+      "ImageNo": 4,
+      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/MFH002/4"
+    }
+  ],
+  "IsCustomisable": true,
+  "Metadata": {
+    "Default": false,
+    "Quality": 0
+  },
+  "MoonpigProductNo": "MFH002",
+  "Pages": [
+    {
+      "PageNo": 1,
+      "Template": {
+        "FontColors": null,
+        "FontOptions": null,
+        "FontSizes": null,
+        "Height": 0,
+        "Id": 68659,
+        "ImageObjects": null,
+        "ShapeObjects": null,
+        "TextCustomisations": null,
+        "TextObjects": null,
+        "Width": 0,
+        "XBleed": 0,
+        "YBleed": 0
+      }
+    },
+    {
+      "PageNo": 2,
+      "Template": {
+        "FontColors": null,
+        "FontOptions": null,
+        "FontSizes": null,
+        "Height": 0,
+        "Id": 68671,
+        "ImageObjects": null,
+        "ShapeObjects": null,
+        "TextCustomisations": null,
+        "TextObjects": null,
+        "Width": 0,
+        "XBleed": 0,
+        "YBleed": 0
+      }
+    },
+    {
+      "PageNo": 3,
+      "Template": {
+        "FontColors": null,
+        "FontOptions": null,
+        "FontSizes": null,
+        "Height": 0,
+        "Id": 68672,
+        "ImageObjects": null,
+        "ShapeObjects": null,
+        "TextCustomisations": null,
+        "TextObjects": null,
+        "Width": 0,
+        "XBleed": 0,
+        "YBleed": 0
+      }
+    },
+    {
+      "PageNo": 4,
+      "Template": {
+        "FontColors": null,
+        "FontOptions": null,
+        "FontSizes": null,
+        "Height": 0,
+        "Id": 68662,
+        "ImageObjects": null,
+        "ShapeObjects": null,
+        "TextCustomisations": null,
+        "TextObjects": null,
+        "Width": 0,
+        "XBleed": 0,
+        "YBleed": 0
+      }
+    }
+  ],
+  "ProductCategoryGroup": {
+    "Name": "Personalised Cards",
+    "PageUrl": "https://www.moonpig.com/uk/personalised-cards",
+    "SeoPath": "personalised-cards/"
+  },
+  "ProductId": "81754",
+  "ProductUrl": "https://www.moonpig.com/uk/personalised-cards/from-the-pet-youre-the-best-dad-photo-card/mfh002",
+  "RangeId": 18358,
+  "Rank": 9999,
+  "SeoPath": "from-the-pet-youre-the-best-dad-photo-card",
+  "Size": {
+    "AvailableSubstrates": [],
+    "Category": {
+      "Id": 1,
+      "Name": "Greeting Cards"
+    },
+    "Currency": "£",
+    "Description": "Sqr",
+    "DisplayOrder": 5,
+    "Id": 13,
+    "Kind": {
+      "Category": {
+        "Id": 1,
+        "Name": "Greeting Cards"
+      },
+      "Id": 1,
+      "Name": "Greeting Card"
+    },
+    "MinimumBundle": 1,
+    "Name": "Square Card",
+    "PostageSize": {
+      "Id": 1,
+      "Name": "Letter"
+    },
+    "Price": 3.69,
+    "Weights": {
+      "EnvelopeWeight": 12,
+      "ItemWeight": 20
+    },
+    "DisplayName": "Square Card",
+    "DefaultNoOfPages": 4,
+    "CanPrepay": false
+  },
+  "SoldOut": false,
+  "SupplierNo": "MFH002",
+  "ThumbnailUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/MFH002",
+  "Title": "From The Pet Youre The Best Dad Photo Card",
+  "AdditionalInfo": "From The Pet Youre The Best Dad Photo Card",
+  "IsMultipack": false,
+  "UndeliverableDates": [],
+  "InStock": true,
+  "OccasionId": 9,
+  "PageCountOverride": null,
+  "ProductCategoryId": 1,
+  "PublishedOnSite": true,
+  "StyleId": 17,
+  "SupplierId": 4973
+}

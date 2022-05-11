@@ -1,0 +1,194 @@
+{
+  "Name": "PL508",
+  "SizeName": "Square Card",
+  "AvailableSizes": [
+    {
+      "AvailableSubstrates": null,
+      "Category": {
+        "Id": 1,
+        "Name": "Greeting Cards"
+      },
+      "Currency": "£",
+      "Description": "SqL",
+      "DisplayOrder": 6,
+      "Id": 79,
+      "Kind": {
+        "Category": {
+          "Id": 1,
+          "Name": "Greeting Cards"
+        },
+        "Id": 1,
+        "Name": "Greeting Card"
+      },
+      "MinimumBundle": 1,
+      "Name": "Large Square Card",
+      "PostageSize": {
+        "Id": 1,
+        "Name": "Letter"
+      },
+      "Price": 5.99,
+      "Weights": {
+        "EnvelopeWeight": 15,
+        "ItemWeight": 80
+      },
+      "DisplayName": "Large Square Card",
+      "DefaultNoOfPages": 4,
+      "CanPrepay": false
+    }
+  ],
+  "Description": "Days And Hours Personalised Anniversary Card For Husband <br /><br />Once you've personalised your card or uploaded a photo, and used the handwriting feature on the app, it's time to make their day even brighter by adding flowers and a gift!<br />",
+  "DesignFeatureTags": [
+    "Portrait"
+  ],
+  "ImageUrls": [
+    {
+      "ImageNo": 1,
+      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PL508/1"
+    },
+    {
+      "ImageNo": 2,
+      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PL508/2"
+    },
+    {
+      "ImageNo": 3,
+      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PL508/3"
+    },
+    {
+      "ImageNo": 4,
+      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PL508/4"
+    }
+  ],
+  "IsCustomisable": true,
+  "Metadata": {
+    "Default": false,
+    "Quality": 0
+  },
+  "MoonpigProductNo": "PL508",
+  "Pages": [
+    {
+      "PageNo": 1,
+      "Template": {
+        "FontColors": null,
+        "FontOptions": null,
+        "FontSizes": null,
+        "Height": 0,
+        "Id": 59012,
+        "ImageObjects": null,
+        "ShapeObjects": null,
+        "TextCustomisations": null,
+        "TextObjects": null,
+        "Width": 0,
+        "XBleed": 0,
+        "YBleed": 0
+      }
+    },
+    {
+      "PageNo": 2,
+      "Template": {
+        "FontColors": null,
+        "FontOptions": null,
+        "FontSizes": null,
+        "Height": 0,
+        "Id": 59026,
+        "ImageObjects": null,
+        "ShapeObjects": null,
+        "TextCustomisations": null,
+        "TextObjects": null,
+        "Width": 0,
+        "XBleed": 0,
+        "YBleed": 0
+      }
+    },
+    {
+      "PageNo": 3,
+      "Template": {
+        "FontColors": null,
+        "FontOptions": null,
+        "FontSizes": null,
+        "Height": 0,
+        "Id": 59027,
+        "ImageObjects": null,
+        "ShapeObjects": null,
+        "TextCustomisations": null,
+        "TextObjects": null,
+        "Width": 0,
+        "XBleed": 0,
+        "YBleed": 0
+      }
+    },
+    {
+      "PageNo": 4,
+      "Template": {
+        "FontColors": null,
+        "FontOptions": null,
+        "FontSizes": null,
+        "Height": 0,
+        "Id": 59025,
+        "ImageObjects": null,
+        "ShapeObjects": null,
+        "TextCustomisations": null,
+        "TextObjects": null,
+        "Width": 0,
+        "XBleed": 0,
+        "YBleed": 0
+      }
+    }
+  ],
+  "ProductCategoryGroup": {
+    "Name": "Personalised Cards",
+    "PageUrl": "https://www.moonpig.com/uk/personalised-cards",
+    "SeoPath": "personalised-cards/"
+  },
+  "ProductId": "70120",
+  "ProductUrl": "https://www.moonpig.com/uk/personalised-cards/days-and-hours-personalised-anniversary-card-for-husband/pl508",
+  "RangeId": 16742,
+  "Rank": 9999,
+  "SeoPath": "days-and-hours-personalised-anniversary-card-for-husband",
+  "Size": {
+    "AvailableSubstrates": [],
+    "Category": {
+      "Id": 1,
+      "Name": "Greeting Cards"
+    },
+    "Currency": "£",
+    "Description": "Sqr",
+    "DisplayOrder": 5,
+    "Id": 13,
+    "Kind": {
+      "Category": {
+        "Id": 1,
+        "Name": "Greeting Cards"
+      },
+      "Id": 1,
+      "Name": "Greeting Card"
+    },
+    "MinimumBundle": 1,
+    "Name": "Square Card",
+    "PostageSize": {
+      "Id": 1,
+      "Name": "Letter"
+    },
+    "Price": 3.49,
+    "Weights": {
+      "EnvelopeWeight": 12,
+      "ItemWeight": 20
+    },
+    "DisplayName": "Square Card",
+    "DefaultNoOfPages": 4,
+    "CanPrepay": false
+  },
+  "SoldOut": false,
+  "SupplierNo": "PL508",
+  "ThumbnailUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PL508",
+  "Title": "Days And Hours Personalised Anniversary Card For Husband",
+  "AdditionalInfo": "Days And Hours Personalised Anniversary Card For Husband",
+  "IsMultipack": false,
+  "UndeliverableDates": [],
+  "InStock": true,
+  "OccasionId": 1,
+  "PageCountOverride": null,
+  "ProductCategoryId": 1,
+  "PublishedOnSite": true,
+  "StyleId": 19,
+  "SupplierId": 4977
+}

@@ -1,0 +1,77 @@
+{
+  "Name": "Birthday Sweet Gifts Jar Large 1.25kg",
+  "SizeName": "Sweets",
+  "AvailableSizes": [],
+  "Description": "<p>Happy birthday! Celebrate someone&rsquo;s birthday by showering them with seriously sweet gifts &ndash; like this jar of birthday sweet treats. This large jar is jam packed with everyone&rsquo;s favourites, including jellies, lollipops, and fizzy sweets. Yum!</p>\n<p>Dimensions: 12 x 12 x 20CM</p>\n<p>Weight: 1.25kg</p>\n<p><strong>Product expiry date: 31/12/2019&nbsp;</strong></p>\n<p>&nbsp;</p>\n<p><strong>Ingredients</strong>: Sugar, Glucose Syrup, Glucose-Fructose Syrup, Gelatine (Pork, Beef), Water, Maize Starch, Wheat Flour, Dextrose, Vegetable Fats and Oils (Palm, Coconut, Palm Kernel), Liquorice Extract, Acids: Citric Acid, Lactic Acid, Malic Acid; Acidity Regulators: Sodium Lactate, Sodium Citrates, Sodium Malates; Salt, Humectants: Glycerol, Sorbitol; Flavourings, Emulsifier: Mono and Diglycerides of Fatty Acids; Stearic Acid, Modified Starch, Sodium Bicarbonate, Gelling Agent: Pectin; Magnesium Stearate, Anti-Caking Agent: Magnesium Carbonate; Fruit and Plant Concentrates and Extracts (Carrot, Blackcurrant, Safflower), Colours: E100, E120, E133, E160c, E171, E150d, E153, E150c, E163, E162, E141, E161b, E102*, E110*, E129*; Glazing Agents: Beeswax, Carnauba Wax; Lysed Soya Protein.</p>\n<p>*E102, E110 and E129 may have an adverse effect on activity and attention in children.</p>\n<p>Allergy Advice: For allergens, including cereals containing gluten, see ingredients in bold. <strong>Contains Gelatin.</strong> May also contain milk, peanuts and nuts.</p>\n<p>WARNING! Lollipops are a potential choking hazard. Not suitable for children under 36 months.&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>",
+  "DesignFeatureTags": [],
+  "ImageUrls": [
+    {
+      "ImageNo": 1,
+      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/SWEE623/1"
+    }
+  ],
+  "IsCustomisable": false,
+  "Metadata": {
+    "Default": false,
+    "Quality": 0
+  },
+  "MoonpigProductNo": "SWEE623",
+  "Pages": [],
+  "ProductCategoryGroup": {
+    "Name": "Gift",
+    "PageUrl": "https://www.moonpig.com/uk/gifts",
+    "SeoPath": "gifts/"
+  },
+  "ProductId": "93265",
+  "ProductUrl": "https://www.moonpig.com/uk/gifts/birthday-sweet-gifts-jar-large-125kg/swee623",
+  "RangeId": 18153,
+  "Rank": 0,
+  "SeoPath": "Birthday-Sweet-Gifts-Jar-Large-125kg",
+  "Size": {
+    "AvailableSubstrates": [],
+    "Category": {
+      "Id": 19,
+      "Name": "Food Gifts"
+    },
+    "Currency": "£",
+    "Description": "Sweets",
+    "DisplayOrder": 6,
+    "Id": 88,
+    "Kind": {
+      "Category": {
+        "Id": 19,
+        "Name": "Food Gifts"
+      },
+      "Id": 28,
+      "Name": "Sweets"
+    },
+    "MinimumBundle": 1,
+    "Name": "Sweets",
+    "PostageSize": {
+      "Id": 4,
+      "Name": "Packet"
+    },
+    "Price": 18,
+    "Weights": {
+      "EnvelopeWeight": 0,
+      "ItemWeight": 750
+    },
+    "DisplayName": "Sweets",
+    "DefaultNoOfPages": 0,
+    "CanPrepay": false
+  },
+  "SoldOut": true,
+  "SupplierNo": "SWEE623",
+  "ThumbnailUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/SWEE623",
+  "Title": "Birthday Sweet Gifts Jar Large 1.25kg",
+  "AdditionalInfo": "Birthday Sweet Gifts Jar Large 1.25kg",
+  "IsMultipack": false,
+  "UndeliverableDates": [],
+  "InStock": false,
+  "OccasionId": 1,
+  "PageCountOverride": null,
+  "ProductCategoryId": 19,
+  "PublishedOnSite": false,
+  "StyleId": 1,
+  "SupplierId": 4973
+}

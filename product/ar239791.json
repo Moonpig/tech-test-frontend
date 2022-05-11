@@ -1,0 +1,97 @@
+{
+  "Name": "The Letterbox Mixed Alstroemeria",
+  "SizeName": null,
+  "AvailableSizes": [],
+  "Description": "<p><strong>Product Description</strong></p>\n<p><span style=\"font-weight: 400;\">This beautiful selection of mixed colours alstroemeria is sure to brighten anyone's day! The flowers are carefully placed by hand in a specially designed box, and will be delivered in bud, straight through the letterbox, so no need to worry if your recipient is in!&nbsp;</span></p>\n<p><span style=\"font-weight: 400;\">&nbsp;</span></p>\n<p><strong>Product Specification</strong></p>\n<ul>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">14 x Mixed Coloured Alstroemeria</span></li>\n</ul>\n<p><span style=\"font-weight: 400;\">Wrapped in cellophane</span></p>\n<p><span style=\"font-weight: 400;\">Stem length: Approx. 46cm&nbsp;&nbsp;</span></p>\n<p>&nbsp;</p>\n<p><strong>Additional Information</strong></p>\n<p><span style=\"font-weight: 400;\">Please note the card and vase shown is not included.</span></p>\n<p><span style=\"font-weight: 400;\">Our flowers may arrive unopened but the buds will come into bloom within a day or two.</span></p>\n<p><span style=\"font-weight: 400;\">Please note, large cards are too big to fit in our letterbox flowers boxes! If ordered with a large card, they will be sent separately.</span></p>\n<p><span style=\"font-weight: 400;\">Box size 62.2cm x 18.3 cm x 3.7 cm; designed to fit through most standard UK letterboxes.</span></p>\n<p><span style=\"font-weight: 400;\">In the rare event that a substitution is necessary through flower supply difficulties, we may substitute with flowers of similar or superior style, quality and value.</span></p>\n<p>&nbsp;</p>\n<p>This bouquet contains lilies which can be&nbsp;<strong data-stringify-type=\"bold\">toxic to pets</strong>. Keep them away from your furry friends.</p>\n<p>&nbsp;</p>\n<h4><strong>Our Commitment to Quality</strong></h4>\n<p><span style=\"font-weight: 400;\">From blossom to bouquet, every step of your flowers&rsquo; journey is handled with care to ensure long-lasting, beautiful blooms. That means:</span></p>\n<ul>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Five days of freshness guaranteed or we&rsquo;ll replace your flowers</span></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Each bouquet is hand-tied by our florists</span></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Flowers arrive &lsquo;in bud&rsquo; to preserve freshness</span></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Guard petals protect flowers in transit</span></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Bouquets come in our signature Nourishing Wrap to keep them happy while travelling</span></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Next day delivery with full SMS tracking and a two hour delivery window</span></li>\n</ul>",
+  "DesignFeatureTags": [],
+  "ImageUrls": [
+    {
+      "ImageNo": 1,
+      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/AR239791/1"
+    },
+    {
+      "ImageNo": 2,
+      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/AR239791/2"
+    },
+    {
+      "ImageNo": 3,
+      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/AR239791/3"
+    },
+    {
+      "ImageNo": 4,
+      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/AR239791/4"
+    },
+    {
+      "ImageNo": 5,
+      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/AR239791/5"
+    },
+    {
+      "ImageNo": 6,
+      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/AR239791/6"
+    }
+  ],
+  "IsCustomisable": false,
+  "Metadata": {
+    "Default": false,
+    "Quality": 0
+  },
+  "MoonpigProductNo": "AR239791",
+  "Pages": [],
+  "ProductCategoryGroup": {
+    "Name": "Flowers and Plants",
+    "PageUrl": "https://www.moonpig.com/uk/flowers-and-plants",
+    "SeoPath": "flowers-and-plants/"
+  },
+  "ProductId": "86134",
+  "ProductUrl": "https://www.moonpig.com/uk/flowers-and-plants/the-letterbox-mixed-alstroemeria/ar239791",
+  "RangeId": 16853,
+  "Rank": 100,
+  "SeoPath": "the-letterbox-mixed-alstroemeria",
+  "Size": {
+    "AvailableSubstrates": [],
+    "Category": {
+      "Id": 10,
+      "Name": "Flowers"
+    },
+    "Currency": "£",
+    "Description": "PFl",
+    "DisplayOrder": 1,
+    "Id": 62,
+    "Kind": {
+      "Category": {
+        "Id": 10,
+        "Name": "Flowers"
+      },
+      "Id": 4,
+      "Name": "Flower"
+    },
+    "MinimumBundle": 1,
+    "Name": "Letterbox Flowers",
+    "PostageSize": {
+      "Id": 4,
+      "Name": "Packet"
+    },
+    "Price": 22,
+    "Weights": {
+      "EnvelopeWeight": 0,
+      "ItemWeight": 350
+    },
+    "DisplayName": "Letterbox Flowers",
+    "DefaultNoOfPages": 0,
+    "CanPrepay": false
+  },
+  "SoldOut": true,
+  "SupplierNo": "239791",
+  "ThumbnailUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/AR239791",
+  "Title": "The Letterbox Mixed Alstroemeria",
+  "AdditionalInfo": "The Letterbox Mixed Alstroemeria",
+  "IsMultipack": false,
+  "UndeliverableDates": [],
+  "InStock": false,
+  "OccasionId": 24,
+  "PageCountOverride": null,
+  "ProductCategoryId": 10,
+  "PublishedOnSite": false,
+  "StyleId": 14,
+  "SupplierId": 5042
+}

@@ -1,0 +1,109 @@
+{
+  "Name": "Personalised Text and Photo Upload Mug",
+  "SizeName": "Ceramic Mug",
+  "AvailableSizes": [],
+  "Description": "<ul>\n<li>Personalised Text and Photo Upload Mug</li>\n<li>Design a custom mug with any photo</li>\n<li>Dishwasher and microwave safe</li>\n</ul>",
+  "DesignFeatureTags": [
+    "Landscape"
+  ],
+  "ImageUrls": [
+    {
+      "ImageNo": 1,
+      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PUE141-MU/1"
+    },
+    {
+      "ImageNo": 2,
+      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PUE141-MU/2"
+    },
+    {
+      "ImageNo": 3,
+      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PUE141-MU/3"
+    },
+    {
+      "ImageNo": 4,
+      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PUE141-MU/4"
+    }
+  ],
+  "IsCustomisable": true,
+  "Metadata": {
+    "Default": false,
+    "Quality": 0
+  },
+  "MoonpigProductNo": "PUE141-MU",
+  "Pages": [
+    {
+      "PageNo": 1,
+      "Template": {
+        "FontColors": null,
+        "FontOptions": null,
+        "FontSizes": null,
+        "Height": 0,
+        "Id": 48955,
+        "ImageObjects": null,
+        "ShapeObjects": null,
+        "TextCustomisations": null,
+        "TextObjects": null,
+        "Width": 0,
+        "XBleed": 0,
+        "YBleed": 0
+      }
+    }
+  ],
+  "ProductCategoryGroup": {
+    "Name": "Gift",
+    "PageUrl": "https://www.moonpig.com/uk/gifts",
+    "SeoPath": "gifts/"
+  },
+  "ProductId": "43149",
+  "ProductUrl": "https://www.moonpig.com/uk/gifts/personalised-text-and-photo-upload-mug/pue141-mu",
+  "RangeId": 16875,
+  "Rank": 0,
+  "SeoPath": "personalised-text-and-photo-upload-mug",
+  "Size": {
+    "AvailableSubstrates": [],
+    "Category": {
+      "Id": 11,
+      "Name": "Mugs"
+    },
+    "Currency": "£",
+    "Description": "Mug",
+    "DisplayOrder": 11,
+    "Id": 27,
+    "Kind": {
+      "Category": {
+        "Id": 11,
+        "Name": "Mugs"
+      },
+      "Id": 11,
+      "Name": "Mug"
+    },
+    "MinimumBundle": 1,
+    "Name": "Ceramic Mug",
+    "PostageSize": {
+      "Id": 4,
+      "Name": "Packet"
+    },
+    "Price": 10,
+    "Weights": {
+      "EnvelopeWeight": 0,
+      "ItemWeight": 445
+    },
+    "DisplayName": "Ceramic Mug",
+    "DefaultNoOfPages": 1,
+    "CanPrepay": false
+  },
+  "SoldOut": false,
+  "SupplierNo": "Photo text to side",
+  "ThumbnailUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PUE141-MU",
+  "Title": "Personalised Text and Photo Upload Mug",
+  "AdditionalInfo": "Personalised Text and Photo Upload Mug",
+  "IsMultipack": false,
+  "UndeliverableDates": [],
+  "InStock": true,
+  "OccasionId": 46,
+  "PageCountOverride": null,
+  "ProductCategoryId": 11,
+  "PublishedOnSite": true,
+  "StyleId": 17,
+  "SupplierId": 4973
+}

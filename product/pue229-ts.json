@@ -1,0 +1,589 @@
+{
+  "Name": "PUE229-TS",
+  "SizeName": "T-Shirt - Kids - (3 - 4 yrs)",
+  "AvailableSizes": [
+    {
+      "AvailableSubstrates": null,
+      "Category": {
+        "Id": 12,
+        "Name": "T-Shirts"
+      },
+      "Currency": "£",
+      "Description": "TSh",
+      "DisplayOrder": 25,
+      "Id": 30,
+      "Kind": {
+        "Category": {
+          "Id": 12,
+          "Name": "T-Shirts"
+        },
+        "Id": 12,
+        "Name": "Kids T-Shirt"
+      },
+      "MinimumBundle": 1,
+      "Name": "Kids - (5 - 6 yrs)",
+      "PostageSize": {
+        "Id": 2,
+        "Name": "Large Letter"
+      },
+      "Price": 11.99,
+      "Weights": {
+        "EnvelopeWeight": 0,
+        "ItemWeight": 201
+      },
+      "DisplayName": "Kids - (5 - 6 yrs)",
+      "DefaultNoOfPages": 2,
+      "CanPrepay": false
+    },
+    {
+      "AvailableSubstrates": null,
+      "Category": {
+        "Id": 12,
+        "Name": "T-Shirts"
+      },
+      "Currency": "£",
+      "Description": "TSh",
+      "DisplayOrder": 26,
+      "Id": 31,
+      "Kind": {
+        "Category": {
+          "Id": 12,
+          "Name": "T-Shirts"
+        },
+        "Id": 12,
+        "Name": "Kids T-Shirt"
+      },
+      "MinimumBundle": 1,
+      "Name": "Kids - (7 - 8 yrs)",
+      "PostageSize": {
+        "Id": 2,
+        "Name": "Large Letter"
+      },
+      "Price": 11.99,
+      "Weights": {
+        "EnvelopeWeight": 0,
+        "ItemWeight": 216
+      },
+      "DisplayName": "Kids - (7 - 8 yrs)",
+      "DefaultNoOfPages": 2,
+      "CanPrepay": false
+    },
+    {
+      "AvailableSubstrates": null,
+      "Category": {
+        "Id": 12,
+        "Name": "T-Shirts"
+      },
+      "Currency": "£",
+      "Description": "TSh",
+      "DisplayOrder": 27,
+      "Id": 32,
+      "Kind": {
+        "Category": {
+          "Id": 12,
+          "Name": "T-Shirts"
+        },
+        "Id": 12,
+        "Name": "Kids T-Shirt"
+      },
+      "MinimumBundle": 1,
+      "Name": "Kids - (9 - 10 yrs)",
+      "PostageSize": {
+        "Id": 2,
+        "Name": "Large Letter"
+      },
+      "Price": 11.99,
+      "Weights": {
+        "EnvelopeWeight": 0,
+        "ItemWeight": 231
+      },
+      "DisplayName": "Kids - (9 - 10 yrs)",
+      "DefaultNoOfPages": 2,
+      "CanPrepay": false
+    },
+    {
+      "AvailableSubstrates": null,
+      "Category": {
+        "Id": 12,
+        "Name": "T-Shirts"
+      },
+      "Currency": "£",
+      "Description": "TSh",
+      "DisplayOrder": 28,
+      "Id": 33,
+      "Kind": {
+        "Category": {
+          "Id": 12,
+          "Name": "T-Shirts"
+        },
+        "Id": 12,
+        "Name": "Kids T-Shirt"
+      },
+      "MinimumBundle": 1,
+      "Name": "Kids - (11 - 12 yrs)",
+      "PostageSize": {
+        "Id": 2,
+        "Name": "Large Letter"
+      },
+      "Price": 11.99,
+      "Weights": {
+        "EnvelopeWeight": 0,
+        "ItemWeight": 261
+      },
+      "DisplayName": "Kids - (11 - 12 yrs)",
+      "DefaultNoOfPages": 2,
+      "CanPrepay": false
+    },
+    {
+      "AvailableSubstrates": null,
+      "Category": {
+        "Id": 12,
+        "Name": "T-Shirts"
+      },
+      "Currency": "£",
+      "Description": "TSh",
+      "DisplayOrder": 31,
+      "Id": 34,
+      "Kind": {
+        "Category": {
+          "Id": 12,
+          "Name": "T-Shirts"
+        },
+        "Id": 13,
+        "Name": "Womens T-Shirt"
+      },
+      "MinimumBundle": 1,
+      "Name": "Womens - S",
+      "PostageSize": {
+        "Id": 2,
+        "Name": "Large Letter"
+      },
+      "Price": 14.99,
+      "Weights": {
+        "EnvelopeWeight": 0,
+        "ItemWeight": 186
+      },
+      "DisplayName": "Womens - S",
+      "DefaultNoOfPages": 2,
+      "CanPrepay": false
+    },
+    {
+      "AvailableSubstrates": null,
+      "Category": {
+        "Id": 12,
+        "Name": "T-Shirts"
+      },
+      "Currency": "£",
+      "Description": "TSh",
+      "DisplayOrder": 32,
+      "Id": 35,
+      "Kind": {
+        "Category": {
+          "Id": 12,
+          "Name": "T-Shirts"
+        },
+        "Id": 13,
+        "Name": "Womens T-Shirt"
+      },
+      "MinimumBundle": 1,
+      "Name": "Womens - M",
+      "PostageSize": {
+        "Id": 2,
+        "Name": "Large Letter"
+      },
+      "Price": 14.99,
+      "Weights": {
+        "EnvelopeWeight": 0,
+        "ItemWeight": 191
+      },
+      "DisplayName": "Womens - M",
+      "DefaultNoOfPages": 2,
+      "CanPrepay": false
+    },
+    {
+      "AvailableSubstrates": null,
+      "Category": {
+        "Id": 12,
+        "Name": "T-Shirts"
+      },
+      "Currency": "£",
+      "Description": "TSh",
+      "DisplayOrder": 33,
+      "Id": 38,
+      "Kind": {
+        "Category": {
+          "Id": 12,
+          "Name": "T-Shirts"
+        },
+        "Id": 13,
+        "Name": "Womens T-Shirt"
+      },
+      "MinimumBundle": 1,
+      "Name": "Womens - L",
+      "PostageSize": {
+        "Id": 2,
+        "Name": "Large Letter"
+      },
+      "Price": 14.99,
+      "Weights": {
+        "EnvelopeWeight": 0,
+        "ItemWeight": 196
+      },
+      "DisplayName": "Womens - L",
+      "DefaultNoOfPages": 2,
+      "CanPrepay": false
+    },
+    {
+      "AvailableSubstrates": null,
+      "Category": {
+        "Id": 12,
+        "Name": "T-Shirts"
+      },
+      "Currency": "£",
+      "Description": "TSh",
+      "DisplayOrder": 34,
+      "Id": 39,
+      "Kind": {
+        "Category": {
+          "Id": 12,
+          "Name": "T-Shirts"
+        },
+        "Id": 13,
+        "Name": "Womens T-Shirt"
+      },
+      "MinimumBundle": 1,
+      "Name": "Womens - XL",
+      "PostageSize": {
+        "Id": 2,
+        "Name": "Large Letter"
+      },
+      "Price": 14.99,
+      "Weights": {
+        "EnvelopeWeight": 0,
+        "ItemWeight": 201
+      },
+      "DisplayName": "Womens - XL",
+      "DefaultNoOfPages": 2,
+      "CanPrepay": false
+    },
+    {
+      "AvailableSubstrates": null,
+      "Category": {
+        "Id": 12,
+        "Name": "T-Shirts"
+      },
+      "Currency": "£",
+      "Description": "TSh",
+      "DisplayOrder": 35,
+      "Id": 40,
+      "Kind": {
+        "Category": {
+          "Id": 12,
+          "Name": "T-Shirts"
+        },
+        "Id": 13,
+        "Name": "Womens T-Shirt"
+      },
+      "MinimumBundle": 1,
+      "Name": "Womens - XXL",
+      "PostageSize": {
+        "Id": 2,
+        "Name": "Large Letter"
+      },
+      "Price": 14.99,
+      "Weights": {
+        "EnvelopeWeight": 0,
+        "ItemWeight": 216
+      },
+      "DisplayName": "Womens - XXL",
+      "DefaultNoOfPages": 2,
+      "CanPrepay": false
+    },
+    {
+      "AvailableSubstrates": null,
+      "Category": {
+        "Id": 12,
+        "Name": "T-Shirts"
+      },
+      "Currency": "£",
+      "Description": "TSh",
+      "DisplayOrder": 41,
+      "Id": 41,
+      "Kind": {
+        "Category": {
+          "Id": 12,
+          "Name": "T-Shirts"
+        },
+        "Id": 14,
+        "Name": "Mens T-Shirt"
+      },
+      "MinimumBundle": 1,
+      "Name": "Mens - S",
+      "PostageSize": {
+        "Id": 2,
+        "Name": "Large Letter"
+      },
+      "Price": 14.99,
+      "Weights": {
+        "EnvelopeWeight": 0,
+        "ItemWeight": 281
+      },
+      "DisplayName": "Mens - S",
+      "DefaultNoOfPages": 2,
+      "CanPrepay": false
+    },
+    {
+      "AvailableSubstrates": null,
+      "Category": {
+        "Id": 12,
+        "Name": "T-Shirts"
+      },
+      "Currency": "£",
+      "Description": "TSh",
+      "DisplayOrder": 42,
+      "Id": 42,
+      "Kind": {
+        "Category": {
+          "Id": 12,
+          "Name": "T-Shirts"
+        },
+        "Id": 14,
+        "Name": "Mens T-Shirt"
+      },
+      "MinimumBundle": 1,
+      "Name": "Mens - M",
+      "PostageSize": {
+        "Id": 2,
+        "Name": "Large Letter"
+      },
+      "Price": 14.99,
+      "Weights": {
+        "EnvelopeWeight": 0,
+        "ItemWeight": 301
+      },
+      "DisplayName": "Mens - M",
+      "DefaultNoOfPages": 2,
+      "CanPrepay": false
+    },
+    {
+      "AvailableSubstrates": null,
+      "Category": {
+        "Id": 12,
+        "Name": "T-Shirts"
+      },
+      "Currency": "£",
+      "Description": "TSh",
+      "DisplayOrder": 43,
+      "Id": 43,
+      "Kind": {
+        "Category": {
+          "Id": 12,
+          "Name": "T-Shirts"
+        },
+        "Id": 14,
+        "Name": "Mens T-Shirt"
+      },
+      "MinimumBundle": 1,
+      "Name": "Mens - L",
+      "PostageSize": {
+        "Id": 2,
+        "Name": "Large Letter"
+      },
+      "Price": 14.99,
+      "Weights": {
+        "EnvelopeWeight": 0,
+        "ItemWeight": 306
+      },
+      "DisplayName": "Mens - L",
+      "DefaultNoOfPages": 2,
+      "CanPrepay": false
+    },
+    {
+      "AvailableSubstrates": null,
+      "Category": {
+        "Id": 12,
+        "Name": "T-Shirts"
+      },
+      "Currency": "£",
+      "Description": "TSh",
+      "DisplayOrder": 44,
+      "Id": 44,
+      "Kind": {
+        "Category": {
+          "Id": 12,
+          "Name": "T-Shirts"
+        },
+        "Id": 14,
+        "Name": "Mens T-Shirt"
+      },
+      "MinimumBundle": 1,
+      "Name": "Mens - XL",
+      "PostageSize": {
+        "Id": 2,
+        "Name": "Large Letter"
+      },
+      "Price": 14.99,
+      "Weights": {
+        "EnvelopeWeight": 0,
+        "ItemWeight": 336
+      },
+      "DisplayName": "Mens - XL",
+      "DefaultNoOfPages": 2,
+      "CanPrepay": false
+    },
+    {
+      "AvailableSubstrates": null,
+      "Category": {
+        "Id": 12,
+        "Name": "T-Shirts"
+      },
+      "Currency": "£",
+      "Description": "TSh",
+      "DisplayOrder": 45,
+      "Id": 45,
+      "Kind": {
+        "Category": {
+          "Id": 12,
+          "Name": "T-Shirts"
+        },
+        "Id": 14,
+        "Name": "Mens T-Shirt"
+      },
+      "MinimumBundle": 1,
+      "Name": "Mens - XXL",
+      "PostageSize": {
+        "Id": 2,
+        "Name": "Large Letter"
+      },
+      "Price": 14.99,
+      "Weights": {
+        "EnvelopeWeight": 0,
+        "ItemWeight": 351
+      },
+      "DisplayName": "Mens - XXL",
+      "DefaultNoOfPages": 2,
+      "CanPrepay": false
+    }
+  ],
+  "Description": "<ul>\n <li>Full Bleed Photo Upload T-Shirt</li>\n <li>White t-shirt with black lettering overlaid on top</li>\n </ul>",
+  "DesignFeatureTags": [
+    "Portrait"
+  ],
+  "ImageUrls": [
+    {
+      "ImageNo": 1,
+      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PUE229-TS/1?productSizeId=28"
+    },
+    {
+      "ImageNo": 2,
+      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PUE229-TS/2?productSizeId=28"
+    },
+    {
+      "ImageNo": 3,
+      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PUE229-TS/3?productSizeId=28"
+    },
+    {
+      "ImageNo": 4,
+      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PUE229-TS/4?productSizeId=28"
+    }
+  ],
+  "IsCustomisable": true,
+  "Metadata": {
+    "Default": false,
+    "Quality": 0
+  },
+  "MoonpigProductNo": "PUE229-TS",
+  "Pages": [
+    {
+      "PageNo": 1,
+      "Template": {
+        "FontColors": null,
+        "FontOptions": null,
+        "FontSizes": null,
+        "Height": 0,
+        "Id": 65344,
+        "ImageObjects": null,
+        "ShapeObjects": null,
+        "TextCustomisations": null,
+        "TextObjects": null,
+        "Width": 0,
+        "XBleed": 0,
+        "YBleed": 0
+      }
+    }
+  ],
+  "ProductCategoryGroup": {
+    "Name": "Gift",
+    "PageUrl": "https://www.moonpig.com/uk/gifts",
+    "SeoPath": "gifts/"
+  },
+  "ProductId": "76486",
+  "ProductUrl": "https://www.moonpig.com/uk/gifts/full-bleed-photo-upload-tshirt/pue229-ts",
+  "RangeId": 17234,
+  "Rank": 9999,
+  "SeoPath": "full-bleed-photo-upload-tshirt",
+  "Size": {
+    "AvailableSubstrates": [
+      {
+        "ColorId": 2778,
+        "ColorName": "White",
+        "Id": 23,
+        "Name": "White",
+        "RgbValue": "FFFFFF",
+        "SoldOut": false
+      },
+      {
+        "ColorId": 2778,
+        "ColorName": "White",
+        "Id": 24,
+        "Name": "White",
+        "RgbValue": "FFFFFF",
+        "SoldOut": false
+      }
+    ],
+    "Category": {
+      "Id": 12,
+      "Name": "T-Shirts"
+    },
+    "Currency": "£",
+    "Description": "TSh",
+    "DisplayOrder": 24,
+    "Id": 28,
+    "Kind": {
+      "Category": {
+        "Id": 12,
+        "Name": "T-Shirts"
+      },
+      "Id": 12,
+      "Name": "Kids T-Shirt"
+    },
+    "MinimumBundle": 1,
+    "Name": "Kids - (3 - 4 yrs)",
+    "PostageSize": {
+      "Id": 2,
+      "Name": "Large Letter"
+    },
+    "Price": 11.99,
+    "Weights": {
+      "EnvelopeWeight": 0,
+      "ItemWeight": 196
+    },
+    "DisplayName": "Kids - (3 - 4 yrs)",
+    "DefaultNoOfPages": 2,
+    "CanPrepay": false
+  },
+  "SoldOut": false,
+  "SupplierNo": "Full bleed PU",
+  "ThumbnailUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PUE229-TS",
+  "Title": "Full bleed photo upload t-shirt",
+  "AdditionalInfo": "Full bleed photo upload t-shirt",
+  "IsMultipack": false,
+  "UndeliverableDates": [],
+  "InStock": true,
+  "OccasionId": 46,
+  "PageCountOverride": null,
+  "ProductCategoryId": 12,
+  "PublishedOnSite": false,
+  "StyleId": 17,
+  "SupplierId": 4973
+}

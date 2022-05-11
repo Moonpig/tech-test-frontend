@@ -1,0 +1,160 @@
+{
+  "Name": "PU300B",
+  "SizeName": "Square Card",
+  "AvailableSizes": [],
+  "Description": "Full Width Upload Your Photo And Text Card<br /><br />Once you've personalised your card or uploaded a photo, and used the handwriting feature on the app, it's time to make their day even brighter by adding flowers and a gift!<br />",
+  "DesignFeatureTags": [
+    "Portrait"
+  ],
+  "ImageUrls": [
+    {
+      "ImageNo": 1,
+      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PU300B/1"
+    },
+    {
+      "ImageNo": 2,
+      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PU300B/2"
+    },
+    {
+      "ImageNo": 3,
+      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PU300B/3"
+    },
+    {
+      "ImageNo": 4,
+      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PU300B/4"
+    }
+  ],
+  "IsCustomisable": true,
+  "Metadata": {
+    "Default": false,
+    "Quality": 0
+  },
+  "MoonpigProductNo": "PU300B",
+  "Pages": [
+    {
+      "PageNo": 1,
+      "Template": {
+        "FontColors": null,
+        "FontOptions": null,
+        "FontSizes": null,
+        "Height": 0,
+        "Id": 52947,
+        "ImageObjects": null,
+        "ShapeObjects": null,
+        "TextCustomisations": null,
+        "TextObjects": null,
+        "Width": 0,
+        "XBleed": 0,
+        "YBleed": 0
+      }
+    },
+    {
+      "PageNo": 2,
+      "Template": {
+        "FontColors": null,
+        "FontOptions": null,
+        "FontSizes": null,
+        "Height": 0,
+        "Id": 52948,
+        "ImageObjects": null,
+        "ShapeObjects": null,
+        "TextCustomisations": null,
+        "TextObjects": null,
+        "Width": 0,
+        "XBleed": 0,
+        "YBleed": 0
+      }
+    },
+    {
+      "PageNo": 3,
+      "Template": {
+        "FontColors": null,
+        "FontOptions": null,
+        "FontSizes": null,
+        "Height": 0,
+        "Id": 52949,
+        "ImageObjects": null,
+        "ShapeObjects": null,
+        "TextCustomisations": null,
+        "TextObjects": null,
+        "Width": 0,
+        "XBleed": 0,
+        "YBleed": 0
+      }
+    },
+    {
+      "PageNo": 4,
+      "Template": {
+        "FontColors": null,
+        "FontOptions": null,
+        "FontSizes": null,
+        "Height": 0,
+        "Id": 52950,
+        "ImageObjects": null,
+        "ShapeObjects": null,
+        "TextCustomisations": null,
+        "TextObjects": null,
+        "Width": 0,
+        "XBleed": 0,
+        "YBleed": 0
+      }
+    }
+  ],
+  "ProductCategoryGroup": {
+    "Name": "Personalised Cards",
+    "PageUrl": "https://www.moonpig.com/uk/personalised-cards",
+    "SeoPath": "personalised-cards/"
+  },
+  "ProductId": "49589",
+  "ProductUrl": "https://www.moonpig.com/uk/personalised-cards/full-width-upload-your-photo-and-text-card/pu300b",
+  "RangeId": 16671,
+  "Rank": 0,
+  "SeoPath": "full-width-upload-your-photo-and-text-card",
+  "Size": {
+    "AvailableSubstrates": [],
+    "Category": {
+      "Id": 1,
+      "Name": "Greeting Cards"
+    },
+    "Currency": "£",
+    "Description": "Sqr",
+    "DisplayOrder": 5,
+    "Id": 13,
+    "Kind": {
+      "Category": {
+        "Id": 1,
+        "Name": "Greeting Cards"
+      },
+      "Id": 1,
+      "Name": "Greeting Card"
+    },
+    "MinimumBundle": 1,
+    "Name": "Square Card",
+    "PostageSize": {
+      "Id": 1,
+      "Name": "Letter"
+    },
+    "Price": 3.49,
+    "Weights": {
+      "EnvelopeWeight": 12,
+      "ItemWeight": 20
+    },
+    "DisplayName": "Square Card",
+    "DefaultNoOfPages": 4,
+    "CanPrepay": false
+  },
+  "SoldOut": true,
+  "SupplierNo": "",
+  "ThumbnailUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PU300B",
+  "Title": "Full Width Upload Your Photo And Text Card",
+  "AdditionalInfo": "Full Width Upload Your Photo And Text Card",
+  "IsMultipack": false,
+  "UndeliverableDates": [],
+  "InStock": false,
+  "OccasionId": 46,
+  "PageCountOverride": null,
+  "ProductCategoryId": 1,
+  "PublishedOnSite": false,
+  "StyleId": 17,
+  "SupplierId": 4973
+}

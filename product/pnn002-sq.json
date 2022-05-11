@@ -1,0 +1,194 @@
+{
+  "Name": "PNN002-SQ",
+  "SizeName": "Square Card",
+  "AvailableSizes": [
+    {
+      "AvailableSubstrates": null,
+      "Category": {
+        "Id": 1,
+        "Name": "Greeting Cards"
+      },
+      "Currency": "£",
+      "Description": "SqL",
+      "DisplayOrder": 6,
+      "Id": 79,
+      "Kind": {
+        "Category": {
+          "Id": 1,
+          "Name": "Greeting Cards"
+        },
+        "Id": 1,
+        "Name": "Greeting Card"
+      },
+      "MinimumBundle": 1,
+      "Name": "Large Square Card",
+      "PostageSize": {
+        "Id": 1,
+        "Name": "Letter"
+      },
+      "Price": 5.99,
+      "Weights": {
+        "EnvelopeWeight": 15,
+        "ItemWeight": 80
+      },
+      "DisplayName": "Large Square Card",
+      "DefaultNoOfPages": 4,
+      "CanPrepay": false
+    }
+  ],
+  "Description": "I bought this card because I Know you like dogs",
+  "DesignFeatureTags": [
+    "Portrait"
+  ],
+  "ImageUrls": [
+    {
+      "ImageNo": 1,
+      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PNN002-SQ/1"
+    },
+    {
+      "ImageNo": 2,
+      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PNN002-SQ/2"
+    },
+    {
+      "ImageNo": 3,
+      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PNN002-SQ/3"
+    },
+    {
+      "ImageNo": 4,
+      "ImageUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PNN002-SQ/4"
+    }
+  ],
+  "IsCustomisable": true,
+  "Metadata": {
+    "Default": false,
+    "Quality": 0
+  },
+  "MoonpigProductNo": "PNN002-SQ",
+  "Pages": [
+    {
+      "PageNo": 1,
+      "Template": {
+        "FontColors": null,
+        "FontOptions": null,
+        "FontSizes": null,
+        "Height": 0,
+        "Id": 81808,
+        "ImageObjects": null,
+        "ShapeObjects": null,
+        "TextCustomisations": null,
+        "TextObjects": null,
+        "Width": 0,
+        "XBleed": 0,
+        "YBleed": 0
+      }
+    },
+    {
+      "PageNo": 2,
+      "Template": {
+        "FontColors": null,
+        "FontOptions": null,
+        "FontSizes": null,
+        "Height": 0,
+        "Id": 65286,
+        "ImageObjects": null,
+        "ShapeObjects": null,
+        "TextCustomisations": null,
+        "TextObjects": null,
+        "Width": 0,
+        "XBleed": 0,
+        "YBleed": 0
+      }
+    },
+    {
+      "PageNo": 3,
+      "Template": {
+        "FontColors": null,
+        "FontOptions": null,
+        "FontSizes": null,
+        "Height": 0,
+        "Id": 65289,
+        "ImageObjects": null,
+        "ShapeObjects": null,
+        "TextCustomisations": null,
+        "TextObjects": null,
+        "Width": 0,
+        "XBleed": 0,
+        "YBleed": 0
+      }
+    },
+    {
+      "PageNo": 4,
+      "Template": {
+        "FontColors": null,
+        "FontOptions": null,
+        "FontSizes": null,
+        "Height": 0,
+        "Id": 81811,
+        "ImageObjects": null,
+        "ShapeObjects": null,
+        "TextCustomisations": null,
+        "TextObjects": null,
+        "Width": 0,
+        "XBleed": 0,
+        "YBleed": 0
+      }
+    }
+  ],
+  "ProductCategoryGroup": {
+    "Name": "Personalised Cards",
+    "PageUrl": "https://www.moonpig.com/uk/personalised-cards",
+    "SeoPath": "personalised-cards/"
+  },
+  "ProductId": "92163",
+  "ProductUrl": "https://www.moonpig.com/uk/personalised-cards/birhday-card--photo-humour--dogs/pnn002-sq",
+  "RangeId": 19576,
+  "Rank": 9999,
+  "SeoPath": "birhday-card--photo-humour--dogs",
+  "Size": {
+    "AvailableSubstrates": [],
+    "Category": {
+      "Id": 1,
+      "Name": "Greeting Cards"
+    },
+    "Currency": "£",
+    "Description": "Sqr",
+    "DisplayOrder": 5,
+    "Id": 13,
+    "Kind": {
+      "Category": {
+        "Id": 1,
+        "Name": "Greeting Cards"
+      },
+      "Id": 1,
+      "Name": "Greeting Card"
+    },
+    "MinimumBundle": 1,
+    "Name": "Square Card",
+    "PostageSize": {
+      "Id": 1,
+      "Name": "Letter"
+    },
+    "Price": 3.49,
+    "Weights": {
+      "EnvelopeWeight": 12,
+      "ItemWeight": 20
+    },
+    "DisplayName": "Square Card",
+    "DefaultNoOfPages": 4,
+    "CanPrepay": false
+  },
+  "SoldOut": false,
+  "SupplierNo": "",
+  "ThumbnailUrl": "https://d1xkhapf8f3lxw.cloudfront.net/api/images/Cardshop/1/product/PNN002-SQ",
+  "Title": "Birhday Card - Photo Humour - Dogs",
+  "AdditionalInfo": "Birhday Card - Photo Humour - Dogs",
+  "IsMultipack": false,
+  "UndeliverableDates": [],
+  "InStock": true,
+  "OccasionId": 46,
+  "PageCountOverride": null,
+  "ProductCategoryId": 1,
+  "PublishedOnSite": true,
+  "StyleId": 13,
+  "SupplierId": 5007
+}

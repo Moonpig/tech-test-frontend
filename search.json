@@ -4,10 +4,16 @@
   "Start": 0,
   "Products": [
     {
-      "Price": { "Value": 3.49, "Currency": "£" },
+      "Price": {
+        "Value": 3.49,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "Classic Portrait Personalised Photo Upload Card",
-      "ProductCategory": { "ProductCategoryId": 1, "Name": "greeting cards" },
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
       "PhotoUploadCount": 1,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -23,7 +29,7 @@
       "SeoPath": "classic-portrait-personalised-photo-upload-card",
       "ProductCategoryGroupSeoPath": "personalised-cards/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=pu041d",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/pu041d.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "48939"
@@ -46,10 +52,16 @@
       "AdditionalProductImages": []
     },
     {
-      "Price": { "Value": 3.29, "Currency": "£" },
+      "Price": {
+        "Value": 3.29,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "Birthday Card - Graphic Patterns - Photo Upload",
-      "ProductCategory": { "ProductCategoryId": 1, "Name": "greeting cards" },
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
       "PhotoUploadCount": 2,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -65,7 +77,7 @@
       "SeoPath": "birthday-card-graphic-patterns-photo-upload",
       "ProductCategoryGroupSeoPath": "personalised-cards/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=gt006",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/gt006.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "91752"
@@ -88,10 +100,16 @@
       "AdditionalProductImages": []
     },
     {
-      "Price": { "Value": 3.49, "Currency": "£" },
+      "Price": {
+        "Value": 3.49,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "Blue Vertical And Horizontal Grid Photo Upload Happy Father's Day Card",
-      "ProductCategory": { "ProductCategoryId": 1, "Name": "greeting cards" },
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
       "PhotoUploadCount": 8,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -107,7 +125,7 @@
       "SeoPath": "blue-vertical-and-horizontal-grid-photo-upload-happy-fathers-day-card",
       "ProductCategoryGroupSeoPath": "personalised-cards/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=puf087",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/puf087.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "48508"
@@ -130,10 +148,16 @@
       "AdditionalProductImages": []
     },
     {
-      "Price": { "Value": 3.49, "Currency": "£" },
+      "Price": {
+        "Value": 3.49,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "Landscape Personalised Photo Upload Greetings Card",
-      "ProductCategory": { "ProductCategoryId": 1, "Name": "greeting cards" },
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
       "PhotoUploadCount": 1,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -149,7 +173,7 @@
       "SeoPath": "landscape-personalised-photo-upload-greetings-card",
       "ProductCategoryGroupSeoPath": "personalised-cards/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=pu042b",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/pu042b.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "49588"
@@ -172,10 +196,16 @@
       "AdditionalProductImages": []
     },
     {
-      "Price": { "Value": 3.49, "Currency": "£" },
+      "Price": {
+        "Value": 3.49,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "Birthday Card With Photos - Make Today Amazing. Happy Birthday",
-      "ProductCategory": { "ProductCategoryId": 1, "Name": "greeting cards" },
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
       "PhotoUploadCount": 9,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -191,7 +221,7 @@
       "SeoPath": "birthday-card-with-photos-make-today-amazing-happy-birthday",
       "ProductCategoryGroupSeoPath": "personalised-cards/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=pue277",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/pue277.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "82842"
@@ -214,10 +244,16 @@
       "AdditionalProductImages": []
     },
     {
-      "Price": { "Value": 3.49, "Currency": "£" },
+      "Price": {
+        "Value": 3.49,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "Love You Dad Fathers Day Photo Card",
-      "ProductCategory": { "ProductCategoryId": 1, "Name": "greeting cards" },
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
       "PhotoUploadCount": 1,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -233,7 +269,7 @@
       "SeoPath": "love-you-dad-fathers-day-photo-card",
       "ProductCategoryGroupSeoPath": "personalised-cards/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=puf125",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/puf125.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "82582"
@@ -256,10 +292,16 @@
       "AdditionalProductImages": []
     },
     {
-      "Price": { "Value": 3.49, "Currency": "£" },
+      "Price": {
+        "Value": 3.49,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "Photo Father's Day Card - Use your own photo to make a personalised father's day card",
-      "ProductCategory": { "ProductCategoryId": 1, "Name": "greeting cards" },
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
       "PhotoUploadCount": 1,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -275,7 +317,7 @@
       "SeoPath": "photo-fathers-day-card-use-your-own-photo-to-make-a-personalised-fathers-day-card",
       "ProductCategoryGroupSeoPath": "personalised-cards/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=puf124",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/puf124.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "81532"
@@ -298,10 +340,16 @@
       "AdditionalProductImages": []
     },
     {
-      "Price": { "Value": 3.29, "Currency": "£" },
+      "Price": {
+        "Value": 3.29,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "Peppa Pig To A Very Special Daddy Happy Father's Day Photo Card",
-      "ProductCategory": { "ProductCategoryId": 1, "Name": "greeting cards" },
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
       "PhotoUploadCount": 5,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -317,7 +365,7 @@
       "SeoPath": "peppa-pig-to-a-very-special-daddy-happy-fathers-day-photo-card",
       "ProductCategoryGroupSeoPath": "personalised-cards/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=pep124",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/pep124.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "96134"
@@ -334,16 +382,22 @@
       "Reviews": {
         "MinReviewData": 0,
         "MaxReviewData": 0,
-        "AverageStarReviewRating": 5.0,
+        "AverageStarReviewRating": 5,
         "ReviewCount": 1
       },
       "AdditionalProductImages": []
     },
     {
-      "Price": { "Value": 3.49, "Currency": "£" },
+      "Price": {
+        "Value": 3.49,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "Photo Upload Card",
-      "ProductCategory": { "ProductCategoryId": 1, "Name": "greeting cards" },
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
       "PhotoUploadCount": 15,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -359,7 +413,7 @@
       "SeoPath": "photo-upload-card",
       "ProductCategoryGroupSeoPath": "personalised-cards/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=pue184",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/pue184.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "49004"
@@ -382,10 +436,16 @@
       "AdditionalProductImages": []
     },
     {
-      "Price": { "Value": 3.29, "Currency": "£" },
+      "Price": {
+        "Value": 3.29,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "Funny Side Of Life Traffic Jam Card",
-      "ProductCategory": { "ProductCategoryId": 1, "Name": "greeting cards" },
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
       "PhotoUploadCount": 0,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -401,7 +461,7 @@
       "SeoPath": "funny-side-of-life-traffic-jam-card",
       "ProductCategoryGroupSeoPath": "personalised-cards/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=rn010",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/rn010.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "77619"
@@ -424,10 +484,16 @@
       "AdditionalProductImages": []
     },
     {
-      "Price": { "Value": 3.49, "Currency": "£" },
+      "Price": {
+        "Value": 3.49,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "Super Colourful Love You Daddy Happy Father's Day Photo Card",
-      "ProductCategory": { "ProductCategoryId": 1, "Name": "greeting cards" },
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
       "PhotoUploadCount": 1,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -443,7 +509,7 @@
       "SeoPath": "super-colourful-love-you-daddy-happy-fathers-day-photo-card",
       "ProductCategoryGroupSeoPath": "personalised-cards/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=puf099",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/puf099.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "75213"
@@ -466,10 +532,16 @@
       "AdditionalProductImages": []
     },
     {
-      "Price": { "Value": 3.49, "Currency": "£" },
+      "Price": {
+        "Value": 3.49,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "35th Birthday Card - Photo Upload Age Card",
-      "ProductCategory": { "ProductCategoryId": 1, "Name": "greeting cards" },
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
       "PhotoUploadCount": 6,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -485,7 +557,7 @@
       "SeoPath": "35th-birthday-card-photo-upload-age-card",
       "ProductCategoryGroupSeoPath": "personalised-cards/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=pue249",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/pue249.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "72503"
@@ -508,10 +580,16 @@
       "AdditionalProductImages": []
     },
     {
-      "Price": { "Value": 3.49, "Currency": "£" },
+      "Price": {
+        "Value": 3.49,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "Polka Dot Confetti Print Photo Upload Card",
-      "ProductCategory": { "ProductCategoryId": 1, "Name": "greeting cards" },
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
       "PhotoUploadCount": 1,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -527,7 +605,7 @@
       "SeoPath": "polka-dot-confetti-print-photo-upload-card",
       "ProductCategoryGroupSeoPath": "personalised-cards/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=col001",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/col001.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "84235"
@@ -550,10 +628,16 @@
       "AdditionalProductImages": []
     },
     {
-      "Price": { "Value": 3.49, "Currency": "£" },
+      "Price": {
+        "Value": 3.49,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "Multiple Photo Upload I Love My Dad Card",
-      "ProductCategory": { "ProductCategoryId": 1, "Name": "greeting cards" },
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
       "PhotoUploadCount": 4,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -569,7 +653,7 @@
       "SeoPath": "multiple-photo-upload-i-love-my-dad-card",
       "ProductCategoryGroupSeoPath": "personalised-cards/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=puf130",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/puf130.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "81967"
@@ -592,10 +676,16 @@
       "AdditionalProductImages": []
     },
     {
-      "Price": { "Value": 3.49, "Currency": "£" },
+      "Price": {
+        "Value": 3.49,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "60th Birthday Card - Use your own photos to create personalised 60th birthday cards",
-      "ProductCategory": { "ProductCategoryId": 1, "Name": "greeting cards" },
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
       "PhotoUploadCount": 4,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -611,7 +701,7 @@
       "SeoPath": "60th-birthday-card-use-your-own-photos-to-create-personalised-60th-birthday-cards",
       "ProductCategoryGroupSeoPath": "personalised-cards/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=pue290",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/pue290.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "84290"
@@ -634,10 +724,16 @@
       "AdditionalProductImages": []
     },
     {
-      "Price": { "Value": 3.49, "Currency": "£" },
+      "Price": {
+        "Value": 3.49,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "Grandad Father's Day Card",
-      "ProductCategory": { "ProductCategoryId": 1, "Name": "greeting cards" },
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
       "PhotoUploadCount": 1,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -653,7 +749,7 @@
       "SeoPath": "grandad-fathers-day-card",
       "ProductCategoryGroupSeoPath": "personalised-cards/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=puf100",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/puf100.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "75214"
@@ -676,10 +772,16 @@
       "AdditionalProductImages": []
     },
     {
-      "Price": { "Value": 3.49, "Currency": "£" },
+      "Price": {
+        "Value": 3.49,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "Super Colourful Love You Daddy Happy Father's Day Photo Card",
-      "ProductCategory": { "ProductCategoryId": 1, "Name": "greeting cards" },
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
       "PhotoUploadCount": 12,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -695,7 +797,7 @@
       "SeoPath": "super-colourful-love-you-daddy-happy-fathers-day-photo-card",
       "ProductCategoryGroupSeoPath": "personalised-cards/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=puf105",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/puf105.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "73745"
@@ -718,10 +820,16 @@
       "AdditionalProductImages": []
     },
     {
-      "Price": { "Value": 3.29, "Currency": "£" },
+      "Price": {
+        "Value": 3.29,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "Vintage Age Is Mind Over Matter Personalised Happy Birthday Card",
-      "ProductCategory": { "ProductCategoryId": 1, "Name": "greeting cards" },
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
       "PhotoUploadCount": 0,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -737,7 +845,7 @@
       "SeoPath": "vintage-age-is-mind-over-matter-personalised-happy-birthday-card",
       "ProductCategoryGroupSeoPath": "personalised-cards/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=mlk005",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/mlk005.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "31013"
@@ -760,10 +868,16 @@
       "AdditionalProductImages": []
     },
     {
-      "Price": { "Value": 3.29, "Currency": "£" },
+      "Price": {
+        "Value": 3.29,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "Pinboard Background Happy First Father's Day Multi-Photo Card",
-      "ProductCategory": { "ProductCategoryId": 1, "Name": "greeting cards" },
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
       "PhotoUploadCount": 5,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -779,7 +893,7 @@
       "SeoPath": "pinboard-background-happy-first-fathers-day-multiphoto-card",
       "ProductCategoryGroupSeoPath": "personalised-cards/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=pin045",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/pin045.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "95671"
@@ -802,10 +916,16 @@
       "AdditionalProductImages": []
     },
     {
-      "Price": { "Value": 3.49, "Currency": "£" },
+      "Price": {
+        "Value": 3.49,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "Photo Father's Day Card",
-      "ProductCategory": { "ProductCategoryId": 1, "Name": "greeting cards" },
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
       "PhotoUploadCount": 3,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -821,7 +941,7 @@
       "SeoPath": "photo-fathers-day-card",
       "ProductCategoryGroupSeoPath": "personalised-cards/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=prp036",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/prp036.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "74280"
@@ -844,10 +964,16 @@
       "AdditionalProductImages": []
     },
     {
-      "Price": { "Value": 3.49, "Currency": "£" },
+      "Price": {
+        "Value": 3.49,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "Multi-Photo And Personalised Text Card",
-      "ProductCategory": { "ProductCategoryId": 1, "Name": "greeting cards" },
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
       "PhotoUploadCount": 3,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -863,7 +989,7 @@
       "SeoPath": "multiphoto-and-personalised-text-card",
       "ProductCategoryGroupSeoPath": "personalised-cards/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=pue275",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/pue275.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "82840"
@@ -886,10 +1012,16 @@
       "AdditionalProductImages": []
     },
     {
-      "Price": { "Value": 3.29, "Currency": "£" },
+      "Price": {
+        "Value": 3.29,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "Phone Calls Funny Caption Personalised Happy Father's Day Card",
-      "ProductCategory": { "ProductCategoryId": 1, "Name": "greeting cards" },
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
       "PhotoUploadCount": 0,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -905,7 +1037,7 @@
       "SeoPath": "phone-calls-funny-caption-personalised-happy-fathers-day-card",
       "ProductCategoryGroupSeoPath": "personalised-cards/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=tw892",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/tw892.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "67930"
@@ -928,10 +1060,16 @@
       "AdditionalProductImages": []
     },
     {
-      "Price": { "Value": 3.49, "Currency": "£" },
+      "Price": {
+        "Value": 3.49,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "Best Daddy Ever 7 Square Personalised Photo Upload Happy Father's Day Card",
-      "ProductCategory": { "ProductCategoryId": 1, "Name": "greeting cards" },
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
       "PhotoUploadCount": 8,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -947,7 +1085,7 @@
       "SeoPath": "best-daddy-ever-7-square-personalised-photo-upload-happy-fathers-day-card",
       "ProductCategoryGroupSeoPath": "personalised-cards/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=puf093",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/puf093.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "65115"
@@ -964,16 +1102,22 @@
       "Reviews": {
         "MinReviewData": 0,
         "MaxReviewData": 0,
-        "AverageStarReviewRating": 5.0,
+        "AverageStarReviewRating": 5,
         "ReviewCount": 30
       },
       "AdditionalProductImages": []
     },
     {
-      "Price": { "Value": 3.29, "Currency": "£" },
+      "Price": {
+        "Value": 3.29,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "Cheese Pun Birthday Card",
-      "ProductCategory": { "ProductCategoryId": 1, "Name": "greeting cards" },
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
       "PhotoUploadCount": 0,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -989,7 +1133,7 @@
       "SeoPath": "cheese-pun-birthday-card",
       "ProductCategoryGroupSeoPath": "personalised-cards/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=cds003",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/cds003.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "79165"
@@ -1012,10 +1156,16 @@
       "AdditionalProductImages": []
     },
     {
-      "Price": { "Value": 3.49, "Currency": "£" },
+      "Price": {
+        "Value": 3.49,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "Cute Anniversary Card - Movies - Film - Photo Upload",
-      "ProductCategory": { "ProductCategoryId": 1, "Name": "greeting cards" },
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
       "PhotoUploadCount": 1,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -1031,7 +1181,7 @@
       "SeoPath": "cute-anniversary-card-movies-film-photo-upload",
       "ProductCategoryGroupSeoPath": "personalised-cards/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=mv270",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/mv270.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "92641"
@@ -1054,10 +1204,16 @@
       "AdditionalProductImages": []
     },
     {
-      "Price": { "Value": 3.49, "Currency": "£" },
+      "Price": {
+        "Value": 3.49,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "Photo Birthday Card - Newspaper Parody",
-      "ProductCategory": { "ProductCategoryId": 1, "Name": "greeting cards" },
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
       "PhotoUploadCount": 1,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -1073,7 +1229,7 @@
       "SeoPath": "photo-birthday-card-newspaper-parody",
       "ProductCategoryGroupSeoPath": "personalised-cards/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=tn188",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/tn188.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "26475"
@@ -1096,10 +1252,16 @@
       "AdditionalProductImages": []
     },
     {
-      "Price": { "Value": 3.29, "Currency": "£" },
+      "Price": {
+        "Value": 3.29,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "Colourful Confetti Photo And Personalised Text Square Card",
-      "ProductCategory": { "ProductCategoryId": 1, "Name": "greeting cards" },
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
       "PhotoUploadCount": 1,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -1115,7 +1277,7 @@
       "SeoPath": "colourful-confetti-photo-and-personalised-text-square-card",
       "ProductCategoryGroupSeoPath": "personalised-cards/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=ohc007-sq",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/ohc007-sq.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "82896"
@@ -1138,10 +1300,16 @@
       "AdditionalProductImages": []
     },
     {
-      "Price": { "Value": 3.49, "Currency": "£" },
+      "Price": {
+        "Value": 3.49,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "Love You Daddy Happy Fathers Day Card",
-      "ProductCategory": { "ProductCategoryId": 1, "Name": "greeting cards" },
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
       "PhotoUploadCount": 4,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -1157,7 +1325,7 @@
       "SeoPath": "love-you-daddy-happy-fathers-day-card",
       "ProductCategoryGroupSeoPath": "personalised-cards/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=puf139",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/puf139.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "91934"
@@ -1180,10 +1348,16 @@
       "AdditionalProductImages": []
     },
     {
-      "Price": { "Value": 3.49, "Currency": "£" },
+      "Price": {
+        "Value": 3.49,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "Birthday Card - Photo Upload Card - Sister",
-      "ProductCategory": { "ProductCategoryId": 1, "Name": "greeting cards" },
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
       "PhotoUploadCount": 8,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -1199,7 +1373,7 @@
       "SeoPath": "birthday-card-photo-upload-card-sister",
       "ProductCategoryGroupSeoPath": "personalised-cards/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=pue362",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/pue362.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "95075"
@@ -1222,10 +1396,16 @@
       "AdditionalProductImages": []
     },
     {
-      "Price": { "Value": 3.49, "Currency": "£" },
+      "Price": {
+        "Value": 3.49,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "Anniversary Card",
-      "ProductCategory": { "ProductCategoryId": 1, "Name": "greeting cards" },
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
       "PhotoUploadCount": 5,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -1241,7 +1421,7 @@
       "SeoPath": "anniversary-card",
       "ProductCategoryGroupSeoPath": "personalised-cards/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=pu1101",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/pu1101.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "70550"
@@ -1264,10 +1444,16 @@
       "AdditionalProductImages": []
     },
     {
-      "Price": { "Value": 3.49, "Currency": "£" },
+      "Price": {
+        "Value": 3.49,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "Mattel Barbie Bring The 80S Back Funny Card",
-      "ProductCategory": { "ProductCategoryId": 1, "Name": "greeting cards" },
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
       "PhotoUploadCount": 0,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -1283,7 +1469,7 @@
       "SeoPath": "mattel-barbie-bring-the-80s-back-funny-card",
       "ProductCategoryGroupSeoPath": "personalised-cards/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=brh001",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/brh001.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "84184"
@@ -1300,16 +1486,22 @@
       "Reviews": {
         "MinReviewData": 0,
         "MaxReviewData": 0,
-        "AverageStarReviewRating": 5.0,
+        "AverageStarReviewRating": 5,
         "ReviewCount": 4
       },
       "AdditionalProductImages": []
     },
     {
-      "Price": { "Value": 3.29, "Currency": "£" },
+      "Price": {
+        "Value": 3.29,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "Humour Birthday Card",
-      "ProductCategory": { "ProductCategoryId": 1, "Name": "greeting cards" },
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
       "PhotoUploadCount": 0,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -1325,7 +1517,7 @@
       "SeoPath": "humour-birthday-card",
       "ProductCategoryGroupSeoPath": "personalised-cards/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=lw031",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/lw031.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "52395"
@@ -1348,10 +1540,16 @@
       "AdditionalProductImages": []
     },
     {
-      "Price": { "Value": 3.29, "Currency": "£" },
+      "Price": {
+        "Value": 3.29,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "Illustrated Balloon Birthday Card",
-      "ProductCategory": { "ProductCategoryId": 1, "Name": "greeting cards" },
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
       "PhotoUploadCount": 0,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -1367,7 +1565,7 @@
       "SeoPath": "illustrated-balloon-birthday-card",
       "ProductCategoryGroupSeoPath": "personalised-cards/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=plln001",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/plln001.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "85646"
@@ -1390,10 +1588,16 @@
       "AdditionalProductImages": []
     },
     {
-      "Price": { "Value": 3.29, "Currency": "£" },
+      "Price": {
+        "Value": 3.29,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "Gorilla When Dad Reveals His True Feelings Personalised Birthday Card",
-      "ProductCategory": { "ProductCategoryId": 1, "Name": "greeting cards" },
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
       "PhotoUploadCount": 0,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -1409,7 +1613,7 @@
       "SeoPath": "gorilla-when-dad-reveals-his-true-feelings-personalised-birthday-card",
       "ProductCategoryGroupSeoPath": "personalised-cards/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=chp111",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/chp111.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "68267"
@@ -1432,10 +1636,16 @@
       "AdditionalProductImages": []
     },
     {
-      "Price": { "Value": 3.49, "Currency": "£" },
+      "Price": {
+        "Value": 3.49,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "Magazine Spoof Birthday Card",
-      "ProductCategory": { "ProductCategoryId": 1, "Name": "greeting cards" },
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
       "PhotoUploadCount": 4,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -1451,7 +1661,7 @@
       "SeoPath": "magazine-spoof-birthday-card",
       "ProductCategoryGroupSeoPath": "personalised-cards/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=oi165",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/oi165.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "28835"
@@ -1474,10 +1684,16 @@
       "AdditionalProductImages": []
     },
     {
-      "Price": { "Value": 3.49, "Currency": "£" },
+      "Price": {
+        "Value": 3.49,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "Grandad photo upload card",
-      "ProductCategory": { "ProductCategoryId": 1, "Name": "greeting cards" },
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
       "PhotoUploadCount": 1,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -1493,7 +1709,7 @@
       "SeoPath": "grandad-photo-upload-card",
       "ProductCategoryGroupSeoPath": "personalised-cards/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=puf123",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/puf123.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "81966"
@@ -1516,10 +1732,16 @@
       "AdditionalProductImages": []
     },
     {
-      "Price": { "Value": 3.29, "Currency": "£" },
+      "Price": {
+        "Value": 3.29,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "Rooster At The Beach Personalised Name Card",
-      "ProductCategory": { "ProductCategoryId": 1, "Name": "greeting cards" },
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
       "PhotoUploadCount": 0,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -1535,7 +1757,7 @@
       "SeoPath": "rooster-at-the-beach-personalised-name-card",
       "ProductCategoryGroupSeoPath": "personalised-cards/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=ava017",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/ava017.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "78841"
@@ -1558,10 +1780,16 @@
       "AdditionalProductImages": []
     },
     {
-      "Price": { "Value": 3.49, "Currency": "£" },
+      "Price": {
+        "Value": 3.49,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "Daughter's Personalised Card",
-      "ProductCategory": { "ProductCategoryId": 1, "Name": "greeting cards" },
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
       "PhotoUploadCount": 0,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -1577,7 +1805,7 @@
       "SeoPath": "daughters-personalised-card",
       "ProductCategoryGroupSeoPath": "personalised-cards/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=sp799",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/sp799.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "28149"
@@ -1600,10 +1828,16 @@
       "AdditionalProductImages": []
     },
     {
-      "Price": { "Value": 3.49, "Currency": "£" },
+      "Price": {
+        "Value": 3.49,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "Love You Daddy Happy Father's Day Photo Card",
-      "ProductCategory": { "ProductCategoryId": 1, "Name": "greeting cards" },
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
       "PhotoUploadCount": 1,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -1619,7 +1853,7 @@
       "SeoPath": "love-you-daddy-happy-fathers-day-photo-card",
       "ProductCategoryGroupSeoPath": "personalised-cards/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=ckb021",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/ckb021.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "64823"
@@ -1642,10 +1876,16 @@
       "AdditionalProductImages": []
     },
     {
-      "Price": { "Value": 3.49, "Currency": "£" },
+      "Price": {
+        "Value": 3.49,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "The Most Incredible Grandad Father's Day Card",
-      "ProductCategory": { "ProductCategoryId": 1, "Name": "greeting cards" },
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
       "PhotoUploadCount": 4,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -1661,7 +1901,7 @@
       "SeoPath": "the-most-incredible-grandad-fathers-day-card",
       "ProductCategoryGroupSeoPath": "personalised-cards/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=was005",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/was005.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "91481"
@@ -1684,10 +1924,16 @@
       "AdditionalProductImages": []
     },
     {
-      "Price": { "Value": 3.49, "Currency": "£" },
+      "Price": {
+        "Value": 3.49,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "Confetti Multi-Photo Grid Card",
-      "ProductCategory": { "ProductCategoryId": 1, "Name": "greeting cards" },
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
       "PhotoUploadCount": 4,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -1703,7 +1949,7 @@
       "SeoPath": "confetti-multiphoto-grid-card",
       "ProductCategoryGroupSeoPath": "personalised-cards/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=ohc010-sq",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/ohc010-sq.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "82927"
@@ -1726,10 +1972,16 @@
       "AdditionalProductImages": []
     },
     {
-      "Price": { "Value": 3.49, "Currency": "£" },
+      "Price": {
+        "Value": 3.49,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "Text Bubble Photo And Personalised Text Card",
-      "ProductCategory": { "ProductCategoryId": 1, "Name": "greeting cards" },
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
       "PhotoUploadCount": 1,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -1745,7 +1997,7 @@
       "SeoPath": "text-bubble-photo-and-personalised-text-card",
       "ProductCategoryGroupSeoPath": "personalised-cards/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=pue320",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/pue320.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "83338"
@@ -1768,10 +2020,16 @@
       "AdditionalProductImages": []
     },
     {
-      "Price": { "Value": 3.49, "Currency": "£" },
+      "Price": {
+        "Value": 3.49,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "The Daddy Of All Daddies Photo Upload Card",
-      "ProductCategory": { "ProductCategoryId": 1, "Name": "greeting cards" },
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
       "PhotoUploadCount": 1,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -1787,7 +2045,7 @@
       "SeoPath": "the-daddy-of-all-daddies-photo-upload-card",
       "ProductCategoryGroupSeoPath": "personalised-cards/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=acs051",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/acs051.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "81779"
@@ -1810,10 +2068,16 @@
       "AdditionalProductImages": []
     },
     {
-      "Price": { "Value": 3.49, "Currency": "£" },
+      "Price": {
+        "Value": 3.49,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "Customised Father's Day Cards",
-      "ProductCategory": { "ProductCategoryId": 1, "Name": "greeting cards" },
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
       "PhotoUploadCount": 8,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -1829,7 +2093,7 @@
       "SeoPath": "customised-fathers-day-cards",
       "ProductCategoryGroupSeoPath": "personalised-cards/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=puf103",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/puf103.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "73720"
@@ -1852,10 +2116,16 @@
       "AdditionalProductImages": []
     },
     {
-      "Price": { "Value": 3.29, "Currency": "£" },
+      "Price": {
+        "Value": 3.29,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "50th Birthday Card",
-      "ProductCategory": { "ProductCategoryId": 1, "Name": "greeting cards" },
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
       "PhotoUploadCount": 0,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -1871,7 +2141,7 @@
       "SeoPath": "50th-birthday-card",
       "ProductCategoryGroupSeoPath": "personalised-cards/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=ddd006",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/ddd006.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "64663"
@@ -1894,10 +2164,16 @@
       "AdditionalProductImages": []
     },
     {
-      "Price": { "Value": 3.49, "Currency": "£" },
+      "Price": {
+        "Value": 3.49,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "Anniversary Card - Happy Anniversary - Photo Upload",
-      "ProductCategory": { "ProductCategoryId": 1, "Name": "greeting cards" },
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
       "PhotoUploadCount": 2,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -1913,7 +2189,7 @@
       "SeoPath": "anniversary-card-happy-anniversary-photo-upload",
       "ProductCategoryGroupSeoPath": "personalised-cards/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=pai043",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/pai043.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "92638"
@@ -1936,10 +2212,16 @@
       "AdditionalProductImages": []
     },
     {
-      "Price": { "Value": 3.49, "Currency": "£" },
+      "Price": {
+        "Value": 3.49,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "Birthday Card - Photo Upload Card - You're So The Best",
-      "ProductCategory": { "ProductCategoryId": 1, "Name": "greeting cards" },
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
       "PhotoUploadCount": 4,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -1955,7 +2237,7 @@
       "SeoPath": "birthday-card-photo-upload-card-youre-so-the-best",
       "ProductCategoryGroupSeoPath": "personalised-cards/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=hj100",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/hj100.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "92695"
@@ -1978,10 +2260,16 @@
       "AdditionalProductImages": []
     },
     {
-      "Price": { "Value": 3.49, "Currency": "£" },
+      "Price": {
+        "Value": 3.49,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "Stripes And Flowers Multi-Photo Happy Birthday Card",
-      "ProductCategory": { "ProductCategoryId": 1, "Name": "greeting cards" },
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
       "PhotoUploadCount": 3,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -1997,7 +2285,7 @@
       "SeoPath": "stripes-and-flowers-multiphoto-happy-birthday-card",
       "ProductCategoryGroupSeoPath": "personalised-cards/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=ffl029",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/ffl029.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "83596"
@@ -2020,10 +2308,16 @@
       "AdditionalProductImages": []
     },
     {
-      "Price": { "Value": 3.49, "Currency": "£" },
+      "Price": {
+        "Value": 3.49,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "Best Friend Photo Upload Card ",
-      "ProductCategory": { "ProductCategoryId": 1, "Name": "greeting cards" },
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
       "PhotoUploadCount": 6,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -2039,7 +2333,7 @@
       "SeoPath": "best-friend-photo-upload-card",
       "ProductCategoryGroupSeoPath": "personalised-cards/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=pue380",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/pue380.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "94996"
@@ -2062,10 +2356,16 @@
       "AdditionalProductImages": []
     },
     {
-      "Price": { "Value": 3.29, "Currency": "£" },
+      "Price": {
+        "Value": 3.29,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "Funny Drinking Birthday Card",
-      "ProductCategory": { "ProductCategoryId": 1, "Name": "greeting cards" },
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
       "PhotoUploadCount": 0,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -2081,7 +2381,7 @@
       "SeoPath": "funny-drinking-birthday-card",
       "ProductCategoryGroupSeoPath": "personalised-cards/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=fg047",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/fg047.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "30836"
@@ -2104,10 +2404,16 @@
       "AdditionalProductImages": []
     },
     {
-      "Price": { "Value": 3.29, "Currency": "£" },
+      "Price": {
+        "Value": 3.29,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "Friends Good Time Share Personalised Happy Birthday Card",
-      "ProductCategory": { "ProductCategoryId": 1, "Name": "greeting cards" },
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
       "PhotoUploadCount": 0,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -2123,7 +2429,7 @@
       "SeoPath": "friends-good-time-share-personalised-happy-birthday-card",
       "ProductCategoryGroupSeoPath": "personalised-cards/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=tin006",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/tin006.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "50261"
@@ -2146,10 +2452,16 @@
       "AdditionalProductImages": []
     },
     {
-      "Price": { "Value": 3.49, "Currency": "£" },
+      "Price": {
+        "Value": 3.49,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "Photo Father's Day Cards",
-      "ProductCategory": { "ProductCategoryId": 1, "Name": "greeting cards" },
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
       "PhotoUploadCount": 3,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -2165,7 +2477,7 @@
       "SeoPath": "photo-fathers-day-cards",
       "ProductCategoryGroupSeoPath": "personalised-cards/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=lday037",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/lday037.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "73931"
@@ -2188,10 +2500,16 @@
       "AdditionalProductImages": []
     },
     {
-      "Price": { "Value": 3.49, "Currency": "£" },
+      "Price": {
+        "Value": 3.49,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "Multiple Photo Birthday Card",
-      "ProductCategory": { "ProductCategoryId": 1, "Name": "greeting cards" },
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
       "PhotoUploadCount": 11,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -2207,7 +2525,7 @@
       "SeoPath": "multiple-photo-birthday-card",
       "ProductCategoryGroupSeoPath": "personalised-cards/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=pue247",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/pue247.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "72501"
@@ -2230,10 +2548,16 @@
       "AdditionalProductImages": []
     },
     {
-      "Price": { "Value": 3.29, "Currency": "£" },
+      "Price": {
+        "Value": 3.29,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "Teddy Bear And Bunches Of Flowers Personalised Happy Birthday Card",
-      "ProductCategory": { "ProductCategoryId": 1, "Name": "greeting cards" },
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
       "PhotoUploadCount": 0,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -2249,7 +2573,7 @@
       "SeoPath": "teddy-bear-and-bunches-of-flowers-personalised-happy-birthday-card",
       "ProductCategoryGroupSeoPath": "personalised-cards/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=udd039",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/udd039.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "81173"
@@ -2272,10 +2596,16 @@
       "AdditionalProductImages": []
     },
     {
-      "Price": { "Value": 3.29, "Currency": "£" },
+      "Price": {
+        "Value": 3.29,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "Disney Winnie The Pooh Happy First Father's Day Photo Card",
-      "ProductCategory": { "ProductCategoryId": 1, "Name": "greeting cards" },
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
       "PhotoUploadCount": 1,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -2291,7 +2621,7 @@
       "SeoPath": "disney-winnie-the-pooh-happy-first-fathers-day-photo-card",
       "ProductCategoryGroupSeoPath": "personalised-cards/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=wp668",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/wp668.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "96026"
@@ -2308,16 +2638,22 @@
       "Reviews": {
         "MinReviewData": 0,
         "MaxReviewData": 0,
-        "AverageStarReviewRating": 0.0,
+        "AverageStarReviewRating": 0,
         "ReviewCount": 0
       },
       "AdditionalProductImages": []
     },
     {
-      "Price": { "Value": 3.29, "Currency": "£" },
+      "Price": {
+        "Value": 3.29,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "Bright Colourful Patterns Happy First Father's Day Multi-Photo Card",
-      "ProductCategory": { "ProductCategoryId": 1, "Name": "greeting cards" },
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
       "PhotoUploadCount": 3,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -2333,7 +2669,7 @@
       "SeoPath": "bright-colourful-patterns-happy-first-fathers-day-multiphoto-card",
       "ProductCategoryGroupSeoPath": "personalised-cards/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=ost015",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/ost015.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "96111"
@@ -2356,10 +2692,16 @@
       "AdditionalProductImages": []
     },
     {
-      "Price": { "Value": 3.49, "Currency": "£" },
+      "Price": {
+        "Value": 3.49,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "Photo Collage Grandpa Father's Day Card",
-      "ProductCategory": { "ProductCategoryId": 1, "Name": "greeting cards" },
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
       "PhotoUploadCount": 1,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -2375,7 +2717,7 @@
       "SeoPath": "photo-collage-grandpa-fathers-day-card",
       "ProductCategoryGroupSeoPath": "personalised-cards/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=puf142",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/puf142.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "91937"
@@ -2398,10 +2740,16 @@
       "AdditionalProductImages": []
     },
     {
-      "Price": { "Value": 3.29, "Currency": "£" },
+      "Price": {
+        "Value": 3.29,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "Building Blocks Happy Father's Day Card From The Bump Photo Card",
-      "ProductCategory": { "ProductCategoryId": 1, "Name": "greeting cards" },
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
       "PhotoUploadCount": 1,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -2417,7 +2765,7 @@
       "SeoPath": "building-blocks-happy-fathers-day-card-from-the-bump-photo-card",
       "ProductCategoryGroupSeoPath": "personalised-cards/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=dud016-sq",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/dud016-sq.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "95995"
@@ -2434,16 +2782,22 @@
       "Reviews": {
         "MinReviewData": 0,
         "MaxReviewData": 0,
-        "AverageStarReviewRating": 5.0,
+        "AverageStarReviewRating": 5,
         "ReviewCount": 1
       },
       "AdditionalProductImages": []
     },
     {
-      "Price": { "Value": 3.29, "Currency": "£" },
+      "Price": {
+        "Value": 3.29,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "Haynes Guide To Brothers Birthday Photo Upload Card",
-      "ProductCategory": { "ProductCategoryId": 1, "Name": "greeting cards" },
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
       "PhotoUploadCount": 0,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -2459,7 +2813,7 @@
       "SeoPath": "haynes-guide-to-brothers-birthday-photo-upload-card",
       "ProductCategoryGroupSeoPath": "personalised-cards/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=dddh003",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/dddh003.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "94265"
@@ -2482,10 +2836,16 @@
       "AdditionalProductImages": []
     },
     {
-      "Price": { "Value": 3.29, "Currency": "£" },
+      "Price": {
+        "Value": 3.29,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "Run, Its A Tiger Zebra Cartoon Card",
-      "ProductCategory": { "ProductCategoryId": 1, "Name": "greeting cards" },
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
       "PhotoUploadCount": 0,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -2501,7 +2861,7 @@
       "SeoPath": "run-its-a-tiger-zebra-cartoon-card",
       "ProductCategoryGroupSeoPath": "personalised-cards/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=be444",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/be444.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "77713"
@@ -2524,10 +2884,16 @@
       "AdditionalProductImages": []
     },
     {
-      "Price": { "Value": 3.49, "Currency": "£" },
+      "Price": {
+        "Value": 3.49,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "Multi Photo Upload Card",
-      "ProductCategory": { "ProductCategoryId": 1, "Name": "greeting cards" },
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
       "PhotoUploadCount": 4,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -2543,7 +2909,7 @@
       "SeoPath": "multi-photo-upload-card",
       "ProductCategoryGroupSeoPath": "personalised-cards/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=pue145",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/pue145.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "43032"
@@ -2566,10 +2932,16 @@
       "AdditionalProductImages": []
     },
     {
-      "Price": { "Value": 3.49, "Currency": "£" },
+      "Price": {
+        "Value": 3.49,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "Only Fools And Horses World's Greatest Dad Photo Card",
-      "ProductCategory": { "ProductCategoryId": 1, "Name": "greeting cards" },
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
       "PhotoUploadCount": 1,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -2585,7 +2957,7 @@
       "SeoPath": "only-fools-and-horses-worlds-greatest-dad-photo-card",
       "ProductCategoryGroupSeoPath": "personalised-cards/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=ofh007",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/ofh007.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "66196"
@@ -2608,10 +2980,16 @@
       "AdditionalProductImages": []
     },
     {
-      "Price": { "Value": 3.49, "Currency": "£" },
+      "Price": {
+        "Value": 3.49,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "21st Birthday Card - Use your own photos to create personalised 21st birthday cards",
-      "ProductCategory": { "ProductCategoryId": 1, "Name": "greeting cards" },
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
       "PhotoUploadCount": 4,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -2627,7 +3005,7 @@
       "SeoPath": "21st-birthday-card-use-your-own-photos-to-create-personalised-21st-birthday-cards",
       "ProductCategoryGroupSeoPath": "personalised-cards/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=pue286",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/pue286.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "84286"
@@ -2650,10 +3028,16 @@
       "AdditionalProductImages": []
     },
     {
-      "Price": { "Value": 3.29, "Currency": "£" },
+      "Price": {
+        "Value": 3.29,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "Funny Husband Birthday Card",
-      "ProductCategory": { "ProductCategoryId": 1, "Name": "greeting cards" },
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
       "PhotoUploadCount": 0,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -2669,7 +3053,7 @@
       "SeoPath": "funny-husband-birthday-card",
       "ProductCategoryGroupSeoPath": "personalised-cards/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=fsd038",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/fsd038.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "36822"
@@ -2692,10 +3076,16 @@
       "AdditionalProductImages": []
     },
     {
-      "Price": { "Value": 3.29, "Currency": "£" },
+      "Price": {
+        "Value": 3.29,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "Eric The Penguin Funny Personalised Happy Birthday Card",
-      "ProductCategory": { "ProductCategoryId": 1, "Name": "greeting cards" },
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
       "PhotoUploadCount": 0,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -2711,7 +3101,7 @@
       "SeoPath": "eric-the-penguin-funny-personalised-happy-birthday-card",
       "ProductCategoryGroupSeoPath": "personalised-cards/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=ep073",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/ep073.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "31527"
@@ -2734,10 +3124,16 @@
       "AdditionalProductImages": []
     },
     {
-      "Price": { "Value": 3.29, "Currency": "£" },
+      "Price": {
+        "Value": 3.29,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "D.I.Y. Dad Funny Caption Personalised Happy Birthday Card",
-      "ProductCategory": { "ProductCategoryId": 1, "Name": "greeting cards" },
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
       "PhotoUploadCount": 0,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -2753,7 +3149,7 @@
       "SeoPath": "diy-dad-funny-caption-personalised-happy-birthday-card",
       "ProductCategoryGroupSeoPath": "personalised-cards/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=dddf007",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/dddf007.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "68263"
@@ -2776,10 +3172,16 @@
       "AdditionalProductImages": []
     },
     {
-      "Price": { "Value": 3.49, "Currency": "£" },
+      "Price": {
+        "Value": 3.49,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "Happy Birthday Calligraphy Birthday Card",
-      "ProductCategory": { "ProductCategoryId": 1, "Name": "greeting cards" },
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
       "PhotoUploadCount": 1,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -2795,7 +3197,7 @@
       "SeoPath": "happy-birthday-calligraphy-birthday-card",
       "ProductCategoryGroupSeoPath": "personalised-cards/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=pue292",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/pue292.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "84300"
@@ -2818,10 +3220,16 @@
       "AdditionalProductImages": []
     },
     {
-      "Price": { "Value": 3.49, "Currency": "£" },
+      "Price": {
+        "Value": 3.49,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "Photo Birthday Card",
-      "ProductCategory": { "ProductCategoryId": 1, "Name": "greeting cards" },
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
       "PhotoUploadCount": 8,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -2837,7 +3245,7 @@
       "SeoPath": "photo-birthday-card",
       "ProductCategoryGroupSeoPath": "personalised-cards/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=pue182",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/pue182.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "48996"
@@ -2860,10 +3268,16 @@
       "AdditionalProductImages": []
     },
     {
-      "Price": { "Value": 3.49, "Currency": "£" },
+      "Price": {
+        "Value": 3.49,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "Stamped Hearts To The Love Of My Life Photo Birthday Card",
-      "ProductCategory": { "ProductCategoryId": 1, "Name": "greeting cards" },
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
       "PhotoUploadCount": 6,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -2879,7 +3293,7 @@
       "SeoPath": "stamped-hearts-to-the-love-of-my-life-photo-birthday-card",
       "ProductCategoryGroupSeoPath": "personalised-cards/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=pav104",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/pav104.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "96417"
@@ -2902,10 +3316,16 @@
       "AdditionalProductImages": []
     },
     {
-      "Price": { "Value": 3.49, "Currency": "£" },
+      "Price": {
+        "Value": 3.49,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "Colourful Neon Letters Personalised Photo Card",
-      "ProductCategory": { "ProductCategoryId": 1, "Name": "greeting cards" },
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
       "PhotoUploadCount": 1,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -2921,7 +3341,7 @@
       "SeoPath": "colourful-neon-letters-personalised-photo-card",
       "ProductCategoryGroupSeoPath": "personalised-cards/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=dsty012",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/dsty012.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "91478"
@@ -2944,10 +3364,16 @@
       "AdditionalProductImages": []
     },
     {
-      "Price": { "Value": 3.29, "Currency": "£" },
+      "Price": {
+        "Value": 3.29,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "Funny Father's Day Cards - Personalised",
-      "ProductCategory": { "ProductCategoryId": 1, "Name": "greeting cards" },
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
       "PhotoUploadCount": 0,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -2963,7 +3389,7 @@
       "SeoPath": "funny-fathers-day-cards-personalised",
       "ProductCategoryGroupSeoPath": "personalised-cards/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=vv623",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/vv623.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "44478"
@@ -2986,10 +3412,16 @@
       "AdditionalProductImages": []
     },
     {
-      "Price": { "Value": 3.49, "Currency": "£" },
+      "Price": {
+        "Value": 3.49,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "Spoof Birthday Cards - Game Of Fancy Chairs",
-      "ProductCategory": { "ProductCategoryId": 1, "Name": "greeting cards" },
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
       "PhotoUploadCount": 1,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -3005,7 +3437,7 @@
       "SeoPath": "spoof-birthday-cards-game-of-fancy-chairs",
       "ProductCategoryGroupSeoPath": "personalised-cards/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=mv231",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/mv231.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "38425"
@@ -3028,10 +3460,16 @@
       "AdditionalProductImages": []
     },
     {
-      "Price": { "Value": 3.49, "Currency": "£" },
+      "Price": {
+        "Value": 3.49,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "Photo Upload Card",
-      "ProductCategory": { "ProductCategoryId": 1, "Name": "greeting cards" },
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
       "PhotoUploadCount": 9,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -3047,7 +3485,7 @@
       "SeoPath": "photo-upload-card",
       "ProductCategoryGroupSeoPath": "personalised-cards/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=pue185",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/pue185.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "49016"
@@ -3070,10 +3508,16 @@
       "AdditionalProductImages": []
     },
     {
-      "Price": { "Value": 3.49, "Currency": "£" },
+      "Price": {
+        "Value": 3.49,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "Photo Birthday Card Message",
-      "ProductCategory": { "ProductCategoryId": 1, "Name": "greeting cards" },
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
       "PhotoUploadCount": 1,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -3089,7 +3533,7 @@
       "SeoPath": "photo-birthday-card-message",
       "ProductCategoryGroupSeoPath": "personalised-cards/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=pu017b",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/pu017b.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "49590"
@@ -3112,10 +3556,16 @@
       "AdditionalProductImages": []
     },
     {
-      "Price": { "Value": 3.29, "Currency": "£" },
+      "Price": {
+        "Value": 3.29,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "I Love You Dad From The Bottom Of My Heart Card",
-      "ProductCategory": { "ProductCategoryId": 1, "Name": "greeting cards" },
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
       "PhotoUploadCount": 0,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -3131,7 +3581,7 @@
       "SeoPath": "i-love-you-dad-from-the-bottom-of-my-heart-card",
       "ProductCategoryGroupSeoPath": "personalised-cards/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=apt009",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/apt009.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "81578"
@@ -3154,10 +3604,16 @@
       "AdditionalProductImages": []
     },
     {
-      "Price": { "Value": 3.29, "Currency": "£" },
+      "Price": {
+        "Value": 3.29,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "Sexual Dysfunction Barbie Doll Card",
-      "ProductCategory": { "ProductCategoryId": 1, "Name": "greeting cards" },
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
       "PhotoUploadCount": 0,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -3173,7 +3629,7 @@
       "SeoPath": "sexual-dysfunction-barbie-doll-card",
       "ProductCategoryGroupSeoPath": "personalised-cards/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=doll003",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/doll003.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "78702"
@@ -3196,10 +3652,16 @@
       "AdditionalProductImages": []
     },
     {
-      "Price": { "Value": 9.0, "Currency": "£" },
+      "Price": {
+        "Value": 9,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "Father's Day No.1 Dad Photo Upload Mug",
-      "ProductCategory": { "ProductCategoryId": 11, "Name": "mugs" },
+      "ProductCategory": {
+        "ProductCategoryId": 11,
+        "Name": "mugs"
+      },
       "PhotoUploadCount": 9,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -3215,7 +3677,7 @@
       "SeoPath": "fathers-day-no1-dad-photo-upload-mug",
       "ProductCategoryGroupSeoPath": "gifts/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=puf089-mu",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/puf089-mu.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "65994"
@@ -3238,10 +3700,16 @@
       "AdditionalProductImages": []
     },
     {
-      "Price": { "Value": 3.29, "Currency": "£" },
+      "Price": {
+        "Value": 3.29,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "Funny Greeting Card - Free Willy",
-      "ProductCategory": { "ProductCategoryId": 1, "Name": "greeting cards" },
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
       "PhotoUploadCount": 0,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -3257,7 +3725,7 @@
       "SeoPath": "funny-greeting-card-free-willy",
       "ProductCategoryGroupSeoPath": "personalised-cards/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=anf001",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/anf001.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "85726"
@@ -3280,10 +3748,16 @@
       "AdditionalProductImages": []
     },
     {
-      "Price": { "Value": 3.29, "Currency": "£" },
+      "Price": {
+        "Value": 3.29,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "Mamaaaaaaaoooo Cool Queen Freddie Mercury Mother's Day Card",
-      "ProductCategory": { "ProductCategoryId": 1, "Name": "greeting cards" },
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
       "PhotoUploadCount": 0,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -3299,7 +3773,7 @@
       "SeoPath": "mamaaaaaaaoooo-cool-queen-freddie-mercury-mothers-day-card",
       "ProductCategoryGroupSeoPath": "personalised-cards/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=skc026",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/skc026.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "95280"
@@ -3322,10 +3796,16 @@
       "AdditionalProductImages": []
     },
     {
-      "Price": { "Value": 3.49, "Currency": "£" },
+      "Price": {
+        "Value": 3.49,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "Happy Bday Bestie fun modern photo upload card - best friend",
-      "ProductCategory": { "ProductCategoryId": 1, "Name": "greeting cards" },
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
       "PhotoUploadCount": 3,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -3341,7 +3821,7 @@
       "SeoPath": "happy-bday-bestie-fun-modern-photo-upload-card-best-friend",
       "ProductCategoryGroupSeoPath": "personalised-cards/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=gv001",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/gv001.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "95034"
@@ -3364,10 +3844,16 @@
       "AdditionalProductImages": []
     },
     {
-      "Price": { "Value": 3.29, "Currency": "£" },
+      "Price": {
+        "Value": 3.29,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "Funny 21St Birthday Card",
-      "ProductCategory": { "ProductCategoryId": 1, "Name": "greeting cards" },
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
       "PhotoUploadCount": 0,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -3383,7 +3869,7 @@
       "SeoPath": "funny-21st-birthday-card",
       "ProductCategoryGroupSeoPath": "personalised-cards/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=tw910",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/tw910.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "77972"
@@ -3406,10 +3892,16 @@
       "AdditionalProductImages": []
     },
     {
-      "Price": { "Value": 3.29, "Currency": "£" },
+      "Price": {
+        "Value": 3.29,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "Card For Son",
-      "ProductCategory": { "ProductCategoryId": 1, "Name": "greeting cards" },
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
       "PhotoUploadCount": 0,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -3425,7 +3917,7 @@
       "SeoPath": "card-for-son",
       "ProductCategoryGroupSeoPath": "personalised-cards/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=mb019",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/mb019.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "28435"
@@ -3448,10 +3940,16 @@
       "AdditionalProductImages": []
     },
     {
-      "Price": { "Value": 3.29, "Currency": "£" },
+      "Price": {
+        "Value": 3.29,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "Nan Bread Funny Joke Personalised Happy Birthday Card",
-      "ProductCategory": { "ProductCategoryId": 1, "Name": "greeting cards" },
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
       "PhotoUploadCount": 0,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -3467,7 +3965,7 @@
       "SeoPath": "nan-bread-funny-joke-personalised-happy-birthday-card",
       "ProductCategoryGroupSeoPath": "personalised-cards/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=lol009",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/lol009.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "30823"
@@ -3490,10 +3988,16 @@
       "AdditionalProductImages": []
     },
     {
-      "Price": { "Value": 3.29, "Currency": "£" },
+      "Price": {
+        "Value": 3.29,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "Gather Round Children Funny Caption Personalised Birthday Card",
-      "ProductCategory": { "ProductCategoryId": 1, "Name": "greeting cards" },
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
       "PhotoUploadCount": 0,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -3509,7 +4013,7 @@
       "SeoPath": "gather-round-children-funny-caption-personalised-birthday-card",
       "ProductCategoryGroupSeoPath": "personalised-cards/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=tw897",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/tw897.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "68865"
@@ -3532,10 +4036,16 @@
       "AdditionalProductImages": []
     },
     {
-      "Price": { "Value": 3.29, "Currency": "£" },
+      "Price": {
+        "Value": 3.29,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "Bank Of Dad Card",
-      "ProductCategory": { "ProductCategoryId": 1, "Name": "greeting cards" },
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
       "PhotoUploadCount": 0,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -3551,7 +4061,7 @@
       "SeoPath": "bank-of-dad-card",
       "ProductCategoryGroupSeoPath": "personalised-cards/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=bod001",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/bod001.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "74626"
@@ -3574,10 +4084,16 @@
       "AdditionalProductImages": []
     },
     {
-      "Price": { "Value": 3.49, "Currency": "£" },
+      "Price": {
+        "Value": 3.49,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "50th Birthday Photo Upload Card ",
-      "ProductCategory": { "ProductCategoryId": 1, "Name": "greeting cards" },
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
       "PhotoUploadCount": 6,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -3593,7 +4109,7 @@
       "SeoPath": "50th-birthday-photo-upload-card",
       "ProductCategoryGroupSeoPath": "personalised-cards/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=pue337",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/pue337.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "94065"
@@ -3616,10 +4132,16 @@
       "AdditionalProductImages": []
     },
     {
-      "Price": { "Value": 9.0, "Currency": "£" },
+      "Price": {
+        "Value": 9,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "Personalised Text and Photo Upload Mug",
-      "ProductCategory": { "ProductCategoryId": 11, "Name": "mugs" },
+      "ProductCategory": {
+        "ProductCategoryId": 11,
+        "Name": "mugs"
+      },
       "PhotoUploadCount": 1,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -3635,7 +4157,7 @@
       "SeoPath": "personalised-text-and-photo-upload-mug",
       "ProductCategoryGroupSeoPath": "gifts/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=pue141-mu",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/pue141-mu.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "43149"
@@ -3658,10 +4180,16 @@
       "AdditionalProductImages": []
     },
     {
-      "Price": { "Value": 3.49, "Currency": "£" },
+      "Price": {
+        "Value": 3.49,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "Customised Father's Day Card",
-      "ProductCategory": { "ProductCategoryId": 1, "Name": "greeting cards" },
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
       "PhotoUploadCount": 9,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -3677,7 +4205,7 @@
       "SeoPath": "customised-fathers-day-card",
       "ProductCategoryGroupSeoPath": "personalised-cards/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=puf108",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/puf108.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "73723"
@@ -3700,10 +4228,16 @@
       "AdditionalProductImages": []
     },
     {
-      "Price": { "Value": 3.49, "Currency": "£" },
+      "Price": {
+        "Value": 3.49,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "Photo Birthday Card",
-      "ProductCategory": { "ProductCategoryId": 1, "Name": "greeting cards" },
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
       "PhotoUploadCount": 9,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -3719,7 +4253,7 @@
       "SeoPath": "photo-birthday-card",
       "ProductCategoryGroupSeoPath": "personalised-cards/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=pue186",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/pue186.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "49017"
@@ -3742,10 +4276,16 @@
       "AdditionalProductImages": []
     },
     {
-      "Price": { "Value": 3.49, "Currency": "£" },
+      "Price": {
+        "Value": 3.49,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "Mother's Day Card - Love You Mummy - Photo Upload",
-      "ProductCategory": { "ProductCategoryId": 1, "Name": "greeting cards" },
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
       "PhotoUploadCount": 1,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -3761,7 +4301,7 @@
       "SeoPath": "mothers-day-card-love-you-mummy-photo-upload",
       "ProductCategoryGroupSeoPath": "personalised-cards/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=pum128",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/pum128.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "79630"
@@ -3784,10 +4324,16 @@
       "AdditionalProductImages": []
     },
     {
-      "Price": { "Value": 3.49, "Currency": "£" },
+      "Price": {
+        "Value": 3.49,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "From The Dogs Happy Father's Day Card",
-      "ProductCategory": { "ProductCategoryId": 1, "Name": "greeting cards" },
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
       "PhotoUploadCount": 1,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -3803,7 +4349,7 @@
       "SeoPath": "from-the-dogs-happy-fathers-day-card",
       "ProductCategoryGroupSeoPath": "personalised-cards/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=pupt016",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/pupt016.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "91724"
@@ -3826,10 +4372,16 @@
       "AdditionalProductImages": []
     },
     {
-      "Price": { "Value": 3.49, "Currency": "£" },
+      "Price": {
+        "Value": 3.49,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "Living Legend - Newspaper Birthday Card",
-      "ProductCategory": { "ProductCategoryId": 1, "Name": "greeting cards" },
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
       "PhotoUploadCount": 2,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -3845,7 +4397,7 @@
       "SeoPath": "living-legend-newspaper-birthday-card",
       "ProductCategoryGroupSeoPath": "personalised-cards/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=tdn044",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/tdn044.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "36464"
@@ -3868,10 +4420,16 @@
       "AdditionalProductImages": []
     },
     {
-      "Price": { "Value": 3.29, "Currency": "£" },
+      "Price": {
+        "Value": 3.29,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "Multi Photo Upload Birthday Card",
-      "ProductCategory": { "ProductCategoryId": 1, "Name": "greeting cards" },
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
       "PhotoUploadCount": 11,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -3887,7 +4445,7 @@
       "SeoPath": "multi-photo-upload-birthday-card",
       "ProductCategoryGroupSeoPath": "personalised-cards/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=pue354",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/pue354.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "94231"
@@ -3910,10 +4468,16 @@
       "AdditionalProductImages": []
     },
     {
-      "Price": { "Value": 3.49, "Currency": "£" },
+      "Price": {
+        "Value": 3.49,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "30th Birthday Photo Upload Card ",
-      "ProductCategory": { "ProductCategoryId": 1, "Name": "greeting cards" },
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
       "PhotoUploadCount": 5,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -3929,7 +4493,7 @@
       "SeoPath": "30th-birthday-photo-upload-card",
       "ProductCategoryGroupSeoPath": "personalised-cards/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=pue335",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/pue335.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "94061"
@@ -3952,10 +4516,16 @@
       "AdditionalProductImages": []
     },
     {
-      "Price": { "Value": 3.49, "Currency": "£" },
+      "Price": {
+        "Value": 3.49,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "From The Pet Youre The Best Dad Photo Card",
-      "ProductCategory": { "ProductCategoryId": 1, "Name": "greeting cards" },
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
       "PhotoUploadCount": 1,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -3971,7 +4541,7 @@
       "SeoPath": "from-the-pet-youre-the-best-dad-photo-card",
       "ProductCategoryGroupSeoPath": "personalised-cards/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=mfh002",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/mfh002.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "81754"
@@ -3994,10 +4564,16 @@
       "AdditionalProductImages": []
     },
     {
-      "Price": { "Value": 3.29, "Currency": "£" },
+      "Price": {
+        "Value": 3.29,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "Dad Definition and Pronounced Funny Father's Day Card",
-      "ProductCategory": { "ProductCategoryId": 1, "Name": "greeting cards" },
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
       "PhotoUploadCount": 0,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -4013,7 +4589,7 @@
       "SeoPath": "dad-definition-and-pronounced-funny-fathers-day-card",
       "ProductCategoryGroupSeoPath": "personalised-cards/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=tbh025",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/tbh025.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "91768"
@@ -4036,10 +4612,16 @@
       "AdditionalProductImages": []
     },
     {
-      "Price": { "Value": 3.29, "Currency": "£" },
+      "Price": {
+        "Value": 3.29,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "Hungover At Work Barbie Doll Card",
-      "ProductCategory": { "ProductCategoryId": 1, "Name": "greeting cards" },
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
       "PhotoUploadCount": 0,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -4055,7 +4637,7 @@
       "SeoPath": "hungover-at-work-barbie-doll-card",
       "ProductCategoryGroupSeoPath": "personalised-cards/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=doll002",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/doll002.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "78701"
@@ -4078,10 +4660,16 @@
       "AdditionalProductImages": []
     },
     {
-      "Price": { "Value": 3.49, "Currency": "£" },
+      "Price": {
+        "Value": 3.49,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "First Father's Day Personalised Photo Card",
-      "ProductCategory": { "ProductCategoryId": 1, "Name": "greeting cards" },
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
       "PhotoUploadCount": 1,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -4097,7 +4685,7 @@
       "SeoPath": "first-fathers-day-personalised-photo-card",
       "ProductCategoryGroupSeoPath": "personalised-cards/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=pin028",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/pin028.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "91327"
@@ -4120,10 +4708,16 @@
       "AdditionalProductImages": []
     },
     {
-      "Price": { "Value": 3.49, "Currency": "£" },
+      "Price": {
+        "Value": 3.49,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "Marvels Cartoon The Avengers Heros Photo Card",
-      "ProductCategory": { "ProductCategoryId": 1, "Name": "greeting cards" },
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
       "PhotoUploadCount": 1,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -4139,7 +4733,7 @@
       "SeoPath": "marvels-cartoon-the-avengers-heros-photo-card",
       "ProductCategoryGroupSeoPath": "personalised-cards/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=mrv021",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/mrv021.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "81570"
@@ -4162,10 +4756,16 @@
       "AdditionalProductImages": []
     },
     {
-      "Price": { "Value": 3.29, "Currency": "£" },
+      "Price": {
+        "Value": 3.29,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "retro funny spoof magazine Birthday Card - HMS Bell End - Semen - Seamen",
-      "ProductCategory": { "ProductCategoryId": 1, "Name": "greeting cards" },
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
       "PhotoUploadCount": 0,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -4181,7 +4781,7 @@
       "SeoPath": "retro-funny-spoof-magazine-birthday-card-hms-bell-end-semen-seamen",
       "ProductCategoryGroupSeoPath": "personalised-cards/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=ppu003",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/ppu003.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "94741"
@@ -4204,10 +4804,16 @@
       "AdditionalProductImages": []
     },
     {
-      "Price": { "Value": 3.29, "Currency": "£" },
+      "Price": {
+        "Value": 3.29,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "Happy Birthday Card",
-      "ProductCategory": { "ProductCategoryId": 1, "Name": "greeting cards" },
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
       "PhotoUploadCount": 0,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -4223,7 +4829,7 @@
       "SeoPath": "happy-birthday-card",
       "ProductCategoryGroupSeoPath": "personalised-cards/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=hj044",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/hj044.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "66014"
@@ -4246,10 +4852,16 @@
       "AdditionalProductImages": []
     },
     {
-      "Price": { "Value": 3.49, "Currency": "£" },
+      "Price": {
+        "Value": 3.49,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "7th Birthday Card - Unicorn & Rainbow Birthday Card",
-      "ProductCategory": { "ProductCategoryId": 1, "Name": "greeting cards" },
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
       "PhotoUploadCount": 3,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -4265,7 +4877,7 @@
       "SeoPath": "7th-birthday-card-unicorn-rainbow-birthday-card",
       "ProductCategoryGroupSeoPath": "personalised-cards/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=ok009",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/ok009.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "81244"
@@ -4288,10 +4900,16 @@
       "AdditionalProductImages": []
     },
     {
-      "Price": { "Value": 3.49, "Currency": "£" },
+      "Price": {
+        "Value": 3.49,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "Multi Photo Upload Birthday Card",
-      "ProductCategory": { "ProductCategoryId": 1, "Name": "greeting cards" },
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
       "PhotoUploadCount": 11,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -4307,7 +4925,7 @@
       "SeoPath": "multi-photo-upload-birthday-card",
       "ProductCategoryGroupSeoPath": "personalised-cards/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=pue248",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/pue248.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "72502"
@@ -4330,10 +4948,16 @@
       "AdditionalProductImages": []
     },
     {
-      "Price": { "Value": 3.49, "Currency": "£" },
+      "Price": {
+        "Value": 3.49,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "Birthday Card - Photo Upload Card - No.1 Mum",
-      "ProductCategory": { "ProductCategoryId": 1, "Name": "greeting cards" },
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
       "PhotoUploadCount": 7,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -4349,7 +4973,7 @@
       "SeoPath": "birthday-card-photo-upload-card-no1-mum",
       "ProductCategoryGroupSeoPath": "personalised-cards/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=pue367",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/pue367.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "95080"
@@ -4372,10 +4996,16 @@
       "AdditionalProductImages": []
     },
     {
-      "Price": { "Value": 3.49, "Currency": "£" },
+      "Price": {
+        "Value": 3.49,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "Love You To The Moon and Back Personalised Photo Card ",
-      "ProductCategory": { "ProductCategoryId": 1, "Name": "greeting cards" },
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
       "PhotoUploadCount": 2,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -4391,7 +5021,7 @@
       "SeoPath": "love-you-to-the-moon-and-back-personalised-photo-card",
       "ProductCategoryGroupSeoPath": "personalised-cards/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=tf066",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/tf066.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "91919"
@@ -4414,10 +5044,16 @@
       "AdditionalProductImages": []
     },
     {
-      "Price": { "Value": 3.49, "Currency": "£" },
+      "Price": {
+        "Value": 3.49,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "Grandad Photo Father's Day Card - Use your own photo to make a personalised father's day card",
-      "ProductCategory": { "ProductCategoryId": 1, "Name": "greeting cards" },
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
       "PhotoUploadCount": 1,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -4433,7 +5069,7 @@
       "SeoPath": "grandad-photo-fathers-day-card-use-your-own-photo-to-make-a-personalised-fathers-day-card",
       "ProductCategoryGroupSeoPath": "personalised-cards/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=puf128",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/puf128.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "81533"
@@ -4456,10 +5092,16 @@
       "AdditionalProductImages": []
     },
     {
-      "Price": { "Value": 3.29, "Currency": "£" },
+      "Price": {
+        "Value": 3.29,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "Happy Jackson Happy Birthday to the Bestest Daddy Personalised Photo Card",
-      "ProductCategory": { "ProductCategoryId": 1, "Name": "greeting cards" },
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
       "PhotoUploadCount": 3,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -4475,7 +5117,7 @@
       "SeoPath": "happy-jackson-happy-birthday-to-the-bestest-daddy-personalised-photo-card",
       "ProductCategoryGroupSeoPath": "personalised-cards/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=hj121",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/hj121.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "96385"
@@ -4492,16 +5134,22 @@
       "Reviews": {
         "MinReviewData": 0,
         "MaxReviewData": 0,
-        "AverageStarReviewRating": 5.0,
+        "AverageStarReviewRating": 5,
         "ReviewCount": 4
       },
       "AdditionalProductImages": []
     },
     {
-      "Price": { "Value": 3.49, "Currency": "£" },
+      "Price": {
+        "Value": 3.49,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "Colourful Grid Multi-Photo And Personalised Text Card",
-      "ProductCategory": { "ProductCategoryId": 1, "Name": "greeting cards" },
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
       "PhotoUploadCount": 3,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -4517,7 +5165,7 @@
       "SeoPath": "colourful-grid-multiphoto-and-personalised-text-card",
       "ProductCategoryGroupSeoPath": "personalised-cards/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=pue281",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/pue281.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "82846"
@@ -4540,10 +5188,16 @@
       "AdditionalProductImages": []
     },
     {
-      "Price": { "Value": 3.29, "Currency": "£" },
+      "Price": {
+        "Value": 3.29,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "Birhday Card - Photo Humour - Dogs",
-      "ProductCategory": { "ProductCategoryId": 1, "Name": "greeting cards" },
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
       "PhotoUploadCount": 0,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -4559,7 +5213,7 @@
       "SeoPath": "birhday-card-photo-humour-dogs",
       "ProductCategoryGroupSeoPath": "personalised-cards/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=pnn002-sq",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/pnn002-sq.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "92163"
@@ -4582,10 +5236,16 @@
       "AdditionalProductImages": []
     },
     {
-      "Price": { "Value": 3.49, "Currency": "£" },
+      "Price": {
+        "Value": 3.49,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "Personalised 1st Birthday Card",
-      "ProductCategory": { "ProductCategoryId": 1, "Name": "greeting cards" },
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
       "PhotoUploadCount": 12,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -4601,7 +5261,7 @@
       "SeoPath": "personalised-1st-birthday-card",
       "ProductCategoryGroupSeoPath": "personalised-cards/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=pue236",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/pue236.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "67620"
@@ -4624,10 +5284,16 @@
       "AdditionalProductImages": []
     },
     {
-      "Price": { "Value": 3.49, "Currency": "£" },
+      "Price": {
+        "Value": 3.49,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "Photo Brother's Birthday Card.",
-      "ProductCategory": { "ProductCategoryId": 1, "Name": "greeting cards" },
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
       "PhotoUploadCount": 7,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -4643,7 +5309,7 @@
       "SeoPath": "photo-brothers-birthday-card",
       "ProductCategoryGroupSeoPath": "personalised-cards/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=pue233",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/pue233.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "67617"
@@ -4666,10 +5332,16 @@
       "AdditionalProductImages": []
     },
     {
-      "Price": { "Value": 3.49, "Currency": "£" },
+      "Price": {
+        "Value": 3.49,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "Blue With Age Comes Wisdom Personalised Photo Upload Happy Birthday Card",
-      "ProductCategory": { "ProductCategoryId": 1, "Name": "greeting cards" },
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
       "PhotoUploadCount": 1,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -4685,7 +5357,7 @@
       "SeoPath": "blue-with-age-comes-wisdom-personalised-photo-upload-happy-birthday-card",
       "ProductCategoryGroupSeoPath": "personalised-cards/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=hj079",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/hj079.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "66045"
@@ -4708,10 +5380,16 @@
       "AdditionalProductImages": []
     },
     {
-      "Price": { "Value": 3.49, "Currency": "£" },
+      "Price": {
+        "Value": 3.49,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "18th Birthday Card",
-      "ProductCategory": { "ProductCategoryId": 1, "Name": "greeting cards" },
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
       "PhotoUploadCount": 3,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -4727,7 +5405,7 @@
       "SeoPath": "18th-birthday-card",
       "ProductCategoryGroupSeoPath": "personalised-cards/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=pue240",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/pue240.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "67624"
@@ -4750,10 +5428,16 @@
       "AdditionalProductImages": []
     },
     {
-      "Price": { "Value": 3.49, "Currency": "£" },
+      "Price": {
+        "Value": 3.49,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "Photo 1st Anniversary Card",
-      "ProductCategory": { "ProductCategoryId": 1, "Name": "greeting cards" },
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
       "PhotoUploadCount": 1,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -4769,7 +5453,7 @@
       "SeoPath": "photo-1st-anniversary-card",
       "ProductCategoryGroupSeoPath": "personalised-cards/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=pu1109",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/pu1109.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "70642"
@@ -4792,10 +5476,16 @@
       "AdditionalProductImages": []
     },
     {
-      "Price": { "Value": 3.49, "Currency": "£" },
+      "Price": {
+        "Value": 3.49,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "No.1 Dad - Photo Customised Father's Day Card",
-      "ProductCategory": { "ProductCategoryId": 1, "Name": "greeting cards" },
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
       "PhotoUploadCount": 9,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -4811,7 +5501,7 @@
       "SeoPath": "no1-dad-photo-customised-fathers-day-card",
       "ProductCategoryGroupSeoPath": "personalised-cards/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=puf094",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/puf094.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "65116"
@@ -4834,10 +5524,16 @@
       "AdditionalProductImages": []
     },
     {
-      "Price": { "Value": 3.29, "Currency": "£" },
+      "Price": {
+        "Value": 3.29,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "I Love You And Your Massive Willy Card",
-      "ProductCategory": { "ProductCategoryId": 1, "Name": "greeting cards" },
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
       "PhotoUploadCount": 0,
       "CardShopId": 1,
       "DirectSmile": true,
@@ -4853,7 +5549,7 @@
       "SeoPath": "i-love-you-and-your-massive-willy-card",
       "ProductCategoryGroupSeoPath": "personalised-cards/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=tmq031",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/tmq031.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "77445"
@@ -4876,10 +5572,16 @@
       "AdditionalProductImages": []
     },
     {
-      "Price": { "Value": 3.29, "Currency": "£" },
+      "Price": {
+        "Value": 3.29,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "First Father's Day Photo Card ",
-      "ProductCategory": { "ProductCategoryId": 1, "Name": "greeting cards" },
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
       "PhotoUploadCount": 3,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -4895,7 +5597,7 @@
       "SeoPath": "first-fathers-day-photo-card",
       "ProductCategoryGroupSeoPath": "personalised-cards/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=swn009",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/swn009.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "96037"
@@ -4912,16 +5614,22 @@
       "Reviews": {
         "MinReviewData": 0,
         "MaxReviewData": 0,
-        "AverageStarReviewRating": 5.0,
+        "AverageStarReviewRating": 5,
         "ReviewCount": 2
       },
       "AdditionalProductImages": []
     },
     {
-      "Price": { "Value": 11.99, "Currency": "£" },
+      "Price": {
+        "Value": 11.99,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "Full Bleed Photo Upload",
-      "ProductCategory": { "ProductCategoryId": 12, "Name": "t-shirts" },
+      "ProductCategory": {
+        "ProductCategoryId": 12,
+        "Name": "t-shirts"
+      },
       "PhotoUploadCount": 1,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -4937,7 +5645,7 @@
       "SeoPath": "full-bleed-photo-upload",
       "ProductCategoryGroupSeoPath": "gifts/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=pue229-ts",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/pue229-ts.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "76486"
@@ -4960,10 +5668,16 @@
       "AdditionalProductImages": []
     },
     {
-      "Price": { "Value": 3.49, "Currency": "£" },
+      "Price": {
+        "Value": 3.49,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "Father's Day Personalised Card",
-      "ProductCategory": { "ProductCategoryId": 1, "Name": "greeting cards" },
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
       "PhotoUploadCount": 1,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -4979,7 +5693,7 @@
       "SeoPath": "fathers-day-personalised-card",
       "ProductCategoryGroupSeoPath": "personalised-cards/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=lday038",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/lday038.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "73932"
@@ -5002,10 +5716,16 @@
       "AdditionalProductImages": []
     },
     {
-      "Price": { "Value": 3.49, "Currency": "£" },
+      "Price": {
+        "Value": 3.49,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "Newspaper Spoof 18st Birthday Card",
-      "ProductCategory": { "ProductCategoryId": 1, "Name": "greeting cards" },
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
       "PhotoUploadCount": 3,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -5021,7 +5741,7 @@
       "SeoPath": "newspaper-spoof-18st-birthday-card",
       "ProductCategoryGroupSeoPath": "personalised-cards/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=tn178",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/tn178.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "26426"
@@ -5044,10 +5764,16 @@
       "AdditionalProductImages": []
     },
     {
-      "Price": { "Value": 3.29, "Currency": "£" },
+      "Price": {
+        "Value": 3.29,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "Movie Spoof Birthday Card - Living Legend Greeting Card",
-      "ProductCategory": { "ProductCategoryId": 1, "Name": "greeting cards" },
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
       "PhotoUploadCount": 1,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -5063,7 +5789,7 @@
       "SeoPath": "movie-spoof-birthday-card-living-legend-greeting-card",
       "ProductCategoryGroupSeoPath": "personalised-cards/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=mv099",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/mv099.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "22572"
@@ -5086,10 +5812,16 @@
       "AdditionalProductImages": []
     },
     {
-      "Price": { "Value": 3.49, "Currency": "£" },
+      "Price": {
+        "Value": 3.49,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "Photo Birthday Card",
-      "ProductCategory": { "ProductCategoryId": 1, "Name": "greeting cards" },
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
       "PhotoUploadCount": 5,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -5105,7 +5837,7 @@
       "SeoPath": "photo-birthday-card",
       "ProductCategoryGroupSeoPath": "personalised-cards/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=pai004",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/pai004.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "74604"
@@ -5128,10 +5860,16 @@
       "AdditionalProductImages": []
     },
     {
-      "Price": { "Value": 3.49, "Currency": "£" },
+      "Price": {
+        "Value": 3.49,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "Happy Birthday Daughter Heart Photo Upload Card",
-      "ProductCategory": { "ProductCategoryId": 1, "Name": "greeting cards" },
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
       "PhotoUploadCount": 1,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -5147,7 +5885,7 @@
       "SeoPath": "happy-birthday-daughter-heart-photo-upload-card",
       "ProductCategoryGroupSeoPath": "personalised-cards/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=thn035",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/thn035.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "90153"
@@ -5170,10 +5908,16 @@
       "AdditionalProductImages": []
     },
     {
-      "Price": { "Value": 3.29, "Currency": "£" },
+      "Price": {
+        "Value": 3.29,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "Drink Too Much Birthday Card ",
-      "ProductCategory": { "ProductCategoryId": 1, "Name": "greeting cards" },
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
       "PhotoUploadCount": 0,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -5189,7 +5933,7 @@
       "SeoPath": "drink-too-much-birthday-card",
       "ProductCategoryGroupSeoPath": "personalised-cards/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=tw918",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/tw918.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "94384"
@@ -5212,10 +5956,16 @@
       "AdditionalProductImages": []
     },
     {
-      "Price": { "Value": 3.49, "Currency": "£" },
+      "Price": {
+        "Value": 3.49,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "Birthday Card For Your Girlfriend",
-      "ProductCategory": { "ProductCategoryId": 1, "Name": "greeting cards" },
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
       "PhotoUploadCount": 1,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -5231,7 +5981,7 @@
       "SeoPath": "birthday-card-for-your-girlfriend",
       "ProductCategoryGroupSeoPath": "personalised-cards/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=ckb014",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/ckb014.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "50704"
@@ -5254,10 +6004,16 @@
       "AdditionalProductImages": []
     },
     {
-      "Price": { "Value": 3.29, "Currency": "£" },
+      "Price": {
+        "Value": 3.29,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "Born In May Personalised Birthday Card",
-      "ProductCategory": { "ProductCategoryId": 1, "Name": "greeting cards" },
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
       "PhotoUploadCount": 0,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -5273,7 +6029,7 @@
       "SeoPath": "born-in-may-personalised-birthday-card",
       "ProductCategoryGroupSeoPath": "personalised-cards/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=nhm076",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/nhm076.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "90513"
@@ -5290,16 +6046,22 @@
       "Reviews": {
         "MinReviewData": 0,
         "MaxReviewData": 0,
-        "AverageStarReviewRating": 5.0,
+        "AverageStarReviewRating": 5,
         "ReviewCount": 10
       },
       "AdditionalProductImages": []
     },
     {
-      "Price": { "Value": 20.004, "Currency": "£" },
+      "Price": {
+        "Value": 20.004,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "The Letterbox Mixed Alstroemeria",
-      "ProductCategory": { "ProductCategoryId": 10, "Name": "flowers" },
+      "ProductCategory": {
+        "ProductCategoryId": 10,
+        "Name": "flowers"
+      },
       "PhotoUploadCount": 0,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -5315,7 +6077,7 @@
       "SeoPath": "letterbox-mixed-alstromeria",
       "ProductCategoryGroupSeoPath": "flowers-and-plants/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=ar239791",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/ar239791.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "86134"
@@ -5384,10 +6146,16 @@
       ]
     },
     {
-      "Price": { "Value": 3.29, "Currency": "£" },
+      "Price": {
+        "Value": 3.29,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "Funny Neighbour Greeting Card",
-      "ProductCategory": { "ProductCategoryId": 1, "Name": "greeting cards" },
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
       "PhotoUploadCount": 0,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -5403,7 +6171,7 @@
       "SeoPath": "funny-neighbour-greeting-card",
       "ProductCategoryGroupSeoPath": "personalised-cards/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=fsd034",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/fsd034.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "36818"
@@ -5426,10 +6194,16 @@
       "AdditionalProductImages": []
     },
     {
-      "Price": { "Value": 3.29, "Currency": "£" },
+      "Price": {
+        "Value": 3.29,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "A Keen Yachtsman Funny Personalised Birthday Card For Dad",
-      "ProductCategory": { "ProductCategoryId": 1, "Name": "greeting cards" },
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
       "PhotoUploadCount": 0,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -5445,7 +6219,7 @@
       "SeoPath": "a-keen-yachtsman-funny-personalised-birthday-card-for-dad",
       "ProductCategoryGroupSeoPath": "personalised-cards/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=be092",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/be092.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "7600"
@@ -5468,10 +6242,16 @@
       "AdditionalProductImages": []
     },
     {
-      "Price": { "Value": 3.49, "Currency": "£" },
+      "Price": {
+        "Value": 3.49,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "Personalised Birthday Card",
-      "ProductCategory": { "ProductCategoryId": 1, "Name": "greeting cards" },
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
       "PhotoUploadCount": 9,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -5487,7 +6267,7 @@
       "SeoPath": "personalised-birthday-card",
       "ProductCategoryGroupSeoPath": "personalised-cards/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=pue179",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/pue179.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "48993"
@@ -5510,10 +6290,16 @@
       "AdditionalProductImages": []
     },
     {
-      "Price": { "Value": 3.49, "Currency": "£" },
+      "Price": {
+        "Value": 3.49,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "Birthday Card - Photo Upload Card - 20 Photos - Mum",
-      "ProductCategory": { "ProductCategoryId": 1, "Name": "greeting cards" },
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
       "PhotoUploadCount": 11,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -5529,7 +6315,7 @@
       "SeoPath": "birthday-card-photo-upload-card-20-photos-mum",
       "ProductCategoryGroupSeoPath": "personalised-cards/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=pue326",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/pue326.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "92648"
@@ -5552,10 +6338,16 @@
       "AdditionalProductImages": []
     },
     {
-      "Price": { "Value": 3.29, "Currency": "£" },
+      "Price": {
+        "Value": 3.29,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "Days Without Internet And Personalised Name Had Gone Insane Funny Card",
-      "ProductCategory": { "ProductCategoryId": 1, "Name": "greeting cards" },
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
       "PhotoUploadCount": 0,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -5571,7 +6363,7 @@
       "SeoPath": "days-without-internet-and-personalised-name-had-gone-insane-funny-card",
       "ProductCategoryGroupSeoPath": "personalised-cards/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=ddd078",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/ddd078.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "74295"
@@ -5594,10 +6386,16 @@
       "AdditionalProductImages": []
     },
     {
-      "Price": { "Value": 3.49, "Currency": "£" },
+      "Price": {
+        "Value": 3.49,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "Birthday Card - Photo Upload - 30 - Thirty - Holy Shite",
-      "ProductCategory": { "ProductCategoryId": 1, "Name": "greeting cards" },
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
       "PhotoUploadCount": 1,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -5613,7 +6411,7 @@
       "SeoPath": "birthday-card-photo-upload-30-thirty-holy-shite",
       "ProductCategoryGroupSeoPath": "personalised-cards/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=jat023",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/jat023.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "94732"
@@ -5630,16 +6428,22 @@
       "Reviews": {
         "MinReviewData": 0,
         "MaxReviewData": 0,
-        "AverageStarReviewRating": 5.0,
+        "AverageStarReviewRating": 5,
         "ReviewCount": 29
       },
       "AdditionalProductImages": []
     },
     {
-      "Price": { "Value": 3.49, "Currency": "£" },
+      "Price": {
+        "Value": 3.49,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "Flowers And Bumblebee Happy Birthday Mum Photo Card",
-      "ProductCategory": { "ProductCategoryId": 1, "Name": "greeting cards" },
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
       "PhotoUploadCount": 1,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -5655,7 +6459,7 @@
       "SeoPath": "flowers-and-bumblebee-happy-birthday-mum-photo-card",
       "ProductCategoryGroupSeoPath": "personalised-cards/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=bee096",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/bee096.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "85320"
@@ -5678,10 +6482,16 @@
       "AdditionalProductImages": []
     },
     {
-      "Price": { "Value": 3.49, "Currency": "£" },
+      "Price": {
+        "Value": 3.49,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "Full Width Upload Your Photo And Text Card",
-      "ProductCategory": { "ProductCategoryId": 1, "Name": "greeting cards" },
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
       "PhotoUploadCount": 1,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -5697,7 +6507,7 @@
       "SeoPath": "full-width-upload-your-photo-and-text-card",
       "ProductCategoryGroupSeoPath": "personalised-cards/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=pu300b",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/pu300b.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "49589"
@@ -5720,10 +6530,16 @@
       "AdditionalProductImages": []
     },
     {
-      "Price": { "Value": 3.29, "Currency": "£" },
+      "Price": {
+        "Value": 3.29,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "Birthday Card - Gin - Alcohol",
-      "ProductCategory": { "ProductCategoryId": 1, "Name": "greeting cards" },
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
       "PhotoUploadCount": 0,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -5739,7 +6555,7 @@
       "SeoPath": "birthday-card-gin-alcohol",
       "ProductCategoryGroupSeoPath": "personalised-cards/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=ect002",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/ect002.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "92165"
@@ -5762,10 +6578,16 @@
       "AdditionalProductImages": []
     },
     {
-      "Price": { "Value": 3.29, "Currency": "£" },
+      "Price": {
+        "Value": 3.29,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "Mother's Day Card - Mum - Verse - floral",
-      "ProductCategory": { "ProductCategoryId": 1, "Name": "greeting cards" },
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
       "PhotoUploadCount": 0,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -5781,7 +6603,7 @@
       "SeoPath": "mothers-day-card-mum-verse-floral",
       "ProductCategoryGroupSeoPath": "personalised-cards/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=edl019",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/edl019.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "90179"
@@ -5804,10 +6626,16 @@
       "AdditionalProductImages": []
     },
     {
-      "Price": { "Value": 32.004, "Currency": "£" },
+      "Price": {
+        "Value": 32.004,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "The Happy Birthday Gift Set",
-      "ProductCategory": { "ProductCategoryId": 10, "Name": "flowers" },
+      "ProductCategory": {
+        "ProductCategoryId": 10,
+        "Name": "flowers"
+      },
       "PhotoUploadCount": 0,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -5823,7 +6651,7 @@
       "SeoPath": "the-happy-birthday-gift-set",
       "ProductCategoryGroupSeoPath": "flowers-and-plants/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=ar239134",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/ar239134.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "83887"
@@ -5874,10 +6702,16 @@
       ]
     },
     {
-      "Price": { "Value": 3.49, "Currency": "£" },
+      "Price": {
+        "Value": 3.49,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "Incognito Bunting And Hat Photo Upload Card",
-      "ProductCategory": { "ProductCategoryId": 1, "Name": "greeting cards" },
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
       "PhotoUploadCount": 1,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -5893,7 +6727,7 @@
       "SeoPath": "incognito-bunting-and-hat-photo-upload-card",
       "ProductCategoryGroupSeoPath": "personalised-cards/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=icg015",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/icg015.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "89409"
@@ -5916,10 +6750,16 @@
       "AdditionalProductImages": []
     },
     {
-      "Price": { "Value": 3.29, "Currency": "£" },
+      "Price": {
+        "Value": 3.29,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "Personalised Another Year Older But At Least Still Younger Than Me Card",
-      "ProductCategory": { "ProductCategoryId": 1, "Name": "greeting cards" },
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
       "PhotoUploadCount": 0,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -5935,7 +6775,7 @@
       "SeoPath": "personalised-another-year-older-but-at-least-still-younger-than-me-card",
       "ProductCategoryGroupSeoPath": "personalised-cards/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=mg043",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/mg043.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "84263"
@@ -5958,10 +6798,16 @@
       "AdditionalProductImages": []
     },
     {
-      "Price": { "Value": 3.29, "Currency": "£" },
+      "Price": {
+        "Value": 3.29,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "Funny Dog Birthday Card",
-      "ProductCategory": { "ProductCategoryId": 1, "Name": "greeting cards" },
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
       "PhotoUploadCount": 0,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -5977,7 +6823,7 @@
       "SeoPath": "funny-dog-birthday-card",
       "ProductCategoryGroupSeoPath": "personalised-cards/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=pp757",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/pp757.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "78066"
@@ -6000,10 +6846,16 @@
       "AdditionalProductImages": []
     },
     {
-      "Price": { "Value": 3.49, "Currency": "£" },
+      "Price": {
+        "Value": 3.49,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "Marvel Comics Characters Birthday Card",
-      "ProductCategory": { "ProductCategoryId": 1, "Name": "greeting cards" },
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
       "PhotoUploadCount": 0,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -6019,7 +6871,7 @@
       "SeoPath": "marvel-comics-characters-birthday-card",
       "ProductCategoryGroupSeoPath": "personalised-cards/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=mrv044",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/mrv044.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "92942"
@@ -6042,10 +6894,16 @@
       "AdditionalProductImages": []
     },
     {
-      "Price": { "Value": 3.29, "Currency": "£" },
+      "Price": {
+        "Value": 3.29,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "Days And Hours Personalised Anniversary Card For Husband",
-      "ProductCategory": { "ProductCategoryId": 1, "Name": "greeting cards" },
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
       "PhotoUploadCount": 0,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -6061,7 +6919,7 @@
       "SeoPath": "days-and-hours-personalised-anniversary-card-for-husband",
       "ProductCategoryGroupSeoPath": "personalised-cards/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=pl508",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/pl508.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "70120"
@@ -6084,10 +6942,16 @@
       "AdditionalProductImages": []
     },
     {
-      "Price": { "Value": 3.49, "Currency": "£" },
+      "Price": {
+        "Value": 3.49,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "Liverpool FC Birthday Card - Name and number on Jersey card",
-      "ProductCategory": { "ProductCategoryId": 1, "Name": "greeting cards" },
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
       "PhotoUploadCount": 0,
       "CardShopId": 1,
       "DirectSmile": true,
@@ -6103,7 +6967,7 @@
       "SeoPath": "liverpool-fc-birthday-card-name-and-number-on-jersey-card",
       "ProductCategoryGroupSeoPath": "personalised-cards/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=lvp003",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/lvp003.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "95646"
@@ -6120,16 +6984,22 @@
       "Reviews": {
         "MinReviewData": 0,
         "MaxReviewData": 0,
-        "AverageStarReviewRating": 5.0,
+        "AverageStarReviewRating": 5,
         "ReviewCount": 20
       },
       "AdditionalProductImages": []
     },
     {
-      "Price": { "Value": 3.49, "Currency": "£" },
+      "Price": {
+        "Value": 3.49,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "50th Birthday Card",
-      "ProductCategory": { "ProductCategoryId": 1, "Name": "greeting cards" },
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
       "PhotoUploadCount": 1,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -6145,7 +7015,7 @@
       "SeoPath": "50th-birthday-card",
       "ProductCategoryGroupSeoPath": "personalised-cards/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=tdn017",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/tdn017.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "36424"
@@ -6168,10 +7038,16 @@
       "AdditionalProductImages": []
     },
     {
-      "Price": { "Value": 3.29, "Currency": "£" },
+      "Price": {
+        "Value": 3.29,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "Floral Wreath Personalised Birthday Card",
-      "ProductCategory": { "ProductCategoryId": 1, "Name": "greeting cards" },
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
       "PhotoUploadCount": 0,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -6187,7 +7063,7 @@
       "SeoPath": "floral-wreath-personalised-birthday-card",
       "ProductCategoryGroupSeoPath": "personalised-cards/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=amr004",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/amr004.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "84282"
@@ -6210,10 +7086,16 @@
       "AdditionalProductImages": []
     },
     {
-      "Price": { "Value": 3.29, "Currency": "£" },
+      "Price": {
+        "Value": 3.29,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "Brother Birthday Card",
-      "ProductCategory": { "ProductCategoryId": 1, "Name": "greeting cards" },
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
       "PhotoUploadCount": 0,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -6229,7 +7111,7 @@
       "SeoPath": "brother-birthday-card",
       "ProductCategoryGroupSeoPath": "personalised-cards/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=ddd001",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/ddd001.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "64658"
@@ -6252,10 +7134,16 @@
       "AdditionalProductImages": []
     },
     {
-      "Price": { "Value": 3.49, "Currency": "£" },
+      "Price": {
+        "Value": 3.49,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "First Personalised Birthday Card",
-      "ProductCategory": { "ProductCategoryId": 1, "Name": "greeting cards" },
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
       "PhotoUploadCount": 14,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -6271,7 +7159,7 @@
       "SeoPath": "first-personalised-birthday-card",
       "ProductCategoryGroupSeoPath": "personalised-cards/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=pue235",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/pue235.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "67619"
@@ -6294,10 +7182,16 @@
       "AdditionalProductImages": []
     },
     {
-      "Price": { "Value": 3.29, "Currency": "£" },
+      "Price": {
+        "Value": 3.29,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "Personalised Funny Comic Now Reduce The Wine Card",
-      "ProductCategory": { "ProductCategoryId": 1, "Name": "greeting cards" },
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
       "PhotoUploadCount": 0,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -6313,7 +7207,7 @@
       "SeoPath": "personalised-funny-comic-now-reduce-the-wine-card",
       "ProductCategoryGroupSeoPath": "personalised-cards/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=lw016",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/lw016.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "36896"
@@ -6336,10 +7230,16 @@
       "AdditionalProductImages": []
     },
     {
-      "Price": { "Value": 3.49, "Currency": "£" },
+      "Price": {
+        "Value": 3.49,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "40th Birthday Photo Upload Card ",
-      "ProductCategory": { "ProductCategoryId": 1, "Name": "greeting cards" },
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
       "PhotoUploadCount": 5,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -6355,7 +7255,7 @@
       "SeoPath": "40th-birthday-photo-upload-card",
       "ProductCategoryGroupSeoPath": "personalised-cards/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=pue336",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/pue336.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "94063"
@@ -6378,10 +7278,16 @@
       "AdditionalProductImages": []
     },
     {
-      "Price": { "Value": 18.0, "Currency": "£" },
+      "Price": {
+        "Value": 18,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "Girlie Letterbox Gift",
-      "ProductCategory": { "ProductCategoryId": 33, "Name": "letterbox gifts" },
+      "ProductCategory": {
+        "ProductCategoryId": 33,
+        "Name": "letterbox gifts"
+      },
       "PhotoUploadCount": 0,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -6397,7 +7303,7 @@
       "SeoPath": "girlie-letterbox-gift",
       "ProductCategoryGroupSeoPath": "gifts/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=lbxg006",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/lbxg006.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "86888"
@@ -6439,10 +7345,16 @@
       ]
     },
     {
-      "Price": { "Value": 3.49, "Currency": "£" },
+      "Price": {
+        "Value": 3.49,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "Me To You Mum's Birthday Card",
-      "ProductCategory": { "ProductCategoryId": 1, "Name": "greeting cards" },
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
       "PhotoUploadCount": 0,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -6458,7 +7370,7 @@
       "SeoPath": "me-to-you-mums-birthday-card",
       "ProductCategoryGroupSeoPath": "personalised-cards/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=mtu096",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/mtu096.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "73826"
@@ -6481,10 +7393,16 @@
       "AdditionalProductImages": []
     },
     {
-      "Price": { "Value": 3.29, "Currency": "£" },
+      "Price": {
+        "Value": 3.29,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "Funny Anniversary Card",
-      "ProductCategory": { "ProductCategoryId": 1, "Name": "greeting cards" },
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
       "PhotoUploadCount": 0,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -6500,7 +7418,7 @@
       "SeoPath": "funny-anniversary-card",
       "ProductCategoryGroupSeoPath": "personalised-cards/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=ddd002",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/ddd002.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "64659"
@@ -6523,10 +7441,16 @@
       "AdditionalProductImages": []
     },
     {
-      "Price": { "Value": 3.49, "Currency": "£" },
+      "Price": {
+        "Value": 3.49,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "Bright Block Letters Thank You Photo Card",
-      "ProductCategory": { "ProductCategoryId": 1, "Name": "greeting cards" },
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
       "PhotoUploadCount": 1,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -6542,7 +7466,7 @@
       "SeoPath": "bright-block-letters-thank-you-photo-card",
       "ProductCategoryGroupSeoPath": "personalised-cards/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=dsty015",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/dsty015.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "92654"
@@ -6565,10 +7489,16 @@
       "AdditionalProductImages": []
     },
     {
-      "Price": { "Value": 3.29, "Currency": "£" },
+      "Price": {
+        "Value": 3.29,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "13th Birthday Card",
-      "ProductCategory": { "ProductCategoryId": 1, "Name": "greeting cards" },
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
       "PhotoUploadCount": 0,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -6584,7 +7514,7 @@
       "SeoPath": "13th-birthday-card",
       "ProductCategoryGroupSeoPath": "personalised-cards/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=ddd004",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/ddd004.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "64661"
@@ -6607,10 +7537,16 @@
       "AdditionalProductImages": []
     },
     {
-      "Price": { "Value": 3.49, "Currency": "£" },
+      "Price": {
+        "Value": 3.49,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "Personalised Anniversary Card",
-      "ProductCategory": { "ProductCategoryId": 1, "Name": "greeting cards" },
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
       "PhotoUploadCount": 11,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -6626,7 +7562,7 @@
       "SeoPath": "personalised-anniversary-card",
       "ProductCategoryGroupSeoPath": "personalised-cards/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=pu959",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/pu959.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "30027"
@@ -6649,10 +7585,16 @@
       "AdditionalProductImages": []
     },
     {
-      "Price": { "Value": 3.49, "Currency": "£" },
+      "Price": {
+        "Value": 3.49,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "Happy Birthday Sister Heart Photo Upload Card",
-      "ProductCategory": { "ProductCategoryId": 1, "Name": "greeting cards" },
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
       "PhotoUploadCount": 1,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -6668,7 +7610,7 @@
       "SeoPath": "happy-birthday-sister-heart-photo-upload-card",
       "ProductCategoryGroupSeoPath": "personalised-cards/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=thn037",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/thn037.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "90155"
@@ -6691,10 +7633,16 @@
       "AdditionalProductImages": []
     },
     {
-      "Price": { "Value": 3.29, "Currency": "£" },
+      "Price": {
+        "Value": 3.29,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "Friends Are For Life Personalised Birthday Card",
-      "ProductCategory": { "ProductCategoryId": 1, "Name": "greeting cards" },
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
       "PhotoUploadCount": 0,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -6710,7 +7658,7 @@
       "SeoPath": "friends-are-for-life-personalised-birthday-card",
       "ProductCategoryGroupSeoPath": "personalised-cards/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=mlk017",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/mlk017.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "31029"
@@ -6733,10 +7681,16 @@
       "AdditionalProductImages": []
     },
     {
-      "Price": { "Value": 3.29, "Currency": "£" },
+      "Price": {
+        "Value": 3.29,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "Personalised Names You Better Get Cooking Anniversary Card",
-      "ProductCategory": { "ProductCategoryId": 1, "Name": "greeting cards" },
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
       "PhotoUploadCount": 0,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -6752,7 +7706,7 @@
       "SeoPath": "personalised-names-you-better-get-cooking-anniversary-card",
       "ProductCategoryGroupSeoPath": "personalised-cards/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=ddd064",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/ddd064.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "71131"
@@ -6775,10 +7729,16 @@
       "AdditionalProductImages": []
     },
     {
-      "Price": { "Value": 3.49, "Currency": "£" },
+      "Price": {
+        "Value": 3.49,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "Boofle Birthday Card",
-      "ProductCategory": { "ProductCategoryId": 1, "Name": "greeting cards" },
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
       "PhotoUploadCount": 0,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -6794,7 +7754,7 @@
       "SeoPath": "boofle-birthday-card",
       "ProductCategoryGroupSeoPath": "personalised-cards/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=boof003",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/boof003.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "71556"
@@ -6817,10 +7777,16 @@
       "AdditionalProductImages": []
     },
     {
-      "Price": { "Value": 3.49, "Currency": "£" },
+      "Price": {
+        "Value": 3.49,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "Birthday Card - Mr Men - Little Miss - funny card - night out",
-      "ProductCategory": { "ProductCategoryId": 1, "Name": "greeting cards" },
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
       "PhotoUploadCount": 0,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -6836,7 +7802,7 @@
       "SeoPath": "birthday-card-mr-men-little-miss-funny-card-night-out",
       "ProductCategoryGroupSeoPath": "personalised-cards/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=mmn089",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/mmn089.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "91373"
@@ -6859,10 +7825,16 @@
       "AdditionalProductImages": []
     },
     {
-      "Price": { "Value": 3.49, "Currency": "£" },
+      "Price": {
+        "Value": 3.49,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "Photo 50th Birthday Card",
-      "ProductCategory": { "ProductCategoryId": 1, "Name": "greeting cards" },
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
       "PhotoUploadCount": 4,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -6878,7 +7850,7 @@
       "SeoPath": "photo-50th-birthday-card",
       "ProductCategoryGroupSeoPath": "personalised-cards/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=pue289",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/pue289.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "84289"
@@ -6901,10 +7873,16 @@
       "AdditionalProductImages": []
     },
     {
-      "Price": { "Value": 21.996, "Currency": "£" },
+      "Price": {
+        "Value": 21.996,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "The Letterbox Fairtrade Roses",
-      "ProductCategory": { "ProductCategoryId": 10, "Name": "flowers" },
+      "ProductCategory": {
+        "ProductCategoryId": 10,
+        "Name": "flowers"
+      },
       "PhotoUploadCount": 0,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -6920,7 +7898,7 @@
       "SeoPath": "letterbox-fairtrade-mixed-roses",
       "ProductCategoryGroupSeoPath": "flowers-and-plants/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=ar239623",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/ar239623.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "85530"
@@ -6980,10 +7958,16 @@
       ]
     },
     {
-      "Price": { "Value": 3.49, "Currency": "£" },
+      "Price": {
+        "Value": 3.49,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "Photo Anniversary Card",
-      "ProductCategory": { "ProductCategoryId": 1, "Name": "greeting cards" },
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
       "PhotoUploadCount": 4,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -6999,7 +7983,7 @@
       "SeoPath": "photo-anniversary-card",
       "ProductCategoryGroupSeoPath": "personalised-cards/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=pue202",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/pue202.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "49796"
@@ -7022,10 +8006,16 @@
       "AdditionalProductImages": []
     },
     {
-      "Price": { "Value": 3.49, "Currency": "£" },
+      "Price": {
+        "Value": 3.49,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "Photo Heart Anniversary Cards",
-      "ProductCategory": { "ProductCategoryId": 1, "Name": "greeting cards" },
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
       "PhotoUploadCount": 12,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -7041,7 +8031,7 @@
       "SeoPath": "photo-heart-anniversary-cards",
       "ProductCategoryGroupSeoPath": "personalised-cards/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=pav023",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/pav023.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "51174"
@@ -7064,10 +8054,16 @@
       "AdditionalProductImages": []
     },
     {
-      "Price": { "Value": 3.49, "Currency": "£" },
+      "Price": {
+        "Value": 3.49,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "Photo upload card - thank you card - watercolour",
-      "ProductCategory": { "ProductCategoryId": 1, "Name": "greeting cards" },
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
       "PhotoUploadCount": 7,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -7083,7 +8079,7 @@
       "SeoPath": "photo-upload-card-thank-you-card-watercolour",
       "ProductCategoryGroupSeoPath": "personalised-cards/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=pai042",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/pai042.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "91978"
@@ -7106,10 +8102,16 @@
       "AdditionalProductImages": []
     },
     {
-      "Price": { "Value": 3.49, "Currency": "£" },
+      "Price": {
+        "Value": 3.49,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "Tatty Teddy Photo upload Card - Happy Birthday to my amazing Boyfriend",
-      "ProductCategory": { "ProductCategoryId": 1, "Name": "greeting cards" },
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
       "PhotoUploadCount": 1,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -7125,7 +8127,7 @@
       "SeoPath": "tatty-teddy-photo-upload-card-happy-birthday-to-my-amazing-boyfriend",
       "ProductCategoryGroupSeoPath": "personalised-cards/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=mtu309",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/mtu309.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "94288"
@@ -7148,10 +8150,16 @@
       "AdditionalProductImages": []
     },
     {
-      "Price": { "Value": 20.004, "Currency": "£" },
+      "Price": {
+        "Value": 20.004,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "The Rainbow Chrysanthemums",
-      "ProductCategory": { "ProductCategoryId": 10, "Name": "flowers" },
+      "ProductCategory": {
+        "ProductCategoryId": 10,
+        "Name": "flowers"
+      },
       "PhotoUploadCount": 0,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -7167,7 +8175,7 @@
       "SeoPath": "rainbow-chrysanthemums",
       "ProductCategoryGroupSeoPath": "flowers-and-plants/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=ar239622",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/ar239622.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "85433"
@@ -7227,10 +8235,16 @@
       ]
     },
     {
-      "Price": { "Value": 21.996, "Currency": "£" },
+      "Price": {
+        "Value": 21.996,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "The Yellow Rose Duo",
-      "ProductCategory": { "ProductCategoryId": 10, "Name": "flowers" },
+      "ProductCategory": {
+        "ProductCategoryId": 10,
+        "Name": "flowers"
+      },
       "PhotoUploadCount": 0,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -7246,7 +8260,7 @@
       "SeoPath": "the-yellow-rose-duo",
       "ProductCategoryGroupSeoPath": "flowers-and-plants/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=ar411565",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/ar411565.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "94612"
@@ -7297,10 +8311,16 @@
       ]
     },
     {
-      "Price": { "Value": 3.29, "Currency": "£" },
+      "Price": {
+        "Value": 3.29,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "Funny Birthday card - Here's wishing you a birthday that wucking fonderful!",
-      "ProductCategory": { "ProductCategoryId": 1, "Name": "greeting cards" },
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
       "PhotoUploadCount": 0,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -7316,7 +8336,7 @@
       "SeoPath": "funny-birthday-card-heres-wishing-you-a-birthday-that-wucking-fonderful",
       "ProductCategoryGroupSeoPath": "personalised-cards/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=wyw025",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/wyw025.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "94442"
@@ -7339,10 +8359,16 @@
       "AdditionalProductImages": []
     },
     {
-      "Price": { "Value": 3.29, "Currency": "£" },
+      "Price": {
+        "Value": 3.29,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "It's Not The Years In Your Life That Count Personalised Happy Birthday Card",
-      "ProductCategory": { "ProductCategoryId": 1, "Name": "greeting cards" },
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
       "PhotoUploadCount": 0,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -7358,7 +8384,7 @@
       "SeoPath": "its-not-the-years-in-your-life-that-count-personalised-happy-birthday-card",
       "ProductCategoryGroupSeoPath": "personalised-cards/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=mlk008",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/mlk008.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "31016"
@@ -7381,10 +8407,16 @@
       "AdditionalProductImages": []
     },
     {
-      "Price": { "Value": 3.49, "Currency": "£" },
+      "Price": {
+        "Value": 3.49,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "Boofle Just To Say I Love You Multi-Photo Cute Valentines Day Card",
-      "ProductCategory": { "ProductCategoryId": 1, "Name": "greeting cards" },
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
       "PhotoUploadCount": 3,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -7400,7 +8432,7 @@
       "SeoPath": "boofle-just-to-say-i-love-you-multiphoto-cute-valentines-day-card",
       "ProductCategoryGroupSeoPath": "personalised-cards/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=boof108",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/boof108.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "93874"
@@ -7423,10 +8455,16 @@
       "AdditionalProductImages": []
     },
     {
-      "Price": { "Value": 3.29, "Currency": "£" },
+      "Price": {
+        "Value": 3.29,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "Funny Birthday Card",
-      "ProductCategory": { "ProductCategoryId": 1, "Name": "greeting cards" },
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
       "PhotoUploadCount": 0,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -7442,7 +8480,7 @@
       "SeoPath": "funny-birthday-card",
       "ProductCategoryGroupSeoPath": "personalised-cards/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=ddd056",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/ddd056.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "68485"
@@ -7465,10 +8503,16 @@
       "AdditionalProductImages": []
     },
     {
-      "Price": { "Value": 3.49, "Currency": "£" },
+      "Price": {
+        "Value": 3.49,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "Minions Brilliant Nephew Birthday Card ",
-      "ProductCategory": { "ProductCategoryId": 1, "Name": "greeting cards" },
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
       "PhotoUploadCount": 0,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -7484,7 +8528,7 @@
       "SeoPath": "minions-brilliant-nephew-birthday-card",
       "ProductCategoryGroupSeoPath": "personalised-cards/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=dme035",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/dme035.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "94707"
@@ -7507,10 +8551,16 @@
       "AdditionalProductImages": []
     },
     {
-      "Price": { "Value": 26.004, "Currency": "£" },
+      "Price": {
+        "Value": 26.004,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "The Rose & Lily",
-      "ProductCategory": { "ProductCategoryId": 10, "Name": "flowers" },
+      "ProductCategory": {
+        "ProductCategoryId": 10,
+        "Name": "flowers"
+      },
       "PhotoUploadCount": 0,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -7526,7 +8576,7 @@
       "SeoPath": "rose-and-lily",
       "ProductCategoryGroupSeoPath": "flowers-and-plants/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=ar239254",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/ar239254.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "83986"
@@ -7586,10 +8636,16 @@
       ]
     },
     {
-      "Price": { "Value": 3.29, "Currency": "£" },
+      "Price": {
+        "Value": 3.29,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "Personalised Sister's Birthday Card.",
-      "ProductCategory": { "ProductCategoryId": 1, "Name": "greeting cards" },
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
       "PhotoUploadCount": 0,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -7605,7 +8661,7 @@
       "SeoPath": "personalised-sisters-birthday-card",
       "ProductCategoryGroupSeoPath": "personalised-cards/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=edm014",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/edm014.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "25593"
@@ -7628,10 +8684,16 @@
       "AdditionalProductImages": []
     },
     {
-      "Price": { "Value": 3.29, "Currency": "£" },
+      "Price": {
+        "Value": 3.29,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "Funny Birthday Card",
-      "ProductCategory": { "ProductCategoryId": 1, "Name": "greeting cards" },
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
       "PhotoUploadCount": 0,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -7647,7 +8709,7 @@
       "SeoPath": "funny-birthday-card",
       "ProductCategoryGroupSeoPath": "personalised-cards/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=pp754",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/pp754.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "78059"
@@ -7670,10 +8732,16 @@
       "AdditionalProductImages": []
     },
     {
-      "Price": { "Value": 3.49, "Currency": "£" },
+      "Price": {
+        "Value": 3.49,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "First Birthday Card",
-      "ProductCategory": { "ProductCategoryId": 1, "Name": "greeting cards" },
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
       "PhotoUploadCount": 8,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -7689,7 +8757,7 @@
       "SeoPath": "first-birthday-card",
       "ProductCategoryGroupSeoPath": "personalised-cards/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=pue230",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/pue230.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "67613"
@@ -7712,10 +8780,16 @@
       "AdditionalProductImages": []
     },
     {
-      "Price": { "Value": 3.49, "Currency": "£" },
+      "Price": {
+        "Value": 3.49,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "Black Script Lettering Love You Dad Photo Card",
-      "ProductCategory": { "ProductCategoryId": 1, "Name": "greeting cards" },
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
       "PhotoUploadCount": 1,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -7731,7 +8805,7 @@
       "SeoPath": "black-script-lettering-love-you-dad-photo-card",
       "ProductCategoryGroupSeoPath": "personalised-cards/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=pue317",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/pue317.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "85003"
@@ -7754,10 +8828,16 @@
       "AdditionalProductImages": []
     },
     {
-      "Price": { "Value": 3.49, "Currency": "£" },
+      "Price": {
+        "Value": 3.49,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "Happy Birthday Grandad - Birthday Card For Grandad",
-      "ProductCategory": { "ProductCategoryId": 1, "Name": "greeting cards" },
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
       "PhotoUploadCount": 3,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -7773,7 +8853,7 @@
       "SeoPath": "happy-birthday-grandad-birthday-card-for-grandad",
       "ProductCategoryGroupSeoPath": "personalised-cards/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=prp039",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/prp039.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "76663"
@@ -7796,10 +8876,16 @@
       "AdditionalProductImages": []
     },
     {
-      "Price": { "Value": 3.49, "Currency": "£" },
+      "Price": {
+        "Value": 3.49,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "Birthday Card - Photo Upload Card - Most Amazing Mum ",
-      "ProductCategory": { "ProductCategoryId": 1, "Name": "greeting cards" },
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
       "PhotoUploadCount": 4,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -7815,7 +8901,7 @@
       "SeoPath": "birthday-card-photo-upload-card-most-amazing-mum",
       "ProductCategoryGroupSeoPath": "personalised-cards/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=pue364",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/pue364.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "95077"
@@ -7832,16 +8918,22 @@
       "Reviews": {
         "MinReviewData": 0,
         "MaxReviewData": 0,
-        "AverageStarReviewRating": 5.0,
+        "AverageStarReviewRating": 5,
         "ReviewCount": 13
       },
       "AdditionalProductImages": []
     },
     {
-      "Price": { "Value": 3.29, "Currency": "£" },
+      "Price": {
+        "Value": 3.29,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "Custom Wedding Anniversary Card",
-      "ProductCategory": { "ProductCategoryId": 1, "Name": "greeting cards" },
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
       "PhotoUploadCount": 0,
       "CardShopId": 1,
       "DirectSmile": true,
@@ -7857,7 +8949,7 @@
       "SeoPath": "custom-wedding-anniversary-card",
       "ProductCategoryGroupSeoPath": "personalised-cards/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=ll1121",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/ll1121.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "70512"
@@ -7880,10 +8972,16 @@
       "AdditionalProductImages": []
     },
     {
-      "Price": { "Value": 3.49, "Currency": "£" },
+      "Price": {
+        "Value": 3.49,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "Mr & Mrs Photo Upload Card",
-      "ProductCategory": { "ProductCategoryId": 1, "Name": "greeting cards" },
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
       "PhotoUploadCount": 1,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -7899,7 +8997,7 @@
       "SeoPath": "mr-mrs-photo-upload-card",
       "ProductCategoryGroupSeoPath": "personalised-cards/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=pus088",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/pus088.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "91361"
@@ -7922,10 +9020,16 @@
       "AdditionalProductImages": []
     },
     {
-      "Price": { "Value": 3.49, "Currency": "£" },
+      "Price": {
+        "Value": 3.49,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "Happy Birthday Party Card",
-      "ProductCategory": { "ProductCategoryId": 1, "Name": "greeting cards" },
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
       "PhotoUploadCount": 1,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -7941,7 +9045,7 @@
       "SeoPath": "happy-birthday-party-card",
       "ProductCategoryGroupSeoPath": "personalised-cards/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=icg002",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/icg002.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "77913"
@@ -7964,10 +9068,16 @@
       "AdditionalProductImages": []
     },
     {
-      "Price": { "Value": 3.29, "Currency": "£" },
+      "Price": {
+        "Value": 3.29,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "Have A Fabulous Birthday",
-      "ProductCategory": { "ProductCategoryId": 1, "Name": "greeting cards" },
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
       "PhotoUploadCount": 0,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -7983,7 +9093,7 @@
       "SeoPath": "have-a-fabulous-birthday",
       "ProductCategoryGroupSeoPath": "personalised-cards/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=empr001",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/empr001.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "76656"
@@ -8006,10 +9116,16 @@
       "AdditionalProductImages": []
     },
     {
-      "Price": { "Value": 3.29, "Currency": "£" },
+      "Price": {
+        "Value": 3.29,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "Personalised Funny Penguins And Amazon Face Mask Card",
-      "ProductCategory": { "ProductCategoryId": 1, "Name": "greeting cards" },
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
       "PhotoUploadCount": 0,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -8025,7 +9141,7 @@
       "SeoPath": "personalised-funny-penguins-and-amazon-face-mask-card",
       "ProductCategoryGroupSeoPath": "personalised-cards/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=be308",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/be308.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "36479"
@@ -8048,10 +9164,16 @@
       "AdditionalProductImages": []
     },
     {
-      "Price": { "Value": 3.29, "Currency": "£" },
+      "Price": {
+        "Value": 3.29,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "Funny Personalised Birthday Card",
-      "ProductCategory": { "ProductCategoryId": 1, "Name": "greeting cards" },
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
       "PhotoUploadCount": 0,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -8067,7 +9189,7 @@
       "SeoPath": "funny-personalised-birthday-card",
       "ProductCategoryGroupSeoPath": "personalised-cards/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=vv774",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/vv774.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "52482"
@@ -8090,10 +9212,16 @@
       "AdditionalProductImages": []
     },
     {
-      "Price": { "Value": 3.49, "Currency": "£" },
+      "Price": {
+        "Value": 3.49,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "Baby Shark song photo upload kids Birthday card",
-      "ProductCategory": { "ProductCategoryId": 1, "Name": "greeting cards" },
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
       "PhotoUploadCount": 1,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -8109,7 +9237,7 @@
       "SeoPath": "baby-shark-song-photo-upload-kids-birthday-card",
       "ProductCategoryGroupSeoPath": "personalised-cards/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=bsk001",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/bsk001.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "95685"
@@ -8132,10 +9260,16 @@
       "AdditionalProductImages": []
     },
     {
-      "Price": { "Value": 3.49, "Currency": "£" },
+      "Price": {
+        "Value": 3.49,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "Anniversary Card - Photo Upload Card",
-      "ProductCategory": { "ProductCategoryId": 1, "Name": "greeting cards" },
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
       "PhotoUploadCount": 3,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -8151,7 +9285,7 @@
       "SeoPath": "anniversary-card-photo-upload-card",
       "ProductCategoryGroupSeoPath": "personalised-cards/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=pav090",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/pav090.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "92890"
@@ -8174,10 +9308,16 @@
       "AdditionalProductImages": []
     },
     {
-      "Price": { "Value": 3.29, "Currency": "£" },
+      "Price": {
+        "Value": 3.29,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "Funny From Your Brother Happy Birthday Sister Card",
-      "ProductCategory": { "ProductCategoryId": 1, "Name": "greeting cards" },
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
       "PhotoUploadCount": 0,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -8193,7 +9333,7 @@
       "SeoPath": "funny-from-your-brother-happy-birthday-sister-card",
       "ProductCategoryGroupSeoPath": "personalised-cards/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=ddd081",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/ddd081.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "74376"
@@ -8216,10 +9356,16 @@
       "AdditionalProductImages": []
     },
     {
-      "Price": { "Value": 3.49, "Currency": "£" },
+      "Price": {
+        "Value": 3.49,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "Happy Anniversary Card",
-      "ProductCategory": { "ProductCategoryId": 1, "Name": "greeting cards" },
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
       "PhotoUploadCount": 9,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -8235,7 +9381,7 @@
       "SeoPath": "happy-anniversary-card",
       "ProductCategoryGroupSeoPath": "personalised-cards/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=pu1103",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/pu1103.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "70554"
@@ -8258,10 +9404,16 @@
       "AdditionalProductImages": []
     },
     {
-      "Price": { "Value": 3.49, "Currency": "£" },
+      "Price": {
+        "Value": 3.49,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "LOL Surprise Special Daughter Photo Upload Birthday Card ",
-      "ProductCategory": { "ProductCategoryId": 1, "Name": "greeting cards" },
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
       "PhotoUploadCount": 1,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -8277,7 +9429,7 @@
       "SeoPath": "lol-surprise-special-daughter-photo-upload-birthday-card",
       "ProductCategoryGroupSeoPath": "personalised-cards/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=los002",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/los002.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "95793"
@@ -8300,10 +9452,16 @@
       "AdditionalProductImages": []
     },
     {
-      "Price": { "Value": 3.29, "Currency": "£" },
+      "Price": {
+        "Value": 3.29,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "All The Birds can't Get Used To The Wireless Technology Personalised Card",
-      "ProductCategory": { "ProductCategoryId": 1, "Name": "greeting cards" },
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
       "PhotoUploadCount": 0,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -8319,7 +9477,7 @@
       "SeoPath": "all-the-birds-cant-get-used-to-the-wireless-technology-personalised-card",
       "ProductCategoryGroupSeoPath": "personalised-cards/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=bwt001",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/bwt001.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "42910"
@@ -8342,10 +9500,16 @@
       "AdditionalProductImages": []
     },
     {
-      "Price": { "Value": 3.29, "Currency": "£" },
+      "Price": {
+        "Value": 3.29,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "Funny Birthday Card - Kitchen ",
-      "ProductCategory": { "ProductCategoryId": 1, "Name": "greeting cards" },
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
       "PhotoUploadCount": 0,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -8361,7 +9525,7 @@
       "SeoPath": "funny-birthday-card-kitchen",
       "ProductCategoryGroupSeoPath": "personalised-cards/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=ddd116",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/ddd116.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "94256"
@@ -8384,10 +9548,16 @@
       "AdditionalProductImages": []
     },
     {
-      "Price": { "Value": 3.29, "Currency": "£" },
+      "Price": {
+        "Value": 3.29,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "Personalised Dad's Birthday Card.",
-      "ProductCategory": { "ProductCategoryId": 1, "Name": "greeting cards" },
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
       "PhotoUploadCount": 0,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -8403,7 +9573,7 @@
       "SeoPath": "personalised-dads-birthday-card",
       "ProductCategoryGroupSeoPath": "personalised-cards/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=ddd054",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/ddd054.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "68481"
@@ -8426,10 +9596,16 @@
       "AdditionalProductImages": []
     },
     {
-      "Price": { "Value": 3.29, "Currency": "£" },
+      "Price": {
+        "Value": 3.29,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "Funny Birthday Card - Why simply be drunk when you can be pink gin drunk",
-      "ProductCategory": { "ProductCategoryId": 1, "Name": "greeting cards" },
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
       "PhotoUploadCount": 0,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -8445,7 +9621,7 @@
       "SeoPath": "funny-birthday-card-why-simply-be-drunk-when-you-can-be-pink-gin-drunk",
       "ProductCategoryGroupSeoPath": "personalised-cards/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=lpt001",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/lpt001.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "95859"
@@ -8468,10 +9644,16 @@
       "AdditionalProductImages": []
     },
     {
-      "Price": { "Value": 3.49, "Currency": "£" },
+      "Price": {
+        "Value": 3.49,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "Happy 40th Birthday Card - Photo Birthday Card For Men",
-      "ProductCategory": { "ProductCategoryId": 1, "Name": "greeting cards" },
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
       "PhotoUploadCount": 2,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -8487,7 +9669,7 @@
       "SeoPath": "happy-40th-birthday-card-photo-birthday-card-for-men",
       "ProductCategoryGroupSeoPath": "personalised-cards/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=prp020",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/prp020.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "72558"
@@ -8510,10 +9692,16 @@
       "AdditionalProductImages": []
     },
     {
-      "Price": { "Value": 3.29, "Currency": "£" },
+      "Price": {
+        "Value": 3.29,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "Funny 50th Birthday Card For Women",
-      "ProductCategory": { "ProductCategoryId": 1, "Name": "greeting cards" },
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
       "PhotoUploadCount": 0,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -8529,7 +9717,7 @@
       "SeoPath": "funny-50th-birthday-card-for-women",
       "ProductCategoryGroupSeoPath": "personalised-cards/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=ddd048",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/ddd048.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "68455"
@@ -8552,10 +9740,16 @@
       "AdditionalProductImages": []
     },
     {
-      "Price": { "Value": 3.29, "Currency": "£" },
+      "Price": {
+        "Value": 3.29,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "Happy Jackson Bestest Daddy In The Whole Wide World Photo Card",
-      "ProductCategory": { "ProductCategoryId": 1, "Name": "greeting cards" },
+      "ProductCategory": {
+        "ProductCategoryId": 1,
+        "Name": "greeting cards"
+      },
       "PhotoUploadCount": 3,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -8571,7 +9765,7 @@
       "SeoPath": "happy-jackson-bestest-daddy-in-the-whole-wide-world-photo-card",
       "ProductCategoryGroupSeoPath": "personalised-cards/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=hj113b",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/hj113b.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "97096"
@@ -8594,10 +9788,16 @@
       "AdditionalProductImages": []
     },
     {
-      "Price": { "Value": 9.0, "Currency": "£" },
+      "Price": {
+        "Value": 9,
+        "Currency": "£"
+      },
       "SoldOut": 0,
       "Title": "Birthday Sweet Gifts Jar Large 1.25kg",
-      "ProductCategory": { "ProductCategoryId": 19, "Name": "food gifts" },
+      "ProductCategory": {
+        "ProductCategoryId": 19,
+        "Name": "food gifts"
+      },
       "PhotoUploadCount": 0,
       "CardShopId": 1,
       "DirectSmile": false,
@@ -8613,7 +9813,7 @@
       "SeoPath": "birthday-sweet-gifts-jar-large",
       "ProductCategoryGroupSeoPath": "gifts/",
       "ProductLink": {
-        "Href": "https://www.moonpig.com/uk/api/product/product/?mpn=swee623",
+        "Href": "https://moonpig.github.io/tech-test-frontend/product/swee623.json",
         "Method": "GET",
         "Rel": "self",
         "Title": "93265"
