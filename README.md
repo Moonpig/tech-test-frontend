@@ -50,6 +50,10 @@ Primarily we will be looking at the application code itself - so it's fine to us
 
 It should be possible to statically host the application and it would be great to see it hosted on something like GitHub Pages or AWS S3.
 
+## Testing
+
+At Moonpig we put a big emphasis on automated testing, and so it's important that you consider this as part of your submission.  Please think about what behaviour is important to test, and how to test it.  We use [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/) but feel free to use other libraries.
+
 ## Assessment
 
 We will assess the task based on the following criteria:
