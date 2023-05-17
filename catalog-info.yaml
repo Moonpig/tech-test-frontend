@@ -1,9 +1,0 @@
-apiVersion: backstage.io/v1
-kind: System
-metadata:
-  name: tech-test-frontend
-  annotations:
-    github.com/project-slug: Moonpig/tech-test-frontend
-spec:
-  owner: unknown
-  lifecycle: unknown
